@@ -29,9 +29,8 @@ def rerank_results(results):
 
     reranked.sort(key=lambda x: x["score"], reverse=True)
     return reranked
-    print("DEBUG RERANKED RESULTS:")
-    for r in reranked_results:
-     print(r["score"], r["metadata"])
+   
+    
 
 
 
