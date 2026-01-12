@@ -21,7 +21,7 @@ reranked_results = [
     }
 ]
 
-confidence = calculate_confidance(reranked_results)
+confidence = calculate_confidence(reranked_results)
 decision = make_decision(confidence)
 
 print("Confidence:", confidence)
