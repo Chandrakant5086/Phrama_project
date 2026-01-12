@@ -26,7 +26,7 @@ rerank_results=[
 ]
 
 
-confidence=calculate_confidance(rerank_results)
+confidence=calculate_confidence(rerank_results)
 decision=make_decision(confidence)
 response=generate_answer(queary,rerank_results,decision)
 

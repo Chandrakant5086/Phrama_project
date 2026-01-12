@@ -33,7 +33,7 @@ def generate_answer(query, reranked_results, decision):
 
     if decision == "ANSWER_WITH_WARNING":
         answer += (
-            "\n⚠️ Note: Some information is based on exploratory data "
+            "\n Note: Some information is based on exploratory data "
             "and should be interpreted with caution."
         )
 
