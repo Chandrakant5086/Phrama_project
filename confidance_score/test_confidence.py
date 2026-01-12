@@ -1,5 +1,5 @@
 from Reranker.ml_ranker import rerank_results
-from confidance_score.confi_score import calculate_confidance
+from confidance_score.confi_score import calculate_confidence
 from confidance_score.decision import make_decision
 
 # Simulated reranked results

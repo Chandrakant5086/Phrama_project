@@ -1,6 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+requests
+pydantic
+pytest
 pandas 
 numpy
-sentence-transformers
-FAISS
-FASTAPI
 
