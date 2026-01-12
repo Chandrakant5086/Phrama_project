@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03053
+Scientist: Researcher_A
+Date: 2024-03-29
+Molecule ID: MOL04460
+
+Objective:
+Test solvent impact on yield for MOL04460.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

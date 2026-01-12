@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02045
+Result: PASS
+Details: Center treatment base because hospital poor car.

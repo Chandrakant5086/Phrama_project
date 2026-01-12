@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00562
+Result: PASS
+Details: The example head often most.

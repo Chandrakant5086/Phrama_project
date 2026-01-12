@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00496
+Result: PASS
+Details: Let three whatever budget.

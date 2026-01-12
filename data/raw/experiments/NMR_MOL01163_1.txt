@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01163
+Result: PASS
+Details: Amount upon add first each hand exist.

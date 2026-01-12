@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04034
+Result: PASS
+Details: Avoid well southern.

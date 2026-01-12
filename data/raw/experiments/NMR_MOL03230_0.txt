@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03230
+Result: PASS
+Details: Significant buy similar by wait pretty.

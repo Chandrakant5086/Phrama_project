@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00092
+Scientist: Senior_Scientist_1
+Date: 2023-09-12
+Molecule ID: MOL01121
+
+Objective:
+Investigate impurity formation for MOL01121.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02680
+Scientist: Researcher_B
+Date: 2023-11-22
+Molecule ID: MOL04029
+
+Objective:
+Test solvent impact on yield for MOL04029.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

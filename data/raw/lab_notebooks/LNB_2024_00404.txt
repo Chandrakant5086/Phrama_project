@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00404
+Scientist: Researcher_A
+Date: 2023-10-18
+Molecule ID: MOL03018
+
+Objective:
+Explore alternate synthesis route for MOL03018.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04776
+Result: PASS
+Details: View head traditional true fish above.

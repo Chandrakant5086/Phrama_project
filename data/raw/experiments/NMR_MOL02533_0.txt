@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02533
+Result: PASS
+Details: Performance as week meet eye development local style.

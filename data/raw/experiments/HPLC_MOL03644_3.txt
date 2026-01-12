@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03644
+Result: PASS
+Details: Reveal heavy go left.

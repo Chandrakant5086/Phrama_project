@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02638
+Result: PASS
+Details: Pattern beyond house film bar cup.

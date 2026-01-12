@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03165
+Result: PASS
+Details: Writer stage whom large point decade successful.

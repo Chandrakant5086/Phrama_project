@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00106
+Result: PASS
+Details: Than everything his.

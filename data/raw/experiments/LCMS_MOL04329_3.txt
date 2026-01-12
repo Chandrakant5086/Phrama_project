@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04329
+Result: PASS
+Details: Prevent strong amount quite.

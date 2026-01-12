@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01818
+Scientist: Senior_Scientist_1
+Date: 2024-03-25
+Molecule ID: MOL04651
+
+Objective:
+Explore alternate synthesis route for MOL04651.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04504
+Result: PASS
+Details: Exactly poor real far add.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01643
+Scientist: Researcher_C
+Date: 2024-03-11
+Molecule ID: MOL01425
+
+Objective:
+Investigate impurity formation for MOL01425.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

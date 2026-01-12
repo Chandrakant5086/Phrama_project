@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04749
+Result: PASS
+Details: Picture generation mention why.

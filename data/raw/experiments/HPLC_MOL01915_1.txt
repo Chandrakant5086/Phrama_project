@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01915
+Result: PASS
+Details: Current within speech smile factor moment answer.

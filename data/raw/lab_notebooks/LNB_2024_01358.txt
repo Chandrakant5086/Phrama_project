@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01358
+Scientist: PostDoc_2
+Date: 2023-12-01
+Molecule ID: MOL03227
+
+Objective:
+Validate preliminary reaction conditions for MOL03227.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

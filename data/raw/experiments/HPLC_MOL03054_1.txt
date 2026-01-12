@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03054
+Result: PASS
+Details: Five perform force draw pull.

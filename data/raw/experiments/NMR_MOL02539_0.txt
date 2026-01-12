@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02539
+Result: PASS
+Details: Law close business business.

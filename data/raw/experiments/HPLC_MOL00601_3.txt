@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00601
+Result: PASS
+Details: For just value give.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01638
+Result: PASS
+Details: Can series official challenge.

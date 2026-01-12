@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00298
+Result: PASS
+Details: Town sometimes structure that similar nothing.

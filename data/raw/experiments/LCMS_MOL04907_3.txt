@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04907
+Result: PASS
+Details: Strategy nearly guess option place list apply loss.

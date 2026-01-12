@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03872
+Result: PASS
+Details: Common pay road cell morning leg color.

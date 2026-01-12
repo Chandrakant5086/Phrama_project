@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00331
+Result: PASS
+Details: Do gas third stage prove man forward.

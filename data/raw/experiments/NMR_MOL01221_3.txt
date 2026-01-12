@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01221
+Result: PASS
+Details: Hope drug maybe doctor bag manage.

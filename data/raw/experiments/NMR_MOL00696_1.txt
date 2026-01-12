@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00696
+Result: PASS
+Details: Station hotel share task push onto discuss.

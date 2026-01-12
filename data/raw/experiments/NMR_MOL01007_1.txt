@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01007
+Result: PASS
+Details: Energy that fly.

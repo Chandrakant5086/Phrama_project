@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03663
+Result: PASS
+Details: Increase perhaps up.

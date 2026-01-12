@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02147
+Result: PASS
+Details: Guy cut pressure service.

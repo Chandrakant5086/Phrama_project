@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00758
+Result: PASS
+Details: Side source play true effort.

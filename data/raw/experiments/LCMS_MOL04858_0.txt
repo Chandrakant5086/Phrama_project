@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04858
+Result: PASS
+Details: Trouble require front reduce both.

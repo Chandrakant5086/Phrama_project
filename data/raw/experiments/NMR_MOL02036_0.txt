@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02036
+Result: PASS
+Details: Cultural above lot answer current.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04734
+Result: PASS
+Details: Rich sure sound hotel prepare.

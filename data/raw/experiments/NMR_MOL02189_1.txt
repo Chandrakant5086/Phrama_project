@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02189
+Result: PASS
+Details: Design account rich final alone.

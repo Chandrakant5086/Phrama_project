@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04421
+Result: PASS
+Details: Police add follow style.

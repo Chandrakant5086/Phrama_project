@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00987
+Scientist: PostDoc_2
+Date: 2023-07-23
+Molecule ID: MOL03425
+
+Objective:
+Validate preliminary reaction conditions for MOL03425.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02278
+Result: PASS
+Details: Line cell bit all point use southern.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00588
+Result: PASS
+Details: Image sea member rule.

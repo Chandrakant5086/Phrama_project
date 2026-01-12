@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00068
+Result: PASS
+Details: Set ask quality stuff.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02818
+Result: PASS
+Details: Ask cultural PM later.

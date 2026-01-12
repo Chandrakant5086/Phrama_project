@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02867
+Result: PASS
+Details: High director none sure.

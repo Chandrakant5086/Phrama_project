@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02249
+Result: PASS
+Details: Blood particular design Mr.

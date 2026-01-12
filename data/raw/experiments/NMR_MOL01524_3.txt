@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01524
+Result: PASS
+Details: Strong public generation account man.

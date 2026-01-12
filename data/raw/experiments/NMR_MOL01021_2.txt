@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01021
+Result: PASS
+Details: Difficult population majority save their reduce town also.

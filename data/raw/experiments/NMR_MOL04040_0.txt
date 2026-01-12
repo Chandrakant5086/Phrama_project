@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04040
+Result: PASS
+Details: Prepare effect since road provide other model mission.

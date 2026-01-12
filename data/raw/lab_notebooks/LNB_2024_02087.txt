@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02087
+Scientist: Researcher_C
+Date: 2024-04-03
+Molecule ID: MOL00872
+
+Objective:
+Explore alternate synthesis route for MOL00872.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

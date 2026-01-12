@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04993
+Result: PASS
+Details: Wonder hit play impact word movement.

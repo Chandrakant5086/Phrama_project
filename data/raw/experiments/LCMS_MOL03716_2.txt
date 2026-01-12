@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03716
+Result: PASS
+Details: Perhaps fill hit half choose detail thing.

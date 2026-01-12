@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03585
+Result: PASS
+Details: Whole let study unit pretty talk pull.

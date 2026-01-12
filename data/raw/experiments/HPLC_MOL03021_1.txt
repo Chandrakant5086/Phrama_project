@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03021
+Result: PASS
+Details: Pattern prove show will close.

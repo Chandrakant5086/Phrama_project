@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03391
+Result: PASS
+Details: One wonder baby move score.

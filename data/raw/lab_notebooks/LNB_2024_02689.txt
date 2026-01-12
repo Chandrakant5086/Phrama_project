@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02689
+Scientist: Researcher_A
+Date: 2023-01-13
+Molecule ID: MOL00895
+
+Objective:
+Test solvent impact on yield for MOL00895.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

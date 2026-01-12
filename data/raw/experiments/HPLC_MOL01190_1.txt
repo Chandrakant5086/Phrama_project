@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01190
+Result: PASS
+Details: Available business organization.

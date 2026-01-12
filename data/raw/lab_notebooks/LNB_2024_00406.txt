@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00406
+Scientist: Researcher_B
+Date: 2024-05-05
+Molecule ID: MOL02066
+
+Objective:
+Assess reaction temperature sensitivity for MOL02066.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

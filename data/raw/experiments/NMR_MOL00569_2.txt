@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00569
+Result: PASS
+Details: Beyond child interest feeling.

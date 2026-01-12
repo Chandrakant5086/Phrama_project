@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01211
+Result: PASS
+Details: Perform adult pretty direction pretty.

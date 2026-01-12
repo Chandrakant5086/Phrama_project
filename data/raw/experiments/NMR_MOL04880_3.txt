@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04880
+Result: PASS
+Details: Daughter form candidate table employee process.

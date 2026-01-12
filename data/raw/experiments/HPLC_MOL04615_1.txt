@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04615
+Result: PASS
+Details: Middle stuff write several.

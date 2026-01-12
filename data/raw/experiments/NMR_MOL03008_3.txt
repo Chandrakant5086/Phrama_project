@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03008
+Result: PASS
+Details: Pm again hard kind somebody peace.

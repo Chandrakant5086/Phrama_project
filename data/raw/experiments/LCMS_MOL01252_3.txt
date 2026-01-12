@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01252
+Result: PASS
+Details: Throughout environmental in.

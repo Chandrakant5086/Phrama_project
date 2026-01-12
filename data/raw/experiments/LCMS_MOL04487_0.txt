@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04487
+Result: PASS
+Details: Operation measure never.

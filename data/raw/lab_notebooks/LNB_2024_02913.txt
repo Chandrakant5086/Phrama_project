@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02913
+Scientist: Senior_Scientist_1
+Date: 2024-01-25
+Molecule ID: MOL01635
+
+Objective:
+Explore alternate synthesis route for MOL01635.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

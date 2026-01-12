@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02680
+Result: PASS
+Details: Family road under structure.

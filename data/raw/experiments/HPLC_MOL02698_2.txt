@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02698
+Result: PASS
+Details: Truth light method property expect mouth.

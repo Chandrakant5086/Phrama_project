@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04758
+Result: PASS
+Details: Despite little computer way set half.

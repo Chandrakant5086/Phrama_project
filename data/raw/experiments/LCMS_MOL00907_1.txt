@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00907
+Result: PASS
+Details: Word series blood page.

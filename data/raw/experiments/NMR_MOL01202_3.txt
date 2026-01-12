@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01202
+Result: PASS
+Details: Power say cold firm.

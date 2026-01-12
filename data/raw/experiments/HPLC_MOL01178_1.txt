@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01178
+Result: PASS
+Details: General fast hold knowledge occur.

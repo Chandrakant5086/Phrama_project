@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00856
+Scientist: Senior_Scientist_1
+Date: 2024-03-28
+Molecule ID: MOL01437
+
+Objective:
+Assess reaction temperature sensitivity for MOL01437.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

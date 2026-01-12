@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01622
+Result: PASS
+Details: Provide turn left fight goal.

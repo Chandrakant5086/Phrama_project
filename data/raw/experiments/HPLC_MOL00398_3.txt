@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00398
+Result: PASS
+Details: Then first blue ok want thought.

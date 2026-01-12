@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01551
+Result: PASS
+Details: Operation water night with discover.

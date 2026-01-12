@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01133
+Result: PASS
+Details: Receive near trip hour.

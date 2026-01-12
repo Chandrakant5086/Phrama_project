@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04489
+Result: PASS
+Details: Name central community majority.

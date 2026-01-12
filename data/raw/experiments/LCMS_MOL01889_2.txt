@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01889
+Result: PASS
+Details: Necessary culture idea whole.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02795
+Result: PASS
+Details: Team share away activity final offer.

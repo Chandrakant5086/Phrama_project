@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03510
+Result: PASS
+Details: Fine century water close once.

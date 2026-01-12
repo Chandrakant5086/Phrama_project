@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04845
+Result: PASS
+Details: First collection character though mouth significant use.

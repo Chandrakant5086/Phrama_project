@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00163
+Result: PASS
+Details: Study various group but fund world this.

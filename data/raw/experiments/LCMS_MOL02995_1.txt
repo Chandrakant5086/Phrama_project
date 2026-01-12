@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02995
+Result: PASS
+Details: Media choice something war only.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04790
+Result: PASS
+Details: Up expect difficult or tax.

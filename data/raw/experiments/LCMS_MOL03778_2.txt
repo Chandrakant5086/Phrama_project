@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03778
+Result: PASS
+Details: Reveal street color talk case.

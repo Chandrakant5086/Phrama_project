@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03404
+Result: PASS
+Details: Seven part value two minute work notice.

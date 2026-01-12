@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02264
+Result: PASS
+Details: These seek clear evening sea start.

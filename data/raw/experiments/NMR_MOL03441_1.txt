@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03441
+Result: PASS
+Details: Catch commercial hot fund.

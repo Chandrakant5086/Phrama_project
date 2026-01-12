@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03478
+Result: PASS
+Details: Work soon require.

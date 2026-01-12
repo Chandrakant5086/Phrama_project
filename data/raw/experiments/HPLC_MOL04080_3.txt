@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04080
+Result: PASS
+Details: Run bank white note bar final.

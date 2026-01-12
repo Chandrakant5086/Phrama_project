@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03765
+Result: PASS
+Details: White ball nor.

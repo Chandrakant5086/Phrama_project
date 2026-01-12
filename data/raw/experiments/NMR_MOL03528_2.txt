@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03528
+Result: PASS
+Details: Lead figure campaign especially bed pressure reveal.

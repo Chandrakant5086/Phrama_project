@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01787
+Scientist: Researcher_C
+Date: 2024-01-28
+Molecule ID: MOL03344
+
+Objective:
+Explore alternate synthesis route for MOL03344.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

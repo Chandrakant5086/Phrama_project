@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04879
+Result: PASS
+Details: Actually reflect culture site method office.

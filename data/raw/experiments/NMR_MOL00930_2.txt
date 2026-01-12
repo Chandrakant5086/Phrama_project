@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00930
+Result: PASS
+Details: Stuff region budget dog.

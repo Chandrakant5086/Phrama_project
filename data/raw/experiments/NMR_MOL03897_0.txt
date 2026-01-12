@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03897
+Result: PASS
+Details: Professor second amount.

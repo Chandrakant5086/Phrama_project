@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04369
+Result: PASS
+Details: Fine sound college amount tree.

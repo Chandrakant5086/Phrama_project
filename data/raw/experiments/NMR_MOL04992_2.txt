@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04992
+Result: PASS
+Details: Become wrong avoid season.

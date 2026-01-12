@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02293
+Result: PASS
+Details: Check effort public pattern up.

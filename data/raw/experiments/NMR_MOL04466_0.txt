@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04466
+Result: PASS
+Details: Year control reveal take despite likely evening.

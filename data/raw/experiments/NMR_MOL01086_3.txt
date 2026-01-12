@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01086
+Result: PASS
+Details: Large decide prepare follow early.

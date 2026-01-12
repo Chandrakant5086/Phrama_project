@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03886
+Result: PASS
+Details: Real measure professional hard rule special we special.

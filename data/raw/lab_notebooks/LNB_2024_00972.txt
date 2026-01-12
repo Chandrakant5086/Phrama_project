@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00972
+Scientist: Researcher_C
+Date: 2024-02-04
+Molecule ID: MOL02965
+
+Objective:
+Explore alternate synthesis route for MOL02965.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

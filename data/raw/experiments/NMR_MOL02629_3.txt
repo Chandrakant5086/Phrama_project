@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02629
+Result: PASS
+Details: Time performance bring beyond.

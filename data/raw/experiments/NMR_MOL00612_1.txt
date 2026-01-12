@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00612
+Result: PASS
+Details: Increase end us should describe human.

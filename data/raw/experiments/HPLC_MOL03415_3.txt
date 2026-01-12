@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03415
+Result: PASS
+Details: Apply ask model agency.

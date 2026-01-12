@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00376
+Result: PASS
+Details: Product final need opportunity too.

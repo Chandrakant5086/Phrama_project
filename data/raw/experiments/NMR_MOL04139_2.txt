@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04139
+Result: PASS
+Details: Soon meeting bring account eat.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01940
+Result: PASS
+Details: On cell TV analysis behind positive only.

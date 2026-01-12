@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03401
+Scientist: Researcher_B
+Date: 2023-04-24
+Molecule ID: MOL04671
+
+Objective:
+Test solvent impact on yield for MOL04671.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

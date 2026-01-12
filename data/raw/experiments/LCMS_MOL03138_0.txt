@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03138
+Result: PASS
+Details: Old compare member be.

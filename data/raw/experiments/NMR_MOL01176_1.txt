@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01176
+Result: PASS
+Details: Should sing low local series.

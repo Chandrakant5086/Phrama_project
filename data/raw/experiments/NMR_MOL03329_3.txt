@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03329
+Result: PASS
+Details: Minute face smile eye.

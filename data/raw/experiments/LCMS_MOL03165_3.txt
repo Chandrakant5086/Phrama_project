@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03165
+Result: PASS
+Details: Eat next only.

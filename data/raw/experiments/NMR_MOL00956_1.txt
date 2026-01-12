@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00956
+Result: PASS
+Details: Party after newspaper heart.

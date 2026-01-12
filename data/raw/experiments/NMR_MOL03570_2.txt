@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03570
+Result: PASS
+Details: Board theory resource field never.

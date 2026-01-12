@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03672
+Result: PASS
+Details: Another up stay increase edge across with building.

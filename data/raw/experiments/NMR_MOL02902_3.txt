@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02902
+Result: PASS
+Details: Rule deal resource population management total president.

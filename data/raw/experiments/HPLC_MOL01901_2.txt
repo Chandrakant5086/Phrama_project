@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01901
+Result: PASS
+Details: Clear both plant film last protect act.

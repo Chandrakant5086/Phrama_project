@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02773
+Scientist: Researcher_C
+Date: 2023-09-19
+Molecule ID: MOL04456
+
+Objective:
+Explore alternate synthesis route for MOL04456.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

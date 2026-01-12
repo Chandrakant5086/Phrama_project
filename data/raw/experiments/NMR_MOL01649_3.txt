@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01649
+Result: PASS
+Details: Keep provide page cut.

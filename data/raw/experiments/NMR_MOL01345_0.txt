@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01345
+Result: PASS
+Details: Than play question as worker.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03305
+Result: PASS
+Details: On among east middle friend easy environment.

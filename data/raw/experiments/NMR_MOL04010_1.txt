@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04010
+Result: PASS
+Details: Face law old together.

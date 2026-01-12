@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03444
+Result: PASS
+Details: Human stand before such either.

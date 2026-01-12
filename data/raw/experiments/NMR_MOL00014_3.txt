@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00014
+Result: PASS
+Details: Wear should course light appear provide.

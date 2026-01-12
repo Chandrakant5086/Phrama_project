@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03658
+Scientist: Researcher_A
+Date: 2023-09-29
+Molecule ID: MOL00157
+
+Objective:
+Investigate impurity formation for MOL00157.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

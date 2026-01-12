@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04271
+Result: PASS
+Details: Store discover dog image follow.

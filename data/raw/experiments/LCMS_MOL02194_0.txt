@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02194
+Result: PASS
+Details: Change reveal western candidate.

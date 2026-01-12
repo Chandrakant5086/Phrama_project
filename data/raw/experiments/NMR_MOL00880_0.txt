@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00880
+Result: PASS
+Details: Difficult history under fine.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04724
+Result: PASS
+Details: Respond mean green too risk.

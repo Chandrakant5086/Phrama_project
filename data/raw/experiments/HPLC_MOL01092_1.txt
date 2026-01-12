@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01092
+Result: PASS
+Details: Grow I use window early position model.

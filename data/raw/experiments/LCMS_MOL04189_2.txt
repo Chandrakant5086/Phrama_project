@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04189
+Result: PASS
+Details: Major also beyond trial.

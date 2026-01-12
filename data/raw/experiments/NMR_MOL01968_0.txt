@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01968
+Result: PASS
+Details: Court week nothing most.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01637
+Result: PASS
+Details: Effort owner continue weight.

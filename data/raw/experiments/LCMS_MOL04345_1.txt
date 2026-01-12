@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04345
+Result: PASS
+Details: When word not focus series represent.

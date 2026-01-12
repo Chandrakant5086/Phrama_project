@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03872
+Result: PASS
+Details: Note leg minute Congress.

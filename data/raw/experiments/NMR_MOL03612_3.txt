@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03612
+Result: PASS
+Details: Region clear window west actually morning.

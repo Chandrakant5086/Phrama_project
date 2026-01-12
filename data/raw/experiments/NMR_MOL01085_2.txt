@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01085
+Result: PASS
+Details: History accept last within local general activity.

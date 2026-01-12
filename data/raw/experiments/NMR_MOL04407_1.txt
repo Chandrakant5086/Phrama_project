@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04407
+Result: PASS
+Details: Other sing stop character trade quality.

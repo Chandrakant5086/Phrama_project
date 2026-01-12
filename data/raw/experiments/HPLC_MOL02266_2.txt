@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02266
+Result: PASS
+Details: Shoulder rather large meet.

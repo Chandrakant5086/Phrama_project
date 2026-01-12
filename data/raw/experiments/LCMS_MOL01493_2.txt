@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01493
+Result: PASS
+Details: Three notice strategy.

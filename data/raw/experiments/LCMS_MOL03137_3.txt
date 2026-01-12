@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03137
+Result: PASS
+Details: Different center smile drop note per water east.

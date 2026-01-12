@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00473
+Result: PASS
+Details: Public base born defense.

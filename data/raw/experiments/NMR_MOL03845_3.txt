@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03845
+Result: PASS
+Details: Send ball develop night.

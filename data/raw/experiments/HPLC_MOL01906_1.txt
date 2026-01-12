@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01906
+Result: PASS
+Details: Operation old Congress expect example game.

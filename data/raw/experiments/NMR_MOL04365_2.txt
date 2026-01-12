@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04365
+Result: PASS
+Details: Whatever around employee list.

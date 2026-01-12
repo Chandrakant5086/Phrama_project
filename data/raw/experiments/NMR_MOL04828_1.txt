@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04828
+Result: PASS
+Details: Education rather eye far often listen.

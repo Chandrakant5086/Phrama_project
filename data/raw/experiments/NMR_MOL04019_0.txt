@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04019
+Result: PASS
+Details: Response charge me positive season.

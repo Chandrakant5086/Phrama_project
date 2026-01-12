@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04207
+Result: PASS
+Details: Foreign recognize evidence population animal.

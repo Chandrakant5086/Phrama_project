@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03681
+Result: PASS
+Details: Company movement structure miss treatment.

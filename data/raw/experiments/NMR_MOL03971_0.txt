@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03971
+Result: PASS
+Details: He under candidate.

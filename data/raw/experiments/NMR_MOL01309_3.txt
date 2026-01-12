@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01309
+Result: PASS
+Details: Itself spring material so individual arm raise.

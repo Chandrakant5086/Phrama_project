@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01774
+Scientist: Researcher_A
+Date: 2024-01-25
+Molecule ID: MOL00127
+
+Objective:
+Investigate impurity formation for MOL00127.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

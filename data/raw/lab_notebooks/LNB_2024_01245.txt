@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01245
+Scientist: Senior_Scientist_1
+Date: 2024-02-17
+Molecule ID: MOL00398
+
+Objective:
+Test solvent impact on yield for MOL00398.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

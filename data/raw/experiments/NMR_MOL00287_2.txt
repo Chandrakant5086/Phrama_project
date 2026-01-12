@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00287
+Result: PASS
+Details: Through guess free road.

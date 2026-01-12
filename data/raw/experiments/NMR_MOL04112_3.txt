@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04112
+Result: PASS
+Details: Produce very foot use off.

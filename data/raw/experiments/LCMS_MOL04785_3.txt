@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04785
+Result: PASS
+Details: Shoulder career base production main likely.

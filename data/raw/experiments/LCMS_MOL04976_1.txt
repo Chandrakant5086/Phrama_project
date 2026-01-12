@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04976
+Result: PASS
+Details: Among see direction become white stay.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03992
+Result: PASS
+Details: Real hit stay.

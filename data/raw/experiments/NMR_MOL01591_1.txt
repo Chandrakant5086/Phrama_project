@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01591
+Result: PASS
+Details: Style civil above well course instead.

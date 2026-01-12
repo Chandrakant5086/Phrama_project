@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00347
+Result: PASS
+Details: Reveal toward leg pass degree rich fill.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03851
+Result: PASS
+Details: Computer lead raise billion either wrong.

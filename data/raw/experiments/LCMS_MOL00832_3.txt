@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00832
+Result: PASS
+Details: Foreign apply situation.

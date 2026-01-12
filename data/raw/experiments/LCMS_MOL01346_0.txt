@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01346
+Result: PASS
+Details: Set score commercial attack.

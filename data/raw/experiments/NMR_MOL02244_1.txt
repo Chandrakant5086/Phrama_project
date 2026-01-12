@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02244
+Result: PASS
+Details: Democrat even need machine.

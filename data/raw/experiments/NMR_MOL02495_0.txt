@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02495
+Result: PASS
+Details: Parent feeling participant charge hour.

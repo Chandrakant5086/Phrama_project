@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00834
+Result: PASS
+Details: Happy detail long cost.

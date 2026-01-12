@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02094
+Result: PASS
+Details: Itself color establish blood type available.

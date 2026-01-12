@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04095
+Result: PASS
+Details: Miss shake point mind year structure tree.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04800
+Result: PASS
+Details: Bit number sing evidence drug certain.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00229
+Result: PASS
+Details: Back drive himself training while rise.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03462
+Result: PASS
+Details: Former computer what center bank.

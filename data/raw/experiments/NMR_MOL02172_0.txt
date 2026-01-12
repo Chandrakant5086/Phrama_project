@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02172
+Result: PASS
+Details: Catch recently approach only economy take available.

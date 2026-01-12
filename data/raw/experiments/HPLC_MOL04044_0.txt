@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04044
+Result: PASS
+Details: Give the agent board computer example.

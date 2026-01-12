@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02721
+Result: PASS
+Details: Charge score pick us about owner region later.

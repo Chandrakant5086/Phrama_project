@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01187
+Result: PASS
+Details: Candidate mission various rather parent.

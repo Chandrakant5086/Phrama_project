@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03367
+Result: PASS
+Details: Reduce physical close record head production produce.

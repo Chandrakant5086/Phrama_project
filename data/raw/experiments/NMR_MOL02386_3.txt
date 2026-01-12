@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02386
+Result: PASS
+Details: For play discussion true it physical bank.

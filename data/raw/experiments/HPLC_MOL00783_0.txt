@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00783
+Result: PASS
+Details: Stock board sense indeed environmental research.

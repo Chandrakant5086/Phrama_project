@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01889
+Result: PASS
+Details: Bar hope appear challenge.

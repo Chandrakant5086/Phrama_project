@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01489
+Result: PASS
+Details: Must plan determine power group myself second.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01949
+Result: PASS
+Details: Focus same ball.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02950
+Scientist: Researcher_B
+Date: 2024-05-07
+Molecule ID: MOL03795
+
+Objective:
+Assess reaction temperature sensitivity for MOL03795.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

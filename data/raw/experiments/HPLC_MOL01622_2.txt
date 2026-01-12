@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01622
+Result: PASS
+Details: Charge race foreign second attack along purpose then.

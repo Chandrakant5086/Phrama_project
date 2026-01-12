@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04159
+Result: PASS
+Details: Around third physical field particularly budget chair single.

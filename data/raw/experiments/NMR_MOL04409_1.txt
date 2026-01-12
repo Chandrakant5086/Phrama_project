@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04409
+Result: PASS
+Details: It score unit accept head eye car.

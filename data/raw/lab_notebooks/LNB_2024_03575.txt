@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03575
+Scientist: Researcher_A
+Date: 2023-02-25
+Molecule ID: MOL01294
+
+Objective:
+Test solvent impact on yield for MOL01294.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

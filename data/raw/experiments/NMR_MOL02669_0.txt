@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02669
+Result: PASS
+Details: Nature positive than big southern table design.

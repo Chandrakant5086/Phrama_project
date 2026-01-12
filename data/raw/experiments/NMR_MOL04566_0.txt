@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04566
+Result: PASS
+Details: Serious relate radio five pressure.

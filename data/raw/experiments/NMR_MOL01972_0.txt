@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01972
+Result: PASS
+Details: Hit example vote building stock student over compare.

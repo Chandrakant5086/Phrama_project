@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01177
+Scientist: Researcher_C
+Date: 2024-01-20
+Molecule ID: MOL00812
+
+Objective:
+Investigate impurity formation for MOL00812.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

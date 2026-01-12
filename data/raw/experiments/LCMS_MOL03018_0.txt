@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03018
+Result: PASS
+Details: Trip style window their.

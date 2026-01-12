@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03298
+Result: PASS
+Details: Approach red friend add size then.

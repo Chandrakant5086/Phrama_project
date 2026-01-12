@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03564
+Scientist: Researcher_B
+Date: 2023-03-07
+Molecule ID: MOL04977
+
+Objective:
+Assess reaction temperature sensitivity for MOL04977.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

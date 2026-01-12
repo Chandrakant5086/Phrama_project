@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04102
+Result: PASS
+Details: Or as relate miss.

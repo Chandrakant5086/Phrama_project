@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02788
+Result: PASS
+Details: Let successful go movement take wall.

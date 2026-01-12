@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02977
+Scientist: Senior_Scientist_1
+Date: 2023-12-29
+Molecule ID: MOL02350
+
+Objective:
+Test solvent impact on yield for MOL02350.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

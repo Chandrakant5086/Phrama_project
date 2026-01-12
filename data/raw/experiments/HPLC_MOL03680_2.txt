@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03680
+Result: PASS
+Details: Task baby west send.

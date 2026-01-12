@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00499
+Result: PASS
+Details: Human natural person leave.

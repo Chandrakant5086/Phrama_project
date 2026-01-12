@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00314
+Result: PASS
+Details: Population rule figure indeed after themselves.

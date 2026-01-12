@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04227
+Result: PASS
+Details: Just we rest individual already.

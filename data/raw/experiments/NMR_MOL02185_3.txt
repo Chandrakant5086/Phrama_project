@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02185
+Result: PASS
+Details: Research down without society house field.

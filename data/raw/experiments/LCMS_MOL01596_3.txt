@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01596
+Result: PASS
+Details: Firm building section subject game set.

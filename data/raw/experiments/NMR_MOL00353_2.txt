@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00353
+Result: PASS
+Details: Suggest actually some ok window relate we.

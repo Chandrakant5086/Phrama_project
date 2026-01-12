@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00925
+Scientist: Senior_Scientist_1
+Date: 2024-01-30
+Molecule ID: MOL01013
+
+Objective:
+Explore alternate synthesis route for MOL01013.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

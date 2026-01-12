@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03172
+Result: PASS
+Details: Some without international understand.

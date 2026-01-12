@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00050
+Result: PASS
+Details: Future alone environment hair letter chair.

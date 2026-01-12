@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03180
+Result: PASS
+Details: Pay successful may produce lead trial.

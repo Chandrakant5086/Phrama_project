@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01548
+Scientist: Senior_Scientist_1
+Date: 2023-12-18
+Molecule ID: MOL01041
+
+Objective:
+Investigate impurity formation for MOL01041.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

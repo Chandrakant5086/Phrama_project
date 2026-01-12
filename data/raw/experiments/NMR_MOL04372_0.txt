@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04372
+Result: PASS
+Details: Decision health set check radio mention.

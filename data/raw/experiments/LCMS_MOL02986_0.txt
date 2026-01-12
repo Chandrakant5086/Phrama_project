@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02986
+Result: PASS
+Details: Example phone day several fill goal.

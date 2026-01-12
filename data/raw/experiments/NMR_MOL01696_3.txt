@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01696
+Result: PASS
+Details: Specific find sit trial enough go side.

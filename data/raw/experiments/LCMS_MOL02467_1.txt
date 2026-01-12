@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02467
+Result: PASS
+Details: Parent onto certain couple if each result director.

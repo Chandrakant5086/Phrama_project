@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00485
+Result: PASS
+Details: Close job class small throw situation.

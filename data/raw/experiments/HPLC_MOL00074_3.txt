@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00074
+Result: PASS
+Details: Increase travel policy over.

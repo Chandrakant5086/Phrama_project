@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00778
+Result: PASS
+Details: Increase section near gun.

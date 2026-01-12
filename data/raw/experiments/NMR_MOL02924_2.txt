@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02924
+Result: PASS
+Details: Service bill able wind wonder.

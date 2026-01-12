@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00105
+Result: PASS
+Details: Type movement free design ok herself.

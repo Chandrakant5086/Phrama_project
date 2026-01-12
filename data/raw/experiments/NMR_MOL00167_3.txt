@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00167
+Result: PASS
+Details: Movie use will but ahead.

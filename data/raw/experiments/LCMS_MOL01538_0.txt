@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01538
+Result: PASS
+Details: Whatever alone since project.

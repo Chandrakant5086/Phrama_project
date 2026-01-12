@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01990
+Result: PASS
+Details: Always character thousand film.

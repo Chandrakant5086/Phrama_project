@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03125
+Result: PASS
+Details: Line body not pick bank language certain activity.

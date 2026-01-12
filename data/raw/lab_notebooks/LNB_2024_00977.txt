@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00977
+Scientist: Researcher_C
+Date: 2024-03-05
+Molecule ID: MOL04940
+
+Objective:
+Investigate impurity formation for MOL04940.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

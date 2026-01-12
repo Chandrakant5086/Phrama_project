@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04324
+Result: PASS
+Details: Well carry so write option.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01255
+Result: PASS
+Details: Right could scientist.

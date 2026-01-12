@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04692
+Result: PASS
+Details: Next pull option oil reach son end throw.

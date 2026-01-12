@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00245
+Result: PASS
+Details: Bar make different.

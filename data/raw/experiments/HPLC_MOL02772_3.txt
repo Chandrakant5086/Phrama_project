@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02772
+Result: PASS
+Details: Sometimes these kitchen measure per each next.

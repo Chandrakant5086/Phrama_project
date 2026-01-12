@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01105
+Result: PASS
+Details: Leader small build cell.

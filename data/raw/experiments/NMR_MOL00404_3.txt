@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00404
+Result: PASS
+Details: Build effort student record.

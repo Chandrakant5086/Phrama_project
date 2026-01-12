@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02581
+Scientist: Researcher_B
+Date: 2023-12-13
+Molecule ID: MOL02835
+
+Objective:
+Test solvent impact on yield for MOL02835.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

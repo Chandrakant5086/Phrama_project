@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00640
+Result: PASS
+Details: Stock investment history whose stuff this.

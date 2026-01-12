@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02025
+Result: PASS
+Details: List analysis environmental anything add create job.

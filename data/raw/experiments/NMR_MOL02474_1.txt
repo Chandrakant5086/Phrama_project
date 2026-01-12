@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02474
+Result: PASS
+Details: Keep quality decision full big.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04156
+Result: PASS
+Details: Case free financial class news.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01199
+Result: PASS
+Details: Company back energy design mention bag body.

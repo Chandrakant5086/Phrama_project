@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02487
+Result: PASS
+Details: Method I base there with never administration.

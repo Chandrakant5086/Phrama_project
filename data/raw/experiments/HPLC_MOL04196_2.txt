@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04196
+Result: PASS
+Details: Live senior also product piece.

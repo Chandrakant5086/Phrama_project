@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03457
+Result: PASS
+Details: Or ever avoid.

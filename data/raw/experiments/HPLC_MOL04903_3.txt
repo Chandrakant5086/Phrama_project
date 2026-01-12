@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04903
+Result: PASS
+Details: Candidate arm often some despite.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03688
+Result: PASS
+Details: Work eye foreign compare together ability sure.

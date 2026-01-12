@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04591
+Result: PASS
+Details: Mind product necessary during.

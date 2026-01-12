@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00043
+Result: PASS
+Details: Fire case individual under.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01427
+Result: PASS
+Details: Campaign national leg under case against capital.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02293
+Result: PASS
+Details: Reduce practice rock situation we analysis here bit.

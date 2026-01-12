@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04576
+Result: PASS
+Details: Article hard first role senior collection table.

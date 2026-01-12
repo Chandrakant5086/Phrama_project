@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04218
+Result: PASS
+Details: Improve growth go paper listen ago issue system.

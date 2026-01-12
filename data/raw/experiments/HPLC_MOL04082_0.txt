@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04082
+Result: PASS
+Details: Culture decision adult improve nothing.

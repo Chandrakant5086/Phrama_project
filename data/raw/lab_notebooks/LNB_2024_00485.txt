@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00485
+Scientist: Researcher_A
+Date: 2023-04-11
+Molecule ID: MOL00722
+
+Objective:
+Assess reaction temperature sensitivity for MOL00722.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

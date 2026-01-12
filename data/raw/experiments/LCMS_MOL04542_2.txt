@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04542
+Result: PASS
+Details: Plan might state kind purpose vote return.

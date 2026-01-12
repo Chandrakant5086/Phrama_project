@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00329
+Result: PASS
+Details: Process project develop house situation common always data.

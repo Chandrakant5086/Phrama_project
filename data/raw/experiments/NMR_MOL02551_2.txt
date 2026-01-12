@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02551
+Result: PASS
+Details: Decision live experience onto avoid generation.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01854
+Result: PASS
+Details: Occur training age next me.

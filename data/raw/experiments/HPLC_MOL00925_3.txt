@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00925
+Result: PASS
+Details: Community total reflect reduce price result.

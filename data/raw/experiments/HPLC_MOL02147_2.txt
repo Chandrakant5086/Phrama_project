@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02147
+Result: PASS
+Details: Sign if candidate term piece.

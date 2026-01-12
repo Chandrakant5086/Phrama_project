@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02117
+Result: PASS
+Details: Daughter successful I.

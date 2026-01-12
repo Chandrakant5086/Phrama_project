@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00486
+Result: PASS
+Details: Toward order and so center protect.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04208
+Result: PASS
+Details: Ever more case which capital.

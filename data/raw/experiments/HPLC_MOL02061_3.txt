@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02061
+Result: PASS
+Details: Doctor sense cell who finish only guess.

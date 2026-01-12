@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00528
+Result: PASS
+Details: Thousand office by study mean certain position.

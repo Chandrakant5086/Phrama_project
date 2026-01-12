@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04162
+Result: PASS
+Details: Third employee region send western real.

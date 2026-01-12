@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04606
+Result: PASS
+Details: Different space among past who identify.

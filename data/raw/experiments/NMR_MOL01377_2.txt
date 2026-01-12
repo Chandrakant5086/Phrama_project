@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01377
+Result: PASS
+Details: Modern table capital station next.

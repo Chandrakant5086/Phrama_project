@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00417
+Result: PASS
+Details: Series which more indeed wonder.

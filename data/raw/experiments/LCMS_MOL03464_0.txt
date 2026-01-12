@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03464
+Result: PASS
+Details: Adult sort western one.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00848
+Result: PASS
+Details: Only management story similar.

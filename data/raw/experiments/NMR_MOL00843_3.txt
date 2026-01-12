@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00843
+Result: PASS
+Details: Strong true door.

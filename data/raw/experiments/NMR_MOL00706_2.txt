@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00706
+Result: PASS
+Details: Weight present offer toward in.

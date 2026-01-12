@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03452
+Result: PASS
+Details: Maintain point candidate upon campaign wall customer.

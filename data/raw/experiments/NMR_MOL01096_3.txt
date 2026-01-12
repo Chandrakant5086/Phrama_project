@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01096
+Result: PASS
+Details: Executive cost return.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01400
+Result: PASS
+Details: Training move special to upon join.

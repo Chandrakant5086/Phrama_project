@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01815
+Result: PASS
+Details: Might will design.

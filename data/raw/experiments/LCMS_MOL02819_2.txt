@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02819
+Result: PASS
+Details: Town industry discussion fill production hold.

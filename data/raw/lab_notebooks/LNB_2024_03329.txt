@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03329
+Scientist: Researcher_A
+Date: 2023-02-10
+Molecule ID: MOL00958
+
+Objective:
+Test solvent impact on yield for MOL00958.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

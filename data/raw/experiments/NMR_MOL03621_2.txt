@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03621
+Result: PASS
+Details: Evidence operation three firm soon level sense.

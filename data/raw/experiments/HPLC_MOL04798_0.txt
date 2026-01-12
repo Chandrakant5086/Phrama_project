@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04798
+Result: PASS
+Details: Push carry group treatment suddenly goal.

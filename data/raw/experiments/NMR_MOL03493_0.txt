@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03493
+Result: PASS
+Details: Section bed three successful.

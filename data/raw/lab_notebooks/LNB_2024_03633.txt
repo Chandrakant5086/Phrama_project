@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03633
+Scientist: Senior_Scientist_1
+Date: 2023-11-24
+Molecule ID: MOL04164
+
+Objective:
+Investigate impurity formation for MOL04164.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

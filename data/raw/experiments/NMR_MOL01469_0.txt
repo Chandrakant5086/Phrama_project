@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01469
+Result: PASS
+Details: Reality when kind information worker dinner.

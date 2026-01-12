@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01704
+Result: PASS
+Details: Note push pull debate exist oil.

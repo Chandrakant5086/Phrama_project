@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02144
+Result: PASS
+Details: Community final factor foot control there.

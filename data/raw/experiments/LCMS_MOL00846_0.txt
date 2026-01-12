@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00846
+Result: PASS
+Details: Since type total teach data.

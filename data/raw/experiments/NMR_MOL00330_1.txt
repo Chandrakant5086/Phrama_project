@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00330
+Result: PASS
+Details: Carry hand say.

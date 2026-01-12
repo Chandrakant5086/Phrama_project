@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04316
+Result: PASS
+Details: Task certainly often including.

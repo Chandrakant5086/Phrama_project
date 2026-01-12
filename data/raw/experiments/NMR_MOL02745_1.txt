@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02745
+Result: PASS
+Details: Memory near bit.

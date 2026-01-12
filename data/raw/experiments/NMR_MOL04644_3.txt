@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04644
+Result: PASS
+Details: Class level throw risk out day budget.

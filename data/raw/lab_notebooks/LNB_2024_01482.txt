@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01482
+Scientist: Senior_Scientist_1
+Date: 2024-01-09
+Molecule ID: MOL01730
+
+Objective:
+Explore alternate synthesis route for MOL01730.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

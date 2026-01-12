@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03887
+Result: PASS
+Details: Cover analysis deep soldier.

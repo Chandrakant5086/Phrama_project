@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01609
+Result: PASS
+Details: Growth water your apply.

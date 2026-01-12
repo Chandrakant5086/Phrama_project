@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04605
+Result: PASS
+Details: Contain resource chance budget happen.

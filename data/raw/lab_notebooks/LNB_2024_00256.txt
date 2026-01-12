@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00256
+Scientist: Researcher_B
+Date: 2023-01-10
+Molecule ID: MOL04142
+
+Objective:
+Investigate impurity formation for MOL04142.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

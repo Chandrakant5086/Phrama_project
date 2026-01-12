@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01711
+Result: PASS
+Details: Stock who budget throw customer.

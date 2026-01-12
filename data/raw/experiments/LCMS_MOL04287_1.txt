@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04287
+Result: PASS
+Details: Star office notice social result.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02206
+Result: PASS
+Details: Animal expert develop team smile.

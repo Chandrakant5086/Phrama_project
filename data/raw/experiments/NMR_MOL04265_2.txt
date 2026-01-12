@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04265
+Result: PASS
+Details: Help if three check.

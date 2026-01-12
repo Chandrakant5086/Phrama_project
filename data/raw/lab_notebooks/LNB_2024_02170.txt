@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02170
+Scientist: Researcher_B
+Date: 2024-03-30
+Molecule ID: MOL02090
+
+Objective:
+Investigate impurity formation for MOL02090.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

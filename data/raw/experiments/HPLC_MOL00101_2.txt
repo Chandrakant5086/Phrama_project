@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00101
+Result: PASS
+Details: Public ask shoulder I arrive act.

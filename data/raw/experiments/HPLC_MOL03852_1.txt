@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03852
+Result: PASS
+Details: Authority standard ahead middle return election now.

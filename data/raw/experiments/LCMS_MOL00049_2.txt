@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00049
+Result: PASS
+Details: Contain student begin better.

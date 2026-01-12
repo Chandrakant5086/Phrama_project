@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00586
+Result: PASS
+Details: Authority almost claim page standard field relate.

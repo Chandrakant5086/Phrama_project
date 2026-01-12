@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03140
+Result: PASS
+Details: Back bill dark reach light list miss.

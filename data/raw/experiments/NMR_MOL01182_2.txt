@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01182
+Result: PASS
+Details: Since sense talk add north simply.

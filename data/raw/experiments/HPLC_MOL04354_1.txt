@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04354
+Result: PASS
+Details: Final everyone word.

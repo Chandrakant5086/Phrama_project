@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04658
+Result: PASS
+Details: In ago door close be.

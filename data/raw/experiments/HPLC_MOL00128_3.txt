@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00128
+Result: PASS
+Details: Grow find or step particular begin physical.

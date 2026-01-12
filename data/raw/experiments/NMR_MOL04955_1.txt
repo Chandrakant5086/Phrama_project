@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04955
+Result: PASS
+Details: Radio process event benefit well pretty manage.

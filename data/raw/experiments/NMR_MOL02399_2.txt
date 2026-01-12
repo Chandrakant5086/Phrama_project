@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02399
+Result: PASS
+Details: Local role mention day figure ago away.

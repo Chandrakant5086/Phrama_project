@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03289
+Result: PASS
+Details: Could recognize Mr apply.

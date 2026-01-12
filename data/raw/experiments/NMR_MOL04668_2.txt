@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04668
+Result: PASS
+Details: Bed success stay say degree.

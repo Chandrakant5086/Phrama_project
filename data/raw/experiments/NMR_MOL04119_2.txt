@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04119
+Result: PASS
+Details: Begin should size reduce move.

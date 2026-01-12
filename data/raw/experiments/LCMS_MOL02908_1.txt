@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02908
+Result: PASS
+Details: Trip these trial weight.

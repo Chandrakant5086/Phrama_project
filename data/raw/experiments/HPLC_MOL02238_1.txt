@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02238
+Result: PASS
+Details: Forget throw none stuff treat decision.

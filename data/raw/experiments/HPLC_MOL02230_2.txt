@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02230
+Result: PASS
+Details: Information pressure customer however.

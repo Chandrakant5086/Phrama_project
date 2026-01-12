@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01462
+Result: PASS
+Details: Resource will big sister thing.

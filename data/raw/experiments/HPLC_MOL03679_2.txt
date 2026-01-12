@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03679
+Result: PASS
+Details: Positive camera box true recent shoulder easy.

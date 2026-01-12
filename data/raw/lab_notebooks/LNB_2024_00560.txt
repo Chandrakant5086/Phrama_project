@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00560
+Scientist: Senior_Scientist_1
+Date: 2023-01-19
+Molecule ID: MOL02608
+
+Objective:
+Explore alternate synthesis route for MOL02608.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

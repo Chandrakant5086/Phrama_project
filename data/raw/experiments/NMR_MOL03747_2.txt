@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03747
+Result: PASS
+Details: Staff fight around thus more military trouble.

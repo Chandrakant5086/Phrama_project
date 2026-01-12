@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02801
+Result: PASS
+Details: Moment season capital.

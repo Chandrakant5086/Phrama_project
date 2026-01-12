@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00689
+Result: PASS
+Details: Yes must inside.

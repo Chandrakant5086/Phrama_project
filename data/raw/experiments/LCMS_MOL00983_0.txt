@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00983
+Result: PASS
+Details: Though cultural example.

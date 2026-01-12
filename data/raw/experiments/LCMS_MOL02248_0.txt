@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02248
+Result: PASS
+Details: Movie sing ahead series arrive.

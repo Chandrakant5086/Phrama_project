@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04877
+Result: PASS
+Details: Type walk lose degree likely.

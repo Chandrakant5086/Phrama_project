@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01209
+Result: PASS
+Details: Audience toward begin to class.

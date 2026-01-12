@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02822
+Result: PASS
+Details: Contain listen brother level fill.

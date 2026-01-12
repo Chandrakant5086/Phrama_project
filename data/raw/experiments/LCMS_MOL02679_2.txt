@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02679
+Result: PASS
+Details: Defense season seem current.

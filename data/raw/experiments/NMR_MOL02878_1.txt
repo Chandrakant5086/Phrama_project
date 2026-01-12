@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02878
+Result: PASS
+Details: Half require rather page skill.

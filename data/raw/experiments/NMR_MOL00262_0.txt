@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00262
+Result: PASS
+Details: Partner provide imagine force military.

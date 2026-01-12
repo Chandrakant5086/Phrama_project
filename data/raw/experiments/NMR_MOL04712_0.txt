@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04712
+Result: PASS
+Details: Store instead financial leader.

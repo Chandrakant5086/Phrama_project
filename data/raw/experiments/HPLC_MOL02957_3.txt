@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02957
+Result: PASS
+Details: Drop staff range lead.

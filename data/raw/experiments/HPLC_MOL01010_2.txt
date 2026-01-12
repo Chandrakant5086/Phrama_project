@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01010
+Result: PASS
+Details: Report one value early.

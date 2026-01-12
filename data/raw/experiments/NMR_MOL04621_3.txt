@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04621
+Result: PASS
+Details: Tree because manager production.

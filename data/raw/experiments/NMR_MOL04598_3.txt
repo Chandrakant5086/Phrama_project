@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04598
+Result: PASS
+Details: Board stop attorney message spring.

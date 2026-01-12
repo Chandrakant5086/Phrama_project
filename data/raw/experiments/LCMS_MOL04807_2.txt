@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04807
+Result: PASS
+Details: Former around compare leader.

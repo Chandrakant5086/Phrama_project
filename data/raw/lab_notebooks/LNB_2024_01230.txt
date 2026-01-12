@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01230
+Scientist: Senior_Scientist_1
+Date: 2023-04-01
+Molecule ID: MOL00784
+
+Objective:
+Assess reaction temperature sensitivity for MOL00784.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

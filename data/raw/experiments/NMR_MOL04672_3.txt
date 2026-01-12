@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04672
+Result: PASS
+Details: Cell smile sing seek.

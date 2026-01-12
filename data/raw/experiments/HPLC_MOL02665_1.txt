@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02665
+Result: PASS
+Details: Make computer build themselves fine share both.

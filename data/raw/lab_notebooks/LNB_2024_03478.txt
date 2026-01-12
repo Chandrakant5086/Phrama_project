@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03478
+Scientist: Senior_Scientist_1
+Date: 2023-01-23
+Molecule ID: MOL04700
+
+Objective:
+Validate preliminary reaction conditions for MOL04700.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

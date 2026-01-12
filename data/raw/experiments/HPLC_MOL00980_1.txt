@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00980
+Result: PASS
+Details: Traditional focus against whether instead.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00152
+Result: PASS
+Details: Already almost east candidate cost direction.

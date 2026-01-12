@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00164
+Result: PASS
+Details: Score while past build send day.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04521
+Result: PASS
+Details: Tv across many interest old.

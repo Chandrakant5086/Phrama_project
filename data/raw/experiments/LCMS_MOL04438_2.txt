@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04438
+Result: PASS
+Details: Process both else.

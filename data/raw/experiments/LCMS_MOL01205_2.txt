@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01205
+Result: PASS
+Details: Mother big camera through.

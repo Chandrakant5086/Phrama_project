@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04501
+Result: PASS
+Details: Mouth run bar week.

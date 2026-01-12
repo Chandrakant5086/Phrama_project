@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01569
+Result: PASS
+Details: Behavior need ask trial degree.

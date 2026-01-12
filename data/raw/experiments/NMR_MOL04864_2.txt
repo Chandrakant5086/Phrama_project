@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04864
+Result: PASS
+Details: Loss student almost never.

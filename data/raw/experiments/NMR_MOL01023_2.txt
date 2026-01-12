@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01023
+Result: PASS
+Details: Moment risk reduce power safe.

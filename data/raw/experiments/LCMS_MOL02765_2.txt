@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02765
+Result: PASS
+Details: Born stuff teacher game.

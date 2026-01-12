@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04497
+Result: PASS
+Details: Individual group sister southern.

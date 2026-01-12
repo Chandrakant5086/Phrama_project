@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04839
+Result: PASS
+Details: Phone write good detail hot.

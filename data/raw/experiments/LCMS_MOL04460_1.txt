@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04460
+Result: PASS
+Details: Only reveal authority artist trade guy choice.

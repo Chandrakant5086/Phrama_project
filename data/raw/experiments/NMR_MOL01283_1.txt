@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01283
+Result: PASS
+Details: Onto conference else.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00532
+Result: PASS
+Details: Western ever thank.

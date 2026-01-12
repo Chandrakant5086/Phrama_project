@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00613
+Result: PASS
+Details: Candidate north culture than this behavior.

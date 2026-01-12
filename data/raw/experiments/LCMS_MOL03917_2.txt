@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03917
+Result: PASS
+Details: Arm always table mention.

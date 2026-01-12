@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03350
+Result: PASS
+Details: Box adult final laugh road.

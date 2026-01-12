@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03643
+Result: PASS
+Details: Point company speech dark high Mr.

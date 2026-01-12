@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01336
+Result: PASS
+Details: Floor control protect especially story low sometimes.

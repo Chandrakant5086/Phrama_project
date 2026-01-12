@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02452
+Result: PASS
+Details: Or carry line cut kind.

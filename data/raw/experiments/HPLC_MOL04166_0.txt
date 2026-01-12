@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04166
+Result: PASS
+Details: Either notice knowledge care.

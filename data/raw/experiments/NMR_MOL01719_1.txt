@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01719
+Result: PASS
+Details: Cause watch clearly option late through star.

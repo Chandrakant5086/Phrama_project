@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03236
+Result: PASS
+Details: Current fall campaign right structure college water.

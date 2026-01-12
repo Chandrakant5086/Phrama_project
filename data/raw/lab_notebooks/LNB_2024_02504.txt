@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02504
+Scientist: Senior_Scientist_1
+Date: 2023-02-28
+Molecule ID: MOL02144
+
+Objective:
+Investigate impurity formation for MOL02144.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04889
+Result: PASS
+Details: As staff attorney.

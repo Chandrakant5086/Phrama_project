@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00857
+Result: PASS
+Details: Special long with but evidence.

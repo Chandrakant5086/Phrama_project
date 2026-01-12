@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02040
+Result: PASS
+Details: Staff leave resource within experience group cause.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00913
+Result: PASS
+Details: Pretty wait inside event it.

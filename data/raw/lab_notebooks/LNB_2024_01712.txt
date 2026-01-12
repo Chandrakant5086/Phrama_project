@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01712
+Scientist: Researcher_C
+Date: 2024-01-18
+Molecule ID: MOL00125
+
+Objective:
+Test solvent impact on yield for MOL00125.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

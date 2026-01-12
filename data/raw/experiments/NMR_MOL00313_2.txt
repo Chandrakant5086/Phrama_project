@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00313
+Result: PASS
+Details: Attack buy opportunity system on behavior.

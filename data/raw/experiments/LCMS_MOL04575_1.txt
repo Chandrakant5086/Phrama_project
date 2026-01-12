@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04575
+Result: PASS
+Details: Mother window bar sing red ground success.

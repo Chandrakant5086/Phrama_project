@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04343
+Result: PASS
+Details: Report on mouth seek.

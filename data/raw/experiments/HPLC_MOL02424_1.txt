@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02424
+Result: PASS
+Details: Others natural general deal.

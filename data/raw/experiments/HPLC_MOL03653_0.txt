@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03653
+Result: PASS
+Details: Training from talk put but also respond.

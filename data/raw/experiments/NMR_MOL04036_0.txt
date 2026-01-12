@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04036
+Result: PASS
+Details: Physical level five participant.

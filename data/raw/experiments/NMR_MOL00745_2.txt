@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00745
+Result: PASS
+Details: Much difficult wind force.

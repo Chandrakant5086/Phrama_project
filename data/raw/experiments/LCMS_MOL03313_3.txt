@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03313
+Result: PASS
+Details: Standard himself question scientist class present.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03894
+Result: PASS
+Details: Play future strategy truth up.

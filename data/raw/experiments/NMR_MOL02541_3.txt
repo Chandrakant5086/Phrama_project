@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02541
+Result: PASS
+Details: Question wait economy wide.

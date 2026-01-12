@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00022
+Result: PASS
+Details: Certain need even study box.

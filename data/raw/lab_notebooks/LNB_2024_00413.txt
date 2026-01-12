@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00413
+Scientist: Senior_Scientist_1
+Date: 2024-02-08
+Molecule ID: MOL01623
+
+Objective:
+Explore alternate synthesis route for MOL01623.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04607
+Result: PASS
+Details: Evening away its source.

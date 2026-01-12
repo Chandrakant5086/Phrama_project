@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00377
+Result: PASS
+Details: Politics word face process.

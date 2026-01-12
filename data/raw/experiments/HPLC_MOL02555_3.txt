@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02555
+Result: PASS
+Details: Include bag guess expect trade tree effect.

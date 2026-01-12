@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03672
+Result: PASS
+Details: Investment same yeah role.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01074
+Scientist: Senior_Scientist_1
+Date: 2023-06-21
+Molecule ID: MOL02496
+
+Objective:
+Investigate impurity formation for MOL02496.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

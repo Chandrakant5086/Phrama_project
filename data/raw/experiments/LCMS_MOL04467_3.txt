@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04467
+Result: PASS
+Details: Value method in standard table.

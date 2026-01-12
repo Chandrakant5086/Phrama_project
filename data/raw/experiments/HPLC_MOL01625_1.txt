@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01625
+Result: PASS
+Details: Determine another appear name born.

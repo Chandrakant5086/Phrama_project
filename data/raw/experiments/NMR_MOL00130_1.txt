@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00130
+Result: PASS
+Details: More account move not single father.

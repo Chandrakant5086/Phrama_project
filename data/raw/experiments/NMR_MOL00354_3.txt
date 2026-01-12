@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00354
+Result: PASS
+Details: Raise something example rock from nation.

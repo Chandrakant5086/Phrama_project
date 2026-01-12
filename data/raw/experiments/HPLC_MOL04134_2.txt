@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04134
+Result: PASS
+Details: Others power source show resource value.

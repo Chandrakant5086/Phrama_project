@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03940
+Result: PASS
+Details: Expert thing because president.

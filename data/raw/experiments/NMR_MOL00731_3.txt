@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00731
+Result: PASS
+Details: Car style nation market.

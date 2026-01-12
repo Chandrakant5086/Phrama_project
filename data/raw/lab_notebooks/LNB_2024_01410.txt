@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01410
+Scientist: Researcher_C
+Date: 2023-07-14
+Molecule ID: MOL00388
+
+Objective:
+Investigate impurity formation for MOL00388.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00728
+Result: PASS
+Details: Phone guess democratic ten.

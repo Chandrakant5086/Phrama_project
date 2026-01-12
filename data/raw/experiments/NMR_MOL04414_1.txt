@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04414
+Result: PASS
+Details: Goal tax scene bed ten member these.

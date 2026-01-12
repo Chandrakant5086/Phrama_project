@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01320
+Result: PASS
+Details: Ok record effort want under term.

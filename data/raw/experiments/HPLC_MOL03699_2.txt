@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03699
+Result: PASS
+Details: Never dinner take on spring.

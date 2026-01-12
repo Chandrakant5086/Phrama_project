@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00197
+Result: PASS
+Details: Notice buy identify study stage size management.

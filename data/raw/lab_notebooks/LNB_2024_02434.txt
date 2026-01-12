@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02434
+Scientist: Researcher_A
+Date: 2023-06-25
+Molecule ID: MOL01685
+
+Objective:
+Test solvent impact on yield for MOL01685.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03260
+Scientist: Researcher_A
+Date: 2024-03-08
+Molecule ID: MOL01644
+
+Objective:
+Explore alternate synthesis route for MOL01644.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

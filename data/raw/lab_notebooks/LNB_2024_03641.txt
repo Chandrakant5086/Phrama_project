@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03641
+Scientist: Senior_Scientist_1
+Date: 2024-04-16
+Molecule ID: MOL03087
+
+Objective:
+Explore alternate synthesis route for MOL03087.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

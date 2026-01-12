@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01539
+Scientist: Researcher_C
+Date: 2024-04-17
+Molecule ID: MOL04129
+
+Objective:
+Assess reaction temperature sensitivity for MOL04129.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

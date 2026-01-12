@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03565
+Result: PASS
+Details: Quality argue energy edge.

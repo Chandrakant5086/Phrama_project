@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04849
+Result: PASS
+Details: No difference possible sell where least similar.

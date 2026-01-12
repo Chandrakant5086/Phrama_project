@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00464
+Result: PASS
+Details: Support article star answer.

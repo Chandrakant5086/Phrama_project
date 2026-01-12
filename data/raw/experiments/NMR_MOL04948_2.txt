@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04948
+Result: PASS
+Details: Nation recent rather draw.

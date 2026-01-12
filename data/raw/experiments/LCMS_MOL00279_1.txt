@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00279
+Result: PASS
+Details: Ball up until.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00516
+Result: PASS
+Details: That room I really they.

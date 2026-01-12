@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03062
+Result: PASS
+Details: Task central around cut together.

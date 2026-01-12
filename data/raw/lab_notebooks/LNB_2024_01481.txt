@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01481
+Scientist: Researcher_B
+Date: 2023-10-23
+Molecule ID: MOL01771
+
+Objective:
+Explore alternate synthesis route for MOL01771.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

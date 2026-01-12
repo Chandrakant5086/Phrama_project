@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02533
+Scientist: Researcher_A
+Date: 2023-06-24
+Molecule ID: MOL01014
+
+Objective:
+Investigate impurity formation for MOL01014.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

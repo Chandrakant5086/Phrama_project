@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00497
+Result: PASS
+Details: Pattern field seven become machine.

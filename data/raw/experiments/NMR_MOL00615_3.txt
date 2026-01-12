@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00615
+Result: PASS
+Details: Set send sing near foreign peace visit.

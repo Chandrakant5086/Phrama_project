@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03055
+Result: PASS
+Details: Movement voice do understand.

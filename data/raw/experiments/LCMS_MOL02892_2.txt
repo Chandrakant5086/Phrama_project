@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02892
+Result: PASS
+Details: With before result break.

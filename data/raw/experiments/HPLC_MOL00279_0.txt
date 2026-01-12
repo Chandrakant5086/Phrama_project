@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00279
+Result: PASS
+Details: Cost work middle.

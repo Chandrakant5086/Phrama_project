@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03377
+Result: PASS
+Details: Box process difference able someone address.

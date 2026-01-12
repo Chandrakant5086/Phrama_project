@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00036
+Result: PASS
+Details: Citizen pattern growth human relationship assume.

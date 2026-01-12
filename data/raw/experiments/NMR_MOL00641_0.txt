@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00641
+Result: PASS
+Details: Realize wrong every between role message attention.

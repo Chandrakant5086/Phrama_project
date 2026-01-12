@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00917
+Result: PASS
+Details: Charge about once find.

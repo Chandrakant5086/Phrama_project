@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02247
+Result: PASS
+Details: Lot necessary a under.

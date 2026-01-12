@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00172
+Result: PASS
+Details: Lay cause common class.

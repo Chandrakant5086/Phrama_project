@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00473
+Result: PASS
+Details: Ok individual role management ground.

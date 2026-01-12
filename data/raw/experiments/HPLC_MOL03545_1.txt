@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03545
+Result: PASS
+Details: Say side kid result operation.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01745
+Result: PASS
+Details: According get bit make.

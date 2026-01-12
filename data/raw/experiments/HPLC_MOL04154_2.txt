@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04154
+Result: PASS
+Details: Wrong big pattern conference now.

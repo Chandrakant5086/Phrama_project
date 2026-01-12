@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01614
+Result: PASS
+Details: Feeling rich increase fast onto ok.

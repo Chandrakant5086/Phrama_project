@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02433
+Result: PASS
+Details: Practice and sea management.

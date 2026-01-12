@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01156
+Scientist: Researcher_C
+Date: 2024-03-03
+Molecule ID: MOL01789
+
+Objective:
+Explore alternate synthesis route for MOL01789.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

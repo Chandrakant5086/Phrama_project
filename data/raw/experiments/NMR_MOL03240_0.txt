@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03240
+Result: PASS
+Details: Meeting open civil energy exactly run just.

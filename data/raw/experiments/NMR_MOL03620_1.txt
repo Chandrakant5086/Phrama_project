@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03620
+Result: PASS
+Details: Full recognize environment dream whatever bad blue.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03418
+Result: PASS
+Details: Experience record exactly seem pass keep can.

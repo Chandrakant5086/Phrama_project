@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00867
+Result: PASS
+Details: Truth guess guy third then.

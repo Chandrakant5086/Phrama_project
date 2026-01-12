@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03816
+Result: PASS
+Details: Most picture smile hold middle structure.

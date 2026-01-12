@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04527
+Result: PASS
+Details: This media already choose last.

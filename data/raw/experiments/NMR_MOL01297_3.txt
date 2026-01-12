@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01297
+Result: PASS
+Details: Light paper politics.

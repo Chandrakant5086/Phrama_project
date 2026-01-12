@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02663
+Result: PASS
+Details: Throw system should maybe difficult.

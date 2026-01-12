@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00634
+Result: PASS
+Details: Director without lead get leader attack within.

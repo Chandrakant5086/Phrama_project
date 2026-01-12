@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01695
+Result: PASS
+Details: Sort religious five activity real.

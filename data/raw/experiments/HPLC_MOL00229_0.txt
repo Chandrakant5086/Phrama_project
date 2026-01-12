@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00229
+Result: PASS
+Details: Energy life civil color us.

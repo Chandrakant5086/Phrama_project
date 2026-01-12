@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03916
+Result: PASS
+Details: Speech use small sing public local apply.

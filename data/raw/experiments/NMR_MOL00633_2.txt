@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00633
+Result: PASS
+Details: Chair central one.

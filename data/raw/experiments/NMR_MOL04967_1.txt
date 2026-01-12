@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04967
+Result: PASS
+Details: Somebody determine run source.

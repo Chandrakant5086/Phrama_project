@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00746
+Scientist: Senior_Scientist_1
+Date: 2023-12-06
+Molecule ID: MOL03433
+
+Objective:
+Investigate impurity formation for MOL03433.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

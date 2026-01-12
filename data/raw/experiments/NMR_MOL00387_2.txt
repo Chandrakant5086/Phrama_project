@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00387
+Result: PASS
+Details: Forget fine once strong involve treatment effect before.

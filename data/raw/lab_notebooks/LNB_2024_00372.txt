@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00372
+Scientist: Senior_Scientist_1
+Date: 2024-04-14
+Molecule ID: MOL01244
+
+Objective:
+Explore alternate synthesis route for MOL01244.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

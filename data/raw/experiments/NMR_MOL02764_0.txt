@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02764
+Result: PASS
+Details: Certain medical operation bad truth each letter.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04593
+Result: PASS
+Details: Return rise history instead maintain power case.

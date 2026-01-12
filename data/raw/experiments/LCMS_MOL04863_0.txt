@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04863
+Result: PASS
+Details: Training stock reveal similar necessary.

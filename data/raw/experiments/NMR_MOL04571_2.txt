@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04571
+Result: PASS
+Details: Share modern make operation.

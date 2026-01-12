@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04181
+Result: PASS
+Details: Physical wide sell truth discover.

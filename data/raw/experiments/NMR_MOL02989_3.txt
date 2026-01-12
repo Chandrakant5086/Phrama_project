@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02989
+Result: PASS
+Details: Body perhaps buy per difference energy miss.

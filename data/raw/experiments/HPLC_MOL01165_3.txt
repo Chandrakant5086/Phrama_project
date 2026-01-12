@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01165
+Result: PASS
+Details: North happy take general same.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01983
+Result: PASS
+Details: Responsibility let program health control little happy.

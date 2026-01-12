@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03433
+Result: PASS
+Details: Project contain right capital.

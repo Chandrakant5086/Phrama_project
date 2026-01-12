@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02321
+Result: PASS
+Details: Firm positive science without particularly care activity.

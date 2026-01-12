@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03942
+Result: PASS
+Details: Hour minute skin full special.

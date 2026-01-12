@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03615
+Result: PASS
+Details: Full exist class control buy win.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00998
+Result: PASS
+Details: Trade choice strategy check leg defense.

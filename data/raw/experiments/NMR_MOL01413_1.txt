@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01413
+Result: PASS
+Details: Ready development grow kind school.

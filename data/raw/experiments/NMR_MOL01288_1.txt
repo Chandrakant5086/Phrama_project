@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01288
+Result: PASS
+Details: Scientist once page create assume realize.

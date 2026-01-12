@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01762
+Result: PASS
+Details: Entire protect prepare operation industry.

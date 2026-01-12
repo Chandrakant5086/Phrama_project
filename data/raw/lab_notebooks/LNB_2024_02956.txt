@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02956
+Scientist: Researcher_C
+Date: 2023-12-06
+Molecule ID: MOL03383
+
+Objective:
+Investigate impurity formation for MOL03383.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

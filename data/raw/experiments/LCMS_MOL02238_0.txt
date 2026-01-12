@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02238
+Result: PASS
+Details: Should stop general open.

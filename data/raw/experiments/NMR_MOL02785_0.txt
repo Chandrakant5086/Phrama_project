@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02785
+Result: PASS
+Details: Sometimes former theory data reduce character customer.

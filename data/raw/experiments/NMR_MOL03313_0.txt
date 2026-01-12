@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03313
+Result: PASS
+Details: Cause may reflect administration program situation.

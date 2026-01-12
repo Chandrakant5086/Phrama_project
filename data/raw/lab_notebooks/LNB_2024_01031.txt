@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01031
+Scientist: Senior_Scientist_1
+Date: 2023-05-05
+Molecule ID: MOL01605
+
+Objective:
+Test solvent impact on yield for MOL01605.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

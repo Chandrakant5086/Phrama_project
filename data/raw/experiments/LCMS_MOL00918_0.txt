@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00918
+Result: PASS
+Details: Bar view paper travel point thus ok.

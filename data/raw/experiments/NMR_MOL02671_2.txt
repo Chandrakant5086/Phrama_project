@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02671
+Result: PASS
+Details: Main talk north name toward collection.

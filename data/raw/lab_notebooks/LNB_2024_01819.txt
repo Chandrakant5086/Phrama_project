@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01819
+Scientist: Researcher_B
+Date: 2023-11-21
+Molecule ID: MOL02897
+
+Objective:
+Investigate impurity formation for MOL02897.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

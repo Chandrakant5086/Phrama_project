@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03580
+Result: PASS
+Details: Article contain let only build significant own ground.

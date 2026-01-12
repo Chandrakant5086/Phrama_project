@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03778
+Result: PASS
+Details: Could quality state every write likely action picture.

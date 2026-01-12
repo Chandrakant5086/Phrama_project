@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02245
+Result: PASS
+Details: Shoulder necessary with TV.

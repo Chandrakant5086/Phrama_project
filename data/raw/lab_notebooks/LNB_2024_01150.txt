@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01150
+Scientist: Researcher_C
+Date: 2023-04-16
+Molecule ID: MOL04168
+
+Objective:
+Assess reaction temperature sensitivity for MOL04168.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

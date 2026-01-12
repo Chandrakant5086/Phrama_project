@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02881
+Result: PASS
+Details: Interview call start mission.

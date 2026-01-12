@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04790
+Result: PASS
+Details: Hospital population job receive.

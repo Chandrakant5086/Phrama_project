@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04208
+Result: PASS
+Details: Get experience example let.

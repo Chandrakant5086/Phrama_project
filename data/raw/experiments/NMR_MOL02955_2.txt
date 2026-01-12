@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02955
+Result: PASS
+Details: Industry head physical car health.

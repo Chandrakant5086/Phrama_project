@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02253
+Result: PASS
+Details: Star water trip same north only.

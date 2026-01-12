@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03429
+Result: PASS
+Details: Type result shake.

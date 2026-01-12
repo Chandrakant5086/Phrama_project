@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03240
+Result: PASS
+Details: Quality can factor.

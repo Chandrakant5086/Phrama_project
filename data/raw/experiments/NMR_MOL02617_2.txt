@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02617
+Result: PASS
+Details: Wear just available stand guy.

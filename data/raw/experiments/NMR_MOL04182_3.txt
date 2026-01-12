@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04182
+Result: PASS
+Details: Forget yourself pattern direction test wait message.

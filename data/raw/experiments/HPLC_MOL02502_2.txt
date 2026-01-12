@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02502
+Result: PASS
+Details: Tough analysis condition organization process moment.

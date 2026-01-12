@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00721
+Scientist: Researcher_C
+Date: 2023-12-28
+Molecule ID: MOL00322
+
+Objective:
+Validate preliminary reaction conditions for MOL00322.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

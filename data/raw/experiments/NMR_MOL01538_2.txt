@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01538
+Result: PASS
+Details: Sport allow subject general.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01824
+Result: PASS
+Details: Generation could least walk write station.

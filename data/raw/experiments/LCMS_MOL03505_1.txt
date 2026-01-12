@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03505
+Result: PASS
+Details: Least time hand send especially local artist trial.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02303
+Scientist: PostDoc_2
+Date: 2023-12-13
+Molecule ID: MOL02226
+
+Objective:
+Assess reaction temperature sensitivity for MOL02226.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

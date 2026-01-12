@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04415
+Result: PASS
+Details: Mr current accept performance contain.

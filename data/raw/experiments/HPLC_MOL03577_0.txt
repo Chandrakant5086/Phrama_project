@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03577
+Result: PASS
+Details: Rate end bring project.

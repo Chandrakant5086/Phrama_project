@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00551
+Result: PASS
+Details: Down action church according general break.

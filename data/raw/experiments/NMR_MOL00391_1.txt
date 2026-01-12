@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00391
+Result: PASS
+Details: Pressure treat customer.

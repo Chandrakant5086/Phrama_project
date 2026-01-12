@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04177
+Result: PASS
+Details: Tax enter late base let note.

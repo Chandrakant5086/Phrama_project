@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01373
+Result: PASS
+Details: Watch politics response at continue.

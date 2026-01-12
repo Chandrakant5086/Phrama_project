@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02740
+Scientist: Researcher_C
+Date: 2024-01-29
+Molecule ID: MOL01304
+
+Objective:
+Test solvent impact on yield for MOL01304.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

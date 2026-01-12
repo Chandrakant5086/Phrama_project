@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01507
+Result: PASS
+Details: Practice street enter.

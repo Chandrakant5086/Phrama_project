@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01564
+Result: PASS
+Details: Us service common hot give type.

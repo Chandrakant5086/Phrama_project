@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04976
+Result: PASS
+Details: Threat range history read itself.

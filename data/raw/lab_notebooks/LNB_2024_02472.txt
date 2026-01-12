@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02472
+Scientist: Researcher_B
+Date: 2024-04-30
+Molecule ID: MOL02543
+
+Objective:
+Investigate impurity formation for MOL02543.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

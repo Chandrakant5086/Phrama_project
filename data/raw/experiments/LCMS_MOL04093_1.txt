@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04093
+Result: PASS
+Details: Manage save amount medical man.

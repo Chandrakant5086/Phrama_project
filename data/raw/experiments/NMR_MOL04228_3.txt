@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04228
+Result: PASS
+Details: Course cup eight within exactly bag.

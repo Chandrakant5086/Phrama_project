@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00959
+Scientist: Senior_Scientist_1
+Date: 2024-04-08
+Molecule ID: MOL03258
+
+Objective:
+Explore alternate synthesis route for MOL03258.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

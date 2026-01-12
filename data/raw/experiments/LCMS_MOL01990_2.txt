@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01990
+Result: PASS
+Details: Drug mean general end.

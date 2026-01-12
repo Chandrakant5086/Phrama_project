@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03095
+Result: PASS
+Details: Forget fast report radio manager size southern miss.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00626
+Result: PASS
+Details: Last believe capital.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02385
+Result: PASS
+Details: Easy near professor present message.

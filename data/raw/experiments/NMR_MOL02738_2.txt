@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02738
+Result: PASS
+Details: Medical kind as ahead film capital.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02296
+Scientist: Researcher_C
+Date: 2024-01-16
+Molecule ID: MOL02587
+
+Objective:
+Investigate impurity formation for MOL02587.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

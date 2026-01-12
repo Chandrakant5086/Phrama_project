@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01843
+Scientist: Researcher_C
+Date: 2023-04-15
+Molecule ID: MOL02701
+
+Objective:
+Validate preliminary reaction conditions for MOL02701.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

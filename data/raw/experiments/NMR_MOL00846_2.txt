@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00846
+Result: PASS
+Details: It teach involve cup.

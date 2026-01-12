@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00097
+Result: PASS
+Details: Do network job.

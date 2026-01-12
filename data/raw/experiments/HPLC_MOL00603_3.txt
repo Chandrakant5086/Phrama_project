@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00603
+Result: PASS
+Details: Idea throughout yet form.

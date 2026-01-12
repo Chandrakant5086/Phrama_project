@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03503
+Result: PASS
+Details: Likely size total wait.

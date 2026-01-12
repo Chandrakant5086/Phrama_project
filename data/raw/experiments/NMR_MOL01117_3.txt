@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01117
+Result: PASS
+Details: Structure material bag case to over system.

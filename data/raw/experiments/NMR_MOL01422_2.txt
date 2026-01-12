@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01422
+Result: PASS
+Details: Industry best significant show.

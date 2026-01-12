@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04127
+Result: PASS
+Details: Art old right second meeting.

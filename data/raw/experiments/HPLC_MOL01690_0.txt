@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01690
+Result: PASS
+Details: Future growth require team nor customer two.

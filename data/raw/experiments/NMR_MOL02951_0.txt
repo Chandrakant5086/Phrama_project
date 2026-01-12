@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02951
+Result: PASS
+Details: Increase language style consumer especially recent.

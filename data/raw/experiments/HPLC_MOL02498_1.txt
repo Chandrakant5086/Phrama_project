@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02498
+Result: PASS
+Details: Future rule fire however tree soon nice.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01180
+Result: PASS
+Details: Value today some meet end.

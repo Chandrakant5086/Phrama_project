@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01583
+Result: PASS
+Details: Return collection baby list.

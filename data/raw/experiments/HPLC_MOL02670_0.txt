@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02670
+Result: PASS
+Details: Including doctor most industry.

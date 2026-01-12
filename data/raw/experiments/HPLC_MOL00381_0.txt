@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00381
+Result: PASS
+Details: Special through doctor charge another.

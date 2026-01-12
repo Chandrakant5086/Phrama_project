@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04470
+Result: PASS
+Details: Arm send force process teacher.

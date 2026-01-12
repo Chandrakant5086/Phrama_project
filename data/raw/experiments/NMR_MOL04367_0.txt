@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04367
+Result: PASS
+Details: Theory onto want house machine.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01560
+Scientist: Senior_Scientist_1
+Date: 2023-05-12
+Molecule ID: MOL01774
+
+Objective:
+Assess reaction temperature sensitivity for MOL01774.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04419
+Result: PASS
+Details: Measure past parent phone force do.

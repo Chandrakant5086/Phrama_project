@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02986
+Result: PASS
+Details: Degree price recent only culture successful.

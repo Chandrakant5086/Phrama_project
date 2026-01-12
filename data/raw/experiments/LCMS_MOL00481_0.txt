@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00481
+Result: PASS
+Details: College industry according power.

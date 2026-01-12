@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03039
+Scientist: Senior_Scientist_1
+Date: 2023-09-08
+Molecule ID: MOL03981
+
+Objective:
+Investigate impurity formation for MOL03981.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

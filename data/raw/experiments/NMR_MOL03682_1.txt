@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03682
+Result: PASS
+Details: Act according explain area.

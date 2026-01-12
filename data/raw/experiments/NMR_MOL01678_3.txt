@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01678
+Result: PASS
+Details: Road raise despite next drug.

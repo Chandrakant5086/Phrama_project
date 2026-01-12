@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04941
+Result: PASS
+Details: Investment impact system campaign shake.

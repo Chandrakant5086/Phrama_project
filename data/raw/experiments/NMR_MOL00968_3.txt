@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00968
+Result: PASS
+Details: Class field open speech right.

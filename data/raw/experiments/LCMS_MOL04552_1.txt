@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04552
+Result: PASS
+Details: Analysis word assume bag.

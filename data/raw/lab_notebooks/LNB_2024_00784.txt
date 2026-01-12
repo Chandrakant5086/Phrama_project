@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00784
+Scientist: PostDoc_2
+Date: 2023-05-26
+Molecule ID: MOL03451
+
+Objective:
+Assess reaction temperature sensitivity for MOL03451.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

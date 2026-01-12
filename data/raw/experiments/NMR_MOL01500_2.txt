@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01500
+Result: PASS
+Details: Thing question read person economy.

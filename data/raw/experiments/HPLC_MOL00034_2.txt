@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00034
+Result: PASS
+Details: Theory drop scene sort check.

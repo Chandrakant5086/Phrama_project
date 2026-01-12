@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02977
+Result: PASS
+Details: What bit forget fear.

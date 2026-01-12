@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02708
+Scientist: PostDoc_2
+Date: 2023-09-16
+Molecule ID: MOL01781
+
+Objective:
+Investigate impurity formation for MOL01781.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

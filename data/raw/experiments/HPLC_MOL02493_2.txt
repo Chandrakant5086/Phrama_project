@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02493
+Result: PASS
+Details: Campaign big product listen treatment.

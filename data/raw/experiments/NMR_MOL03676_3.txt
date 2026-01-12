@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03676
+Result: PASS
+Details: Actually heavy chance amount film.

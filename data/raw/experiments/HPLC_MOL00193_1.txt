@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00193
+Result: PASS
+Details: Partner drop process structure both sea improve.

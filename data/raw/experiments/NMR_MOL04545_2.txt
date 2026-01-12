@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04545
+Result: PASS
+Details: Movement book tell direction stop southern.

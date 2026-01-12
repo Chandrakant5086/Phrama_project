@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01417
+Result: PASS
+Details: Head quality task front full the strategy.

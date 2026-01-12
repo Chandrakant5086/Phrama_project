@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01249
+Result: PASS
+Details: By less opportunity.

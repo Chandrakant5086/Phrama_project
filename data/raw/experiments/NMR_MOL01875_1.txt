@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01875
+Result: PASS
+Details: Detail share entire.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03895
+Result: PASS
+Details: East still become station service.

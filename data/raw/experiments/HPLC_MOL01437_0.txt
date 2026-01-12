@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01437
+Result: PASS
+Details: Stay trouble half material character.

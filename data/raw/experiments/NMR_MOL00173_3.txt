@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00173
+Result: PASS
+Details: News center chance method back.

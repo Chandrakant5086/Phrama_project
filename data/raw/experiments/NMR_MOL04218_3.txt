@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04218
+Result: PASS
+Details: Similar charge after building year certainly.

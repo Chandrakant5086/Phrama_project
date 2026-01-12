@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00630
+Result: PASS
+Details: Which develop against it.

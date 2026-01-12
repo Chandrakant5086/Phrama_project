@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03674
+Scientist: Researcher_C
+Date: 2023-06-07
+Molecule ID: MOL03064
+
+Objective:
+Investigate impurity formation for MOL03064.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

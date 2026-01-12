@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01167
+Result: PASS
+Details: Establish lead about call foot.

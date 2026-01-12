@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00835
+Result: PASS
+Details: Total traditional rise big save long.

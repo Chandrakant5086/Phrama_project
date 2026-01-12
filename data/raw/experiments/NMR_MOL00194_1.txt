@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00194
+Result: PASS
+Details: Family deep my civil find process.

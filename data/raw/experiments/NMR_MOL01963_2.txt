@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01963
+Result: PASS
+Details: Game bring perform.

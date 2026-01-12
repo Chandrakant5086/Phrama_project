@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01784
+Result: PASS
+Details: Congress bad culture.

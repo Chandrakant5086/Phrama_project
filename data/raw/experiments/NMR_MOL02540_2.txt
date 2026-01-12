@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02540
+Result: PASS
+Details: Strategy agree population address not himself.

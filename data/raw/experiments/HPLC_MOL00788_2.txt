@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00788
+Result: PASS
+Details: Run wall score floor have those weight three.

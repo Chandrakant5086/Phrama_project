@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04496
+Result: PASS
+Details: Mr agreement high letter probably whatever.

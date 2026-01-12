@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03996
+Result: PASS
+Details: Enough already meeting other.

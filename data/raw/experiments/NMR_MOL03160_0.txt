@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03160
+Result: PASS
+Details: Realize part last which.

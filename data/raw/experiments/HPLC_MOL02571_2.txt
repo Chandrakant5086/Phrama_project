@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02571
+Result: PASS
+Details: Blood interesting wall.

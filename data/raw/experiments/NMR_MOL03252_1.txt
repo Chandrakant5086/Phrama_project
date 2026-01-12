@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03252
+Result: PASS
+Details: Avoid five never take get heavy hit.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00506
+Result: PASS
+Details: Clear art same dog.

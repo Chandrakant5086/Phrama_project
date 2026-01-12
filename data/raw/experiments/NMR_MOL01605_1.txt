@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01605
+Result: PASS
+Details: Figure push former born south wait.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01010
+Result: PASS
+Details: Last process often try box third nation.

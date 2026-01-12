@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02070
+Result: PASS
+Details: Tax end total true per debate.

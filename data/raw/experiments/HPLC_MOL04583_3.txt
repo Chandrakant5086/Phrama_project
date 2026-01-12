@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04583
+Result: PASS
+Details: Worker drug according although.

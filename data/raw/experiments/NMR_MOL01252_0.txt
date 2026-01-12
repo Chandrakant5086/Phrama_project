@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01252
+Result: PASS
+Details: Shoulder though true along.

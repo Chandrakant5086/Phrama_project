@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02902
+Result: PASS
+Details: Camera detail just official American.

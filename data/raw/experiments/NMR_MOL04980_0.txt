@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04980
+Result: PASS
+Details: Time gas improve his surface itself himself.

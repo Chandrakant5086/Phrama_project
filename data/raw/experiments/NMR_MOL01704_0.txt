@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01704
+Result: PASS
+Details: Animal lose never choose hold center.

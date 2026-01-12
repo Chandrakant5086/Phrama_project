@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01966
+Result: PASS
+Details: Specific appear west technology.

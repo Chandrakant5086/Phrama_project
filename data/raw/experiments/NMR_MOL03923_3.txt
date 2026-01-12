@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03923
+Result: PASS
+Details: Above stop position moment thousand surface.

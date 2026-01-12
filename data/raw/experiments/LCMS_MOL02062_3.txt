@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02062
+Result: PASS
+Details: Traditional task can PM treatment.

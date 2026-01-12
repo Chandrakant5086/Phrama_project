@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01378
+Scientist: Researcher_C
+Date: 2024-04-14
+Molecule ID: MOL04434
+
+Objective:
+Explore alternate synthesis route for MOL04434.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

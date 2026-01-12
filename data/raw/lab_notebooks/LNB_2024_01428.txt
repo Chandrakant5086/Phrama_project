@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01428
+Scientist: Researcher_C
+Date: 2023-05-05
+Molecule ID: MOL01743
+
+Objective:
+Explore alternate synthesis route for MOL01743.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

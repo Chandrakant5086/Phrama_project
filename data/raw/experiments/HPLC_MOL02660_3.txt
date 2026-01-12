@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02660
+Result: PASS
+Details: Job side meeting.

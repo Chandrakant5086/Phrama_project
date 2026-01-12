@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00661
+Scientist: Researcher_C
+Date: 2023-12-04
+Molecule ID: MOL03799
+
+Objective:
+Assess reaction temperature sensitivity for MOL03799.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

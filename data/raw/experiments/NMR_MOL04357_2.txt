@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04357
+Result: PASS
+Details: Bed receive but ground Mrs than yeah.

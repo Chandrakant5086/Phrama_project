@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00016
+Result: PASS
+Details: Back sit off last before.

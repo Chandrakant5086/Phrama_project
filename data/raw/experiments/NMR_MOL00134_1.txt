@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00134
+Result: PASS
+Details: Seek expect discover boy camera.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04002
+Result: PASS
+Details: Energy home authority first.

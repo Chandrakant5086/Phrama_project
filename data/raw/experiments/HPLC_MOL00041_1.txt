@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00041
+Result: PASS
+Details: Middle project whose member wish.

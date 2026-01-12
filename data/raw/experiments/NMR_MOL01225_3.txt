@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01225
+Result: PASS
+Details: Base pretty watch class evidence form.

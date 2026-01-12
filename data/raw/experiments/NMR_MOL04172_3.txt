@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04172
+Result: PASS
+Details: Network nature guess compare move.

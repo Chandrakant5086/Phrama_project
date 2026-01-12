@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03163
+Result: PASS
+Details: Player attack six face area.

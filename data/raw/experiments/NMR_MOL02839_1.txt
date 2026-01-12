@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02839
+Result: PASS
+Details: Avoid physical room take.

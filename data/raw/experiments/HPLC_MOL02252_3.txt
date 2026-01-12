@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02252
+Result: PASS
+Details: Claim enough while particular positive.

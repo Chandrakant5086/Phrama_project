@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00680
+Result: PASS
+Details: Painting war still machine send network camera.

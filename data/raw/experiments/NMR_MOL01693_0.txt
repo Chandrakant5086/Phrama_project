@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01693
+Result: PASS
+Details: Scientist ability without really.

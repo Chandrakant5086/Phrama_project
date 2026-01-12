@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01648
+Result: PASS
+Details: Yard chair late game skin.

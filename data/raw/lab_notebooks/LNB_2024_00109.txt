@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00109
+Scientist: Researcher_C
+Date: 2023-05-17
+Molecule ID: MOL02550
+
+Objective:
+Validate preliminary reaction conditions for MOL02550.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

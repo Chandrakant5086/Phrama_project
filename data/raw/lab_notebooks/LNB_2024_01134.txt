@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01134
+Scientist: PostDoc_2
+Date: 2023-06-28
+Molecule ID: MOL04584
+
+Objective:
+Investigate impurity formation for MOL04584.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

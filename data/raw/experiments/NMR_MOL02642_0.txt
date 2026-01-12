@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02642
+Result: PASS
+Details: Simple create music individual benefit.

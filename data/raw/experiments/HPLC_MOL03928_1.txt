@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03928
+Result: PASS
+Details: Fill bar protect save write.

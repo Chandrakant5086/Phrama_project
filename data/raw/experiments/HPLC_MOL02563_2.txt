@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02563
+Result: PASS
+Details: Discussion opportunity measure.

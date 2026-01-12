@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00983
+Result: PASS
+Details: Contain bag prepare some level.

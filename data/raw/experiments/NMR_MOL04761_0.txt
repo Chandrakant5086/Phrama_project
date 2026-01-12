@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04761
+Result: PASS
+Details: Friend style run sister.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00618
+Result: PASS
+Details: Reach find current enjoy.

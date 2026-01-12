@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00469
+Result: PASS
+Details: Quality fish now understand either idea.

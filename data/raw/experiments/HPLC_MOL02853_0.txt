@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02853
+Result: PASS
+Details: Happy political news impact.

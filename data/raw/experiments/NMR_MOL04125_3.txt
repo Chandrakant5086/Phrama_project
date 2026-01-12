@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04125
+Result: PASS
+Details: Turn become this single high.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00655
+Result: PASS
+Details: End successful president why system.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04264
+Result: PASS
+Details: Gas require statement nature.

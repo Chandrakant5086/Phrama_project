@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03870
+Result: PASS
+Details: Remain simple success.

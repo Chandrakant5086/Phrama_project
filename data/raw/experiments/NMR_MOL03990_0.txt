@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03990
+Result: PASS
+Details: Involve capital start project door.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01408
+Result: PASS
+Details: Right center old agent turn food.

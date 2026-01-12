@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00106
+Scientist: Senior_Scientist_1
+Date: 2023-04-15
+Molecule ID: MOL04646
+
+Objective:
+Assess reaction temperature sensitivity for MOL04646.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

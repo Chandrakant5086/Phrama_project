@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02953
+Result: PASS
+Details: Lay TV trip leader including force treat.

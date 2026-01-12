@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03204
+Result: PASS
+Details: Major near less style really.

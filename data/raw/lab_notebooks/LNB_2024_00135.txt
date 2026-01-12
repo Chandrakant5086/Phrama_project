@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00135
+Scientist: Senior_Scientist_1
+Date: 2023-06-20
+Molecule ID: MOL01973
+
+Objective:
+Investigate impurity formation for MOL01973.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

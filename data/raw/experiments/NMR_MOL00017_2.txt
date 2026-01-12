@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00017
+Result: PASS
+Details: List power with suddenly hot local.

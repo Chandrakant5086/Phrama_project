@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00616
+Result: PASS
+Details: Billion commercial health.

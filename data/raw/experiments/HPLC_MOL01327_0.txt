@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01327
+Result: PASS
+Details: Type body smile mean writer bed.

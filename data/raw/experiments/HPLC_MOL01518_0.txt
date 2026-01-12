@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01518
+Result: PASS
+Details: Never later meet none reduce.

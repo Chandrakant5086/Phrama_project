@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02569
+Result: PASS
+Details: Might mention training when common.

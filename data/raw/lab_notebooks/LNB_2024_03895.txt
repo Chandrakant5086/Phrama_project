@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03895
+Scientist: Researcher_C
+Date: 2023-06-12
+Molecule ID: MOL00165
+
+Objective:
+Assess reaction temperature sensitivity for MOL00165.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02166
+Result: PASS
+Details: Usually day top provide.

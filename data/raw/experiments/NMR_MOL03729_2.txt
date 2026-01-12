@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03729
+Result: PASS
+Details: Treatment assume during.

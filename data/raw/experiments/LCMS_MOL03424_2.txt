@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03424
+Result: PASS
+Details: Animal read rate.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01190
+Scientist: Researcher_B
+Date: 2024-04-14
+Molecule ID: MOL02268
+
+Objective:
+Test solvent impact on yield for MOL02268.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

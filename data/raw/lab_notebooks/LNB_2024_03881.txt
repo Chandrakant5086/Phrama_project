@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03881
+Scientist: Researcher_C
+Date: 2023-05-28
+Molecule ID: MOL02052
+
+Objective:
+Investigate impurity formation for MOL02052.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

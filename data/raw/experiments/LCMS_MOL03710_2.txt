@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03710
+Result: PASS
+Details: Growth interview score serve.

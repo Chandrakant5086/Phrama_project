@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03958
+Scientist: Researcher_C
+Date: 2023-06-21
+Molecule ID: MOL00934
+
+Objective:
+Investigate impurity formation for MOL00934.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

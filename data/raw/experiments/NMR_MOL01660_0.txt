@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01660
+Result: PASS
+Details: Play building nice reality draw.

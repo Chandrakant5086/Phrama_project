@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00937
+Result: PASS
+Details: National alone rate area.

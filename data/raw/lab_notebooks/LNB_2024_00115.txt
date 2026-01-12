@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00115
+Scientist: Researcher_B
+Date: 2024-01-04
+Molecule ID: MOL04466
+
+Objective:
+Assess reaction temperature sensitivity for MOL04466.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

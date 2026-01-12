@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02514
+Result: PASS
+Details: Show magazine provide stand.

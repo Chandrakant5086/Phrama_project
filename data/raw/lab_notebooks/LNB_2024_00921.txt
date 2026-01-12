@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00921
+Scientist: Researcher_C
+Date: 2023-09-28
+Molecule ID: MOL04657
+
+Objective:
+Explore alternate synthesis route for MOL04657.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00000
+Result: PASS
+Details: Agree safe sing article lead.

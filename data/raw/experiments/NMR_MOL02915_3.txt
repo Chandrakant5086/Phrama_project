@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02915
+Result: PASS
+Details: Can industry between yard mean.

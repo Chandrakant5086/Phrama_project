@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04953
+Result: PASS
+Details: Challenge television central.

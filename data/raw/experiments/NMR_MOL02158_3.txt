@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02158
+Result: PASS
+Details: None majority since.

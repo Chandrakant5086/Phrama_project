@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04428
+Result: PASS
+Details: Across director suggest relationship hope.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04650
+Result: PASS
+Details: His and senior candidate traditional prepare.

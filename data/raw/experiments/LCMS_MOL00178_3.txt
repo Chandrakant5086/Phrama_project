@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00178
+Result: PASS
+Details: Cold effort main international might collection.

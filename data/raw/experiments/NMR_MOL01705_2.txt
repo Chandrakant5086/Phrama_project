@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01705
+Result: PASS
+Details: Year prepare window task contain.

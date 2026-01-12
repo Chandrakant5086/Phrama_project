@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02470
+Result: PASS
+Details: Pay including my.

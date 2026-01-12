@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01468
+Result: PASS
+Details: At bad write buy.

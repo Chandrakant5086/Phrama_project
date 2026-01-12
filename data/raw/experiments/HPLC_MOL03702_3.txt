@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03702
+Result: PASS
+Details: Defense computer side assume growth process.

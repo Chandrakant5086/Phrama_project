@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03725
+Result: PASS
+Details: Firm during ago factor step remain information.

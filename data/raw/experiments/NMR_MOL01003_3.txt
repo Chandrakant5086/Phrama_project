@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01003
+Result: PASS
+Details: Quality foreign feeling history.

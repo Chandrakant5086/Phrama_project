@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02951
+Result: PASS
+Details: Fall ask choose PM act establish.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04745
+Result: PASS
+Details: Begin language loss property history safe structure growth.

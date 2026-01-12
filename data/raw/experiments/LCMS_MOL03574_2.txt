@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03574
+Result: PASS
+Details: Property indicate as west lead push.

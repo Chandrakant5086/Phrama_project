@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01540
+Result: PASS
+Details: Include or star mean.

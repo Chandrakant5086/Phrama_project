@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01760
+Scientist: Researcher_C
+Date: 2024-04-18
+Molecule ID: MOL01449
+
+Objective:
+Investigate impurity formation for MOL01449.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

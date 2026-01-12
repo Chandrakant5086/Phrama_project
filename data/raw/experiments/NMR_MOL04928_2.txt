@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04928
+Result: PASS
+Details: Model knowledge admit expert court.

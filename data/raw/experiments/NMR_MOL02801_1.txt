@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02801
+Result: PASS
+Details: Crime statement cell off whether up.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00023
+Result: PASS
+Details: Whole politics leg from situation property.

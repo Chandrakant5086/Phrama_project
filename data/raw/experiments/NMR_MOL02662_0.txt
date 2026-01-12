@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02662
+Result: PASS
+Details: Personal although job organization.

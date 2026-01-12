@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00970
+Result: PASS
+Details: Activity spring member.

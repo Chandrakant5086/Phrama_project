@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03701
+Result: PASS
+Details: Improve certainly manage water note.

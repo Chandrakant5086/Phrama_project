@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01910
+Result: PASS
+Details: Best space true away inside finally beat.

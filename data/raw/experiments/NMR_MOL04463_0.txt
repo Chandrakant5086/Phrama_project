@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04463
+Result: PASS
+Details: Leave total campaign little necessary guy.

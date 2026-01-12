@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03710
+Result: PASS
+Details: World place successful fall.

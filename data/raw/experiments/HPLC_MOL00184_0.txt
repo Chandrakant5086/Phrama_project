@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00184
+Result: PASS
+Details: His culture degree up guess.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00558
+Scientist: Senior_Scientist_1
+Date: 2023-05-25
+Molecule ID: MOL04611
+
+Objective:
+Explore alternate synthesis route for MOL04611.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

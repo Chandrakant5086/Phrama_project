@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00755
+Result: PASS
+Details: Off special true someone room center move.

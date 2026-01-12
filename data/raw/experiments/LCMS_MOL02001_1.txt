@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02001
+Result: PASS
+Details: Manager international treatment official indicate drug.

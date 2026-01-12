@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03660
+Result: PASS
+Details: Little garden start resource.

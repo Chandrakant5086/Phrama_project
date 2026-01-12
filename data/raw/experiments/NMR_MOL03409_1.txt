@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03409
+Result: PASS
+Details: Drug industry control pressure here.

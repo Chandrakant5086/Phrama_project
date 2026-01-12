@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04745
+Result: PASS
+Details: What for answer successful of will.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00795
+Result: PASS
+Details: Condition likely anything structure.

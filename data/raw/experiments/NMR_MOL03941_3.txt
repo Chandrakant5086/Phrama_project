@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03941
+Result: PASS
+Details: Can image generation imagine.

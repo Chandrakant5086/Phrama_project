@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00285
+Result: PASS
+Details: Region create large thought window also outside.

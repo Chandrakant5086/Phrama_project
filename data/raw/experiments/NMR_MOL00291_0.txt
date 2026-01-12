@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00291
+Result: PASS
+Details: Leave hour beautiful change.

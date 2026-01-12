@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04141
+Result: PASS
+Details: Lot while rise involve within see middle.

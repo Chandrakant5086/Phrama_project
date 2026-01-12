@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04242
+Result: PASS
+Details: Hair answer heart.

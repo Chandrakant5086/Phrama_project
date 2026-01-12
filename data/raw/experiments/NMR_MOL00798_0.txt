@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00798
+Result: PASS
+Details: Once through once teacher.

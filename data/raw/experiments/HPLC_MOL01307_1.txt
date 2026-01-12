@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01307
+Result: PASS
+Details: Training in beat shoulder hit especially huge.

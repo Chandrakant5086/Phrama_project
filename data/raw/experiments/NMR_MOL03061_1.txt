@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03061
+Result: PASS
+Details: Health win middle her.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01332
+Result: PASS
+Details: They strategy station reason upon paper.

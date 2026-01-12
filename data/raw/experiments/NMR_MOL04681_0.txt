@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04681
+Result: PASS
+Details: Population itself test hundred.

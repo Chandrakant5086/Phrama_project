@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04400
+Result: PASS
+Details: Four bit few stop.

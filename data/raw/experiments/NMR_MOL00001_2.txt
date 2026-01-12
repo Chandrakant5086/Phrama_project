@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00001
+Result: PASS
+Details: Nice south argue town.

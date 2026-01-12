@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01544
+Result: PASS
+Details: Table research yeah good.

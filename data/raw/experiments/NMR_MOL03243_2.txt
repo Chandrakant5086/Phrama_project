@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03243
+Result: PASS
+Details: Sense see stuff yes.

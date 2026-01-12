@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02481
+Result: PASS
+Details: Necessary population husband read set.

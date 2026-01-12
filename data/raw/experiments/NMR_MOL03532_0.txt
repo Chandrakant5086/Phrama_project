@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03532
+Result: PASS
+Details: On individual exist fall he.

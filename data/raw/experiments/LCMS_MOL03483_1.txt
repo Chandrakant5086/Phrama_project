@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03483
+Result: PASS
+Details: Law low begin account enter yet.

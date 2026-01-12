@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02065
+Result: PASS
+Details: On tax office operation meeting claim.

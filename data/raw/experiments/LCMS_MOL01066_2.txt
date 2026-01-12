@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01066
+Result: PASS
+Details: Out manager notice explain now.

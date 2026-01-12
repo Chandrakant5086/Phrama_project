@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04076
+Result: PASS
+Details: Need down development real.

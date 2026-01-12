@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01032
+Result: PASS
+Details: Media gas time treat agree adult.

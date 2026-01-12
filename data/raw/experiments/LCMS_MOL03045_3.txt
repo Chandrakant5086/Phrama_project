@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03045
+Result: PASS
+Details: Bit wall around six.

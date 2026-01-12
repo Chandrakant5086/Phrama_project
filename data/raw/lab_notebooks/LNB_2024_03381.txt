@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03381
+Scientist: Researcher_C
+Date: 2023-03-17
+Molecule ID: MOL01183
+
+Objective:
+Assess reaction temperature sensitivity for MOL01183.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

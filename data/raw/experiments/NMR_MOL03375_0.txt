@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03375
+Result: PASS
+Details: Age data school strategy trial also.

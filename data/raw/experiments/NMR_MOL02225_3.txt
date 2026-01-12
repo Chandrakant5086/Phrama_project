@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02225
+Result: PASS
+Details: Statement magazine back worker too.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01755
+Result: PASS
+Details: Again dog clear order.

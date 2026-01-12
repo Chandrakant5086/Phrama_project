@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03229
+Result: PASS
+Details: List structure laugh prepare.

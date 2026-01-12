@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00860
+Result: PASS
+Details: Car all school require onto role.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01880
+Result: PASS
+Details: Score section exist Mrs.

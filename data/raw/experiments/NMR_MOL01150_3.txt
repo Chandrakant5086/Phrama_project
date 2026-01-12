@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01150
+Result: PASS
+Details: High save car ability main.

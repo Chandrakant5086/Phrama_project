@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04310
+Result: PASS
+Details: No fill father identify.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03635
+Result: PASS
+Details: Assume control protect with difference happen pay.

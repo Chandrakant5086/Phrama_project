@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01627
+Result: PASS
+Details: See number buy through case.

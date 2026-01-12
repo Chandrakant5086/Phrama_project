@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03744
+Result: PASS
+Details: Development different get type conference state.

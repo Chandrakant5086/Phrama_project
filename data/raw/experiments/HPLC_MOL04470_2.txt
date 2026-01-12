@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04470
+Result: PASS
+Details: Rather toward commercial consumer common.

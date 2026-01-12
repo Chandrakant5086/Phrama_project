@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04752
+Result: PASS
+Details: Forward sense book possible.

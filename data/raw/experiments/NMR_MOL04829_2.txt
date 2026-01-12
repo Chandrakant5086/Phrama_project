@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04829
+Result: PASS
+Details: Now mouth amount.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00725
+Result: PASS
+Details: Each go quality relate us myself.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03060
+Result: PASS
+Details: Field century fact point question candidate within.

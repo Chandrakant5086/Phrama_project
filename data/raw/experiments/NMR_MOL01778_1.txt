@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01778
+Result: PASS
+Details: Memory under quickly listen across amount.

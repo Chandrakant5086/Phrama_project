@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01642
+Result: PASS
+Details: Week image ball analysis one.

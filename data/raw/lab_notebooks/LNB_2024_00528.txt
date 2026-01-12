@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00528
+Scientist: Researcher_C
+Date: 2023-01-14
+Molecule ID: MOL02925
+
+Objective:
+Test solvent impact on yield for MOL02925.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

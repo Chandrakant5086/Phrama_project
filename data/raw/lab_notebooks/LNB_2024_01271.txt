@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01271
+Scientist: Researcher_B
+Date: 2024-03-28
+Molecule ID: MOL00817
+
+Objective:
+Investigate impurity formation for MOL00817.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03279
+Scientist: Researcher_A
+Date: 2023-02-09
+Molecule ID: MOL01089
+
+Objective:
+Explore alternate synthesis route for MOL01089.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

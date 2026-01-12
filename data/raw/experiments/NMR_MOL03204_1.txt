@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03204
+Result: PASS
+Details: Whole heavy majority too.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04850
+Result: PASS
+Details: Prevent avoid edge.

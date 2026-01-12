@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00008
+Result: PASS
+Details: Alone visit adult reflect eight.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02538
+Result: PASS
+Details: Campaign see majority.

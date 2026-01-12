@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00482
+Result: PASS
+Details: Step building society administration.

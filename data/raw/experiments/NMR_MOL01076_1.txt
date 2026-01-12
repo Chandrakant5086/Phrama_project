@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01076
+Result: PASS
+Details: Present experience by test individual store morning.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01923
+Result: PASS
+Details: Small along value any base wide break.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02633
+Result: PASS
+Details: Trip guy doctor style.

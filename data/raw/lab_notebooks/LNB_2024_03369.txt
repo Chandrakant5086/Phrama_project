@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03369
+Scientist: Researcher_B
+Date: 2023-11-01
+Molecule ID: MOL02210
+
+Objective:
+Investigate impurity formation for MOL02210.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

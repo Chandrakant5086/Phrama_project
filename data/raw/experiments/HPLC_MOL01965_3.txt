@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01965
+Result: PASS
+Details: Best few a fast water media offer.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03492
+Result: PASS
+Details: End what change offer role show.

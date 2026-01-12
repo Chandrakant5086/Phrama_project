@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03228
+Result: PASS
+Details: Trouble under close Mr in including.

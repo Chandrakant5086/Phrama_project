@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04578
+Result: PASS
+Details: Structure term future best matter under.

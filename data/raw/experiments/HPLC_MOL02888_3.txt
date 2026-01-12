@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02888
+Result: PASS
+Details: Law environment surface mean effort stop.

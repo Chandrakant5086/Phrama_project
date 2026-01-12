@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03890
+Result: PASS
+Details: Last economic even skin approach east.

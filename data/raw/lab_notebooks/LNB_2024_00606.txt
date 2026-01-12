@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00606
+Scientist: Senior_Scientist_1
+Date: 2024-04-07
+Molecule ID: MOL01905
+
+Objective:
+Assess reaction temperature sensitivity for MOL01905.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

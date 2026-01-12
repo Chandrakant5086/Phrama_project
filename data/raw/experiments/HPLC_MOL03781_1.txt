@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03781
+Result: PASS
+Details: Shake strategy series many in bank.

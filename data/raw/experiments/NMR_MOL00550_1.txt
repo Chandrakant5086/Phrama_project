@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00550
+Result: PASS
+Details: Night significant nothing.

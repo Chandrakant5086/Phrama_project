@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00498
+Result: PASS
+Details: Stop one skill.

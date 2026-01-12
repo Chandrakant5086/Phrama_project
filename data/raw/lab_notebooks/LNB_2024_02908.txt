@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02908
+Scientist: Researcher_A
+Date: 2024-05-14
+Molecule ID: MOL02794
+
+Objective:
+Investigate impurity formation for MOL02794.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

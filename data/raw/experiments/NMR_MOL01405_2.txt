@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01405
+Result: PASS
+Details: Support future Mr become fill.

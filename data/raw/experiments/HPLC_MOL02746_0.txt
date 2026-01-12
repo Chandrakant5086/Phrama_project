@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02746
+Result: PASS
+Details: Industry friend type include.

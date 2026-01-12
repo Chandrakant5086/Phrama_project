@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00999
+Result: PASS
+Details: Full draw television truth.

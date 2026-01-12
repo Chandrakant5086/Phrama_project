@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02263
+Result: PASS
+Details: Size indeed present side.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04546
+Result: PASS
+Details: Name area while image kind need radio.

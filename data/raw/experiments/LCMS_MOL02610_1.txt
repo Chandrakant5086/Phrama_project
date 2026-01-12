@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02610
+Result: PASS
+Details: Others wide should game result glass.

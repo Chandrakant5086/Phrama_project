@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04306
+Result: PASS
+Details: Live challenge such.

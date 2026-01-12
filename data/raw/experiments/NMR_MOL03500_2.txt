@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03500
+Result: PASS
+Details: Mission reason explain.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03385
+Result: PASS
+Details: Piece likely heavy child thought gas new.

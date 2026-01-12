@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03122
+Result: PASS
+Details: Of detail successful amount chance.

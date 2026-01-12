@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04882
+Result: PASS
+Details: Either read performance oil goal art event system.

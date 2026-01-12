@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01184
+Result: PASS
+Details: Gun learn edge.

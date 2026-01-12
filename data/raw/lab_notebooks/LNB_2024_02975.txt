@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02975
+Scientist: Researcher_C
+Date: 2024-01-24
+Molecule ID: MOL03661
+
+Objective:
+Assess reaction temperature sensitivity for MOL03661.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

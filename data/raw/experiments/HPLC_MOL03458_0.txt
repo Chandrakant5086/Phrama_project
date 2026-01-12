@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03458
+Result: PASS
+Details: Some idea daughter listen allow.

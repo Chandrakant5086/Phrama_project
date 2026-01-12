@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03643
+Result: PASS
+Details: Compare material rich education.

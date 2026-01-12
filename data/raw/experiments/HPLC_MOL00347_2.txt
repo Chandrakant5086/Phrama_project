@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00347
+Result: PASS
+Details: Son serve respond early tell.

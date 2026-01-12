@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02875
+Result: PASS
+Details: Use general detail best color current green.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04058
+Result: PASS
+Details: Big deal according bad thing.

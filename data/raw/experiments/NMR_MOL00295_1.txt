@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00295
+Result: PASS
+Details: Involve hand onto memory any necessary.

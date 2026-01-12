@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03789
+Result: PASS
+Details: Film company process door nature choice.

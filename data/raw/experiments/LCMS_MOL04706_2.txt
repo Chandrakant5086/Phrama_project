@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04706
+Result: PASS
+Details: Always white charge by popular any event.

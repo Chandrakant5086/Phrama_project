@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01921
+Result: PASS
+Details: Party sign again opportunity event gas place.

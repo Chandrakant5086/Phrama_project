@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01832
+Scientist: Researcher_A
+Date: 2024-04-14
+Molecule ID: MOL03812
+
+Objective:
+Investigate impurity formation for MOL03812.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

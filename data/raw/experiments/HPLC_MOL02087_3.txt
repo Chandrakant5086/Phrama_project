@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02087
+Result: PASS
+Details: Draw score society word.

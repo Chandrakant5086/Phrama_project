@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04859
+Result: PASS
+Details: Environmental by other real degree.

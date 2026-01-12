@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00782
+Result: PASS
+Details: Environment price course international take.

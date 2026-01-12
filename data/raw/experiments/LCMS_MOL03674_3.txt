@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03674
+Result: PASS
+Details: Throw choice bank just approach early.

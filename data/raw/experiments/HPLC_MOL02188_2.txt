@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02188
+Result: PASS
+Details: Write daughter accept work environmental.

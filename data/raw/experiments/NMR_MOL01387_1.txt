@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01387
+Result: PASS
+Details: Material want Democrat with hold.

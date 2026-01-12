@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02652
+Result: PASS
+Details: Movement whole take nothing.

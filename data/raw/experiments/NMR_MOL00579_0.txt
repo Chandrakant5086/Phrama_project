@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00579
+Result: PASS
+Details: Well kitchen kid professor.

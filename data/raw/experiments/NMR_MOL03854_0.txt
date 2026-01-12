@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03854
+Result: PASS
+Details: Now do get body part.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03005
+Result: PASS
+Details: All mother reality identify.

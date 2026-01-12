@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04982
+Result: PASS
+Details: Body American final result local hot word.

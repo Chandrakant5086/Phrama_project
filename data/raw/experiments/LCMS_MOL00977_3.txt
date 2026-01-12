@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00977
+Result: PASS
+Details: Food special turn early between building degree.

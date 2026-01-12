@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03380
+Scientist: Researcher_C
+Date: 2023-06-20
+Molecule ID: MOL00945
+
+Objective:
+Test solvent impact on yield for MOL00945.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

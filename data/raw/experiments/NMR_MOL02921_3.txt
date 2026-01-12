@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02921
+Result: PASS
+Details: Station stop less measure.

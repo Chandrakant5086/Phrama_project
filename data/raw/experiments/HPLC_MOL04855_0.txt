@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04855
+Result: PASS
+Details: As enjoy effect position hold.

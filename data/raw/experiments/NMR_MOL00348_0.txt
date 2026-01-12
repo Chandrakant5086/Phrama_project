@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00348
+Result: PASS
+Details: Method carry hold rock particularly.

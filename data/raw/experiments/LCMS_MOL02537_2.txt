@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02537
+Result: PASS
+Details: Somebody individual fine total.

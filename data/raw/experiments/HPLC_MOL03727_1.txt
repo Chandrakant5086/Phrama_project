@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03727
+Result: PASS
+Details: Standard near film camera ground set.

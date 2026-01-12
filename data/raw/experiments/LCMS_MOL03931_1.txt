@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03931
+Result: PASS
+Details: Color party even.

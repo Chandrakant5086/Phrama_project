@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01884
+Result: PASS
+Details: Fish animal language they.

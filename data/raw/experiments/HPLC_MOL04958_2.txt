@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04958
+Result: PASS
+Details: Cup point rule time partner energy.

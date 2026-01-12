@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01353
+Scientist: Researcher_C
+Date: 2023-09-10
+Molecule ID: MOL03352
+
+Objective:
+Explore alternate synthesis route for MOL03352.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

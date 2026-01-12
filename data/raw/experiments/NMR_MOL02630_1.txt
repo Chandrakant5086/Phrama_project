@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02630
+Result: PASS
+Details: Keep mention level.

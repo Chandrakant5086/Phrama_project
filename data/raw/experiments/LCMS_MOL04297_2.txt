@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04297
+Result: PASS
+Details: Cup first clearly lose specific box address.

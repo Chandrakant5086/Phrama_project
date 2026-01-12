@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01209
+Result: PASS
+Details: Issue fund together mouth be model population.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03036
+Scientist: Researcher_C
+Date: 2023-05-30
+Molecule ID: MOL02082
+
+Objective:
+Explore alternate synthesis route for MOL02082.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

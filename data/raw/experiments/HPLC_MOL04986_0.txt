@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04986
+Result: PASS
+Details: Perform inside write hour between wrong value.

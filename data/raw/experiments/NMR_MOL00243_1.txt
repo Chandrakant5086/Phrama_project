@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00243
+Result: PASS
+Details: Let population Mrs military event.

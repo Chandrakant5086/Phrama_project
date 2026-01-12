@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02032
+Result: PASS
+Details: Campaign government skin hard low.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00281
+Result: PASS
+Details: Back build century edge continue number.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03757
+Result: PASS
+Details: Behavior more out rule price.

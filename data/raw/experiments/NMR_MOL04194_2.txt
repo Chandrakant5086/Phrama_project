@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04194
+Result: PASS
+Details: Support all service together seven provide worker.

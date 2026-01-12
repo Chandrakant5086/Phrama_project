@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04971
+Result: PASS
+Details: Interesting and rather almost how natural.

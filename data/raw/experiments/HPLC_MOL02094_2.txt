@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02094
+Result: PASS
+Details: Store need city order.

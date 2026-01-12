@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02949
+Result: PASS
+Details: Set similar pressure act under business office.

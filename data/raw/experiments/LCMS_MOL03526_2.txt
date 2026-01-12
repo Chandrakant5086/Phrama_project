@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03526
+Result: PASS
+Details: Look mean appear product difference material.

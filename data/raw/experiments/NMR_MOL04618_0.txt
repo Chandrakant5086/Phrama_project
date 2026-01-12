@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04618
+Result: PASS
+Details: New natural street car standard bag.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02708
+Result: PASS
+Details: Them have mother stop control.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00937
+Scientist: Senior_Scientist_1
+Date: 2024-04-18
+Molecule ID: MOL03428
+
+Objective:
+Test solvent impact on yield for MOL03428.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

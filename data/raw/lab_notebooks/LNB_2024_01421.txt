@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01421
+Scientist: Researcher_A
+Date: 2024-03-30
+Molecule ID: MOL03912
+
+Objective:
+Test solvent impact on yield for MOL03912.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

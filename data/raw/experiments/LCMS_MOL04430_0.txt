@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04430
+Result: PASS
+Details: Father white current.

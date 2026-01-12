@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04179
+Result: PASS
+Details: Stage mean since my nor generation.

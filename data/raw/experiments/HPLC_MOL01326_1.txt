@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01326
+Result: PASS
+Details: Small speech research receive begin.

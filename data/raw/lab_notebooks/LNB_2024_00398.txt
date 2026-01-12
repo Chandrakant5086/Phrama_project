@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00398
+Scientist: Researcher_B
+Date: 2023-10-09
+Molecule ID: MOL01916
+
+Objective:
+Explore alternate synthesis route for MOL01916.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

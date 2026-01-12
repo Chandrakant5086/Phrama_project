@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04591
+Result: PASS
+Details: Note indicate both determine cut action.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01126
+Result: PASS
+Details: Address perform trip message base name.

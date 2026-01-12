@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03541
+Result: PASS
+Details: Action road turn end plan.

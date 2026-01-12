@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02761
+Scientist: Senior_Scientist_1
+Date: 2023-07-05
+Molecule ID: MOL03171
+
+Objective:
+Investigate impurity formation for MOL03171.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

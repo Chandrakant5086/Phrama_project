@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04048
+Result: PASS
+Details: Piece list garden meet significant.

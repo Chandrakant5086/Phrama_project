@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02876
+Result: PASS
+Details: Describe language only technology.

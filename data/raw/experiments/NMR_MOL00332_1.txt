@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00332
+Result: PASS
+Details: Behind media edge large.

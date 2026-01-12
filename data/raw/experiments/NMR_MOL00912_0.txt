@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00912
+Result: PASS
+Details: Design significant bag per.

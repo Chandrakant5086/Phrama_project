@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03011
+Result: PASS
+Details: True summer wrong pattern.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04968
+Result: PASS
+Details: Realize each indicate read matter.

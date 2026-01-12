@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02717
+Result: PASS
+Details: But reason degree wait upon.

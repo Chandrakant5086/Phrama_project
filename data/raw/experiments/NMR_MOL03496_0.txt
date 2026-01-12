@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03496
+Result: PASS
+Details: Science past modern beautiful moment.

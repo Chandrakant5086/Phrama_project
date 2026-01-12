@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04107
+Result: PASS
+Details: Finish either hot role group thus.

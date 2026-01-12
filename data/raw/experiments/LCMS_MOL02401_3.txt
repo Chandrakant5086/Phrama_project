@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02401
+Result: PASS
+Details: Whatever institution type card recognize.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01380
+Result: PASS
+Details: Manage better left blood.

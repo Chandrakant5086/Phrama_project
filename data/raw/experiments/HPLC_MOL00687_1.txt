@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00687
+Result: PASS
+Details: Truth night quality different phone time.

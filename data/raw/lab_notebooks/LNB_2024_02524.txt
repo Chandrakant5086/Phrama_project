@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02524
+Scientist: Researcher_B
+Date: 2023-07-24
+Molecule ID: MOL04083
+
+Objective:
+Test solvent impact on yield for MOL04083.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

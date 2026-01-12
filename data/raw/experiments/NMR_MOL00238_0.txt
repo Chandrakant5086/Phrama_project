@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00238
+Result: PASS
+Details: Before put one two.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03994
+Result: PASS
+Details: Learn effect view play.

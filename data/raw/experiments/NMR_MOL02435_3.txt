@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02435
+Result: PASS
+Details: Add impact or low power which admit.

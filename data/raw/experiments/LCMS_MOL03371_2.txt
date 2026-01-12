@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03371
+Result: PASS
+Details: Remain already owner medical.

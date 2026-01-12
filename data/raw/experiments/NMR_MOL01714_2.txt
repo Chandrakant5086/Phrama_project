@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01714
+Result: PASS
+Details: Much guy behind onto have population two.

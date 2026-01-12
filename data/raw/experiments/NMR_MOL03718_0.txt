@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03718
+Result: PASS
+Details: Water character state seat.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03623
+Result: PASS
+Details: Upon difference mention cold bag.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03488
+Result: PASS
+Details: Take simply boy off.

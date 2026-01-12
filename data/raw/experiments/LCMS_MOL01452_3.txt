@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01452
+Result: PASS
+Details: Event professor guess and report.

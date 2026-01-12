@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00884
+Scientist: PostDoc_2
+Date: 2023-02-12
+Molecule ID: MOL03686
+
+Objective:
+Validate preliminary reaction conditions for MOL03686.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

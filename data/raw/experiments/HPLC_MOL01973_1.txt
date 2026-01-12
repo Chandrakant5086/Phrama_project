@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01973
+Result: PASS
+Details: Side enough wind rate cell such.

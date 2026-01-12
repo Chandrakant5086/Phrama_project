@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01600
+Result: PASS
+Details: Former capital budget today good.

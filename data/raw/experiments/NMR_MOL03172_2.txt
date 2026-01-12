@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03172
+Result: PASS
+Details: Early ahead mother put two piece.

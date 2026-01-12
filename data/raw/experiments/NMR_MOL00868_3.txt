@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00868
+Result: PASS
+Details: Key imagine actually full.

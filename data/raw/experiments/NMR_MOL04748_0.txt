@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04748
+Result: PASS
+Details: Hard policy nation several room.

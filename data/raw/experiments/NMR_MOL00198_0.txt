@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00198
+Result: PASS
+Details: Catch company respond add require positive.

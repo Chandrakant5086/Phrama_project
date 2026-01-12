@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04491
+Result: PASS
+Details: Maybe idea more.

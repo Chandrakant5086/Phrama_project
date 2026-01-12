@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02494
+Result: PASS
+Details: How keep require soldier successful type.

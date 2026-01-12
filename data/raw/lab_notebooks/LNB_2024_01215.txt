@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01215
+Scientist: Senior_Scientist_1
+Date: 2023-05-14
+Molecule ID: MOL04224
+
+Objective:
+Validate preliminary reaction conditions for MOL04224.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

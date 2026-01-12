@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03637
+Result: PASS
+Details: Always project plant onto truth two who.

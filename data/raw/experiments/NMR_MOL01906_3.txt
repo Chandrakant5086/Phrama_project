@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01906
+Result: PASS
+Details: Move surface whether thousand score.

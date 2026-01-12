@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00275
+Scientist: Senior_Scientist_1
+Date: 2024-01-23
+Molecule ID: MOL01918
+
+Objective:
+Assess reaction temperature sensitivity for MOL01918.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02479
+Result: PASS
+Details: Modern population detail.

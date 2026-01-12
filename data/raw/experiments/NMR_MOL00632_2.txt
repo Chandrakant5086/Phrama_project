@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00632
+Result: PASS
+Details: Police sense represent family.

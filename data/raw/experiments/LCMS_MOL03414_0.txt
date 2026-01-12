@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03414
+Result: PASS
+Details: Into take often series.

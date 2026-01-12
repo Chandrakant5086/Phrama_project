@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00203
+Result: PASS
+Details: Vote chance kid special positive find.

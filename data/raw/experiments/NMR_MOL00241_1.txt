@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00241
+Result: PASS
+Details: Account population choice under third remain receive.

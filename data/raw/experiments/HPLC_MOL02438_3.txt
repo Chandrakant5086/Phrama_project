@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02438
+Result: PASS
+Details: My first debate.

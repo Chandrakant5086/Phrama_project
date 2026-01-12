@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03221
+Result: PASS
+Details: Benefit current paper.

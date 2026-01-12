@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04719
+Result: PASS
+Details: Benefit smile current whether miss.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04222
+Result: PASS
+Details: Buy sound other leave data.

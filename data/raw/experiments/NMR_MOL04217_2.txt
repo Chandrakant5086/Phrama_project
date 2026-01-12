@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04217
+Result: PASS
+Details: Western employee position support structure happy.

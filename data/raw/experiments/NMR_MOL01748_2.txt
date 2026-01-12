@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01748
+Result: PASS
+Details: Bit ago reduce series state garden thousand pattern.

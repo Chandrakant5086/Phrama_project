@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00371
+Result: PASS
+Details: Data rich debate trade.

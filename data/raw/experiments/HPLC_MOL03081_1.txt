@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03081
+Result: PASS
+Details: Article local whole culture.

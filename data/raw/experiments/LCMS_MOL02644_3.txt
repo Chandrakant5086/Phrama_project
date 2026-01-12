@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02644
+Result: PASS
+Details: Rule seat week wish environment.

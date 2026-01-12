@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02284
+Result: PASS
+Details: To color better type.

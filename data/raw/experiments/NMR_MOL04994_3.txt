@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04994
+Result: PASS
+Details: Family true write law show establish.

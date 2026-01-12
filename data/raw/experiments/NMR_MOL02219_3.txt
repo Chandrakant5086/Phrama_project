@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02219
+Result: PASS
+Details: Put know create in fill specific.

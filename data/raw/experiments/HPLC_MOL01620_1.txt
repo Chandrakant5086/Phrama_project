@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01620
+Result: PASS
+Details: Least way site spring result.

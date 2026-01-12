@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03129
+Result: PASS
+Details: Learn many boy man.

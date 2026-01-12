@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02182
+Result: PASS
+Details: Determine value own church explain it finally.

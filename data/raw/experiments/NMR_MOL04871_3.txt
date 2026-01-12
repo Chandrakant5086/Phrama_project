@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04871
+Result: PASS
+Details: Beyond together ago.

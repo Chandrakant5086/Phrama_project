@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04757
+Result: PASS
+Details: Detail note member quality call care stock.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01441
+Result: PASS
+Details: Student field tax weight.

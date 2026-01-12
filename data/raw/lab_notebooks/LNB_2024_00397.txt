@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00397
+Scientist: Researcher_A
+Date: 2024-04-30
+Molecule ID: MOL04515
+
+Objective:
+Explore alternate synthesis route for MOL04515.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

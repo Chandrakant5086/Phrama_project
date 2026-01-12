@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03853
+Result: PASS
+Details: Treatment between outside action happy.

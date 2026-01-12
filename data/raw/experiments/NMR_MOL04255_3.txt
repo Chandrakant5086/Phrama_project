@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04255
+Result: PASS
+Details: Hundred young source or send.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04209
+Result: PASS
+Details: Member trip look possible.

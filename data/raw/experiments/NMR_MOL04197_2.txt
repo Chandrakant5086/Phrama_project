@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04197
+Result: PASS
+Details: Push camera join economy service value deep.

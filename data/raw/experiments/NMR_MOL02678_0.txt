@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02678
+Result: PASS
+Details: Hour by type necessary never.

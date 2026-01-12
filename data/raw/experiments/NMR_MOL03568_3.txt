@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03568
+Result: PASS
+Details: Not call service help rise under.

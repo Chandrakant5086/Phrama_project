@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04885
+Result: PASS
+Details: Truth character radio small center this environment.

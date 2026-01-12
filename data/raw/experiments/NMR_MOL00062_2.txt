@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00062
+Result: PASS
+Details: Phone dark maintain cost.

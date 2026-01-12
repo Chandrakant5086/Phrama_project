@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04993
+Result: PASS
+Details: Standard music be probably American.

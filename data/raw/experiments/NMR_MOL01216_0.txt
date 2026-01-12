@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01216
+Result: PASS
+Details: Left international answer answer soon member water.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04566
+Result: PASS
+Details: Not kitchen respond white.

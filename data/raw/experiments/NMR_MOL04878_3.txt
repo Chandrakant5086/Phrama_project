@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04878
+Result: PASS
+Details: Degree drop sit production evening.

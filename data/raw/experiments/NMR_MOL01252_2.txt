@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01252
+Result: PASS
+Details: Write appear environmental share across final lead.

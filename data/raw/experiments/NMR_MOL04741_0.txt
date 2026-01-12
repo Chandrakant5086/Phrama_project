@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04741
+Result: PASS
+Details: North field final home.

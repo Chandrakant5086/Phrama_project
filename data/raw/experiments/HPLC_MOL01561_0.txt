@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01561
+Result: PASS
+Details: Chance student huge wait unit wait to.

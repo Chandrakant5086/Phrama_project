@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00990
+Result: PASS
+Details: Strategy behavior fall example American.

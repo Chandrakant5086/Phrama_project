@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02893
+Result: PASS
+Details: Full live scientist enter.

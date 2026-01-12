@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01895
+Result: PASS
+Details: Television lead note collection former.

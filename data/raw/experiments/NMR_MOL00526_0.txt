@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00526
+Result: PASS
+Details: Station car language address several child.

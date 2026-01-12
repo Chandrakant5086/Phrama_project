@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03079
+Result: PASS
+Details: Standard design agree east.

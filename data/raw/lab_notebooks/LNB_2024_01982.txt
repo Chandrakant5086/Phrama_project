@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01982
+Scientist: Researcher_A
+Date: 2024-03-11
+Molecule ID: MOL02451
+
+Objective:
+Investigate impurity formation for MOL02451.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

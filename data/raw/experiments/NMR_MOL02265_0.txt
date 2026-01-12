@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02265
+Result: PASS
+Details: Benefit best edge policy after week.

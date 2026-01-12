@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00828
+Result: PASS
+Details: Reality actually outside film.

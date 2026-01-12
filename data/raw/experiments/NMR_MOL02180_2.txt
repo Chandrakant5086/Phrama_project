@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02180
+Result: PASS
+Details: Student measure food.

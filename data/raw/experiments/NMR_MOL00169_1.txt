@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00169
+Result: PASS
+Details: Current around forget language.

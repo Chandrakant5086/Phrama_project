@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00605
+Result: PASS
+Details: These clearly operation project.

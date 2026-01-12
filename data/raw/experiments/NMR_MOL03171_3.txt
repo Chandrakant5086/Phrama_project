@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03171
+Result: PASS
+Details: Hair term sound around financial process.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01486
+Result: PASS
+Details: Task nation gun show.

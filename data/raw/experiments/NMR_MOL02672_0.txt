@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02672
+Result: PASS
+Details: Action present increase child response pretty.

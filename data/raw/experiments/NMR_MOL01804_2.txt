@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01804
+Result: PASS
+Details: Hold ever mean argue glass new score.

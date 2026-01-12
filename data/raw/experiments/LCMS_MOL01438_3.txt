@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01438
+Result: PASS
+Details: Would those without without majority.

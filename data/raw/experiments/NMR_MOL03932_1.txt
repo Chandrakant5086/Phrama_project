@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03932
+Result: PASS
+Details: Building once for traditional.

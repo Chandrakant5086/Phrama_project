@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02009
+Result: PASS
+Details: Available break evidence minute third including occur.

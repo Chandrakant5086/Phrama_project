@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04313
+Result: PASS
+Details: Care without work.

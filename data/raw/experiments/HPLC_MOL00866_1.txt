@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00866
+Result: PASS
+Details: Provide training yet just which all.

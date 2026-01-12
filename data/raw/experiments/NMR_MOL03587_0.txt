@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03587
+Result: PASS
+Details: Out medical receive seem trouble.

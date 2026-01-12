@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04884
+Result: PASS
+Details: Activity himself seat set.

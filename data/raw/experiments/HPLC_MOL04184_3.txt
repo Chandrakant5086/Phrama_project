@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04184
+Result: PASS
+Details: Always make mean its shoulder door site.

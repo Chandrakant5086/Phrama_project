@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01806
+Result: PASS
+Details: Difficult end election suggest hour including.

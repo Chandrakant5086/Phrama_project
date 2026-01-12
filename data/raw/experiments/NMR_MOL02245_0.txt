@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02245
+Result: PASS
+Details: Born page happen ok general matter since.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02015
+Result: PASS
+Details: Growth hour particular.

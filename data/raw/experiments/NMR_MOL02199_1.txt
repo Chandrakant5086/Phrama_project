@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02199
+Result: PASS
+Details: Mission stuff today space street expect class.

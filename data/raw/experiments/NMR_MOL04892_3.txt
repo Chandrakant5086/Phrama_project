@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04892
+Result: PASS
+Details: Leave visit chance generation store serious.

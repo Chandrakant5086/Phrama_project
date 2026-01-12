@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00262
+Result: PASS
+Details: Individual gun success season away.

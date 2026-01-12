@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01411
+Result: PASS
+Details: Election hand really either.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00418
+Result: PASS
+Details: While night lose cold nor chair.

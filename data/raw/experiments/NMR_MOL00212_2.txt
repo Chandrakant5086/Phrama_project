@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00212
+Result: PASS
+Details: Only range unit.

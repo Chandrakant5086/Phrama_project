@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01798
+Result: PASS
+Details: Bad when cost catch note build.

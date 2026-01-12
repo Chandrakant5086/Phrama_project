@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03370
+Result: PASS
+Details: Data boy finally spend.

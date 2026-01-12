@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03774
+Result: PASS
+Details: Part result sell simply.

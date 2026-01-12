@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02821
+Result: PASS
+Details: Off plant act service loss consider.

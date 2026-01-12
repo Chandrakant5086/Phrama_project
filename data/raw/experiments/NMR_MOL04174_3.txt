@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04174
+Result: PASS
+Details: Describe again your computer.

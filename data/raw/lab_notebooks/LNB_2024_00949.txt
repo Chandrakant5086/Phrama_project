@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00949
+Scientist: Researcher_B
+Date: 2024-03-31
+Molecule ID: MOL00683
+
+Objective:
+Assess reaction temperature sensitivity for MOL00683.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

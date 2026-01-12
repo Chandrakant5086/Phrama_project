@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03153
+Result: PASS
+Details: Miss act pretty race.

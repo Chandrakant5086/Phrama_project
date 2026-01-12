@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02394
+Scientist: Researcher_A
+Date: 2023-03-23
+Molecule ID: MOL03326
+
+Objective:
+Investigate impurity formation for MOL03326.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

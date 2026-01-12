@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04348
+Result: PASS
+Details: City wall evening development speech stop.

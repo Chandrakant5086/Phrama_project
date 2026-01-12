@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04743
+Result: PASS
+Details: Successful unit part order design body or time.

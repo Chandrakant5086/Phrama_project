@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03837
+Result: PASS
+Details: Beat professor man prepare training.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02051
+Result: PASS
+Details: Conference foot hand risk by miss.

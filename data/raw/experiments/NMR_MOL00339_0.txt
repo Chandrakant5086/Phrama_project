@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00339
+Result: PASS
+Details: Perform debate none.

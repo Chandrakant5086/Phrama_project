@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01344
+Result: PASS
+Details: More poor large foreign class.

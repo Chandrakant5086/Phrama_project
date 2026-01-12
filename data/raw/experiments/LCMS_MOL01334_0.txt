@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01334
+Result: PASS
+Details: Like brother send base style trial.

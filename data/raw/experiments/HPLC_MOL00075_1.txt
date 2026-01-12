@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00075
+Result: PASS
+Details: Record agency energy treatment letter individual high cover.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01930
+Result: PASS
+Details: Foreign case mean author he choice no.

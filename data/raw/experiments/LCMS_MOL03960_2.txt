@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03960
+Result: PASS
+Details: Area stand strategy process east smile.

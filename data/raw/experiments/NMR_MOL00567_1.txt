@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00567
+Result: PASS
+Details: It must network economy.

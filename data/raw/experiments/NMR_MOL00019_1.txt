@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00019
+Result: PASS
+Details: Between rock affect deep computer.

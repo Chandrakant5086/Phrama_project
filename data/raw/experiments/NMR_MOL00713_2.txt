@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00713
+Result: PASS
+Details: Green line majority save stop national.

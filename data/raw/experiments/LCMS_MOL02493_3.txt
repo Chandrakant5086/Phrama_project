@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02493
+Result: PASS
+Details: Even create choice reduce international.

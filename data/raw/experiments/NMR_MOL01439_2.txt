@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01439
+Result: PASS
+Details: Money worry town word.

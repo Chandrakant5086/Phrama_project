@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00487
+Scientist: Researcher_A
+Date: 2023-06-18
+Molecule ID: MOL00727
+
+Objective:
+Explore alternate synthesis route for MOL00727.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

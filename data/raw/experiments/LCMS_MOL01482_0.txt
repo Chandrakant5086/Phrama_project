@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01482
+Result: PASS
+Details: On resource them.

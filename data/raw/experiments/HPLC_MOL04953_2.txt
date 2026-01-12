@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04953
+Result: PASS
+Details: Prove response treat language have loss.

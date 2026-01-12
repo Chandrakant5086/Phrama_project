@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02446
+Result: PASS
+Details: Road increase author whether else then.

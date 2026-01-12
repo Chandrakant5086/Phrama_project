@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04187
+Result: PASS
+Details: He agree point course detail left.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02537
+Result: PASS
+Details: Order maintain raise loss production up support.

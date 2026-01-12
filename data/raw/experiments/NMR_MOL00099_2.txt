@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00099
+Result: PASS
+Details: Relate speech painting allow.

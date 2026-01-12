@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04047
+Result: PASS
+Details: Likely get seek spring.

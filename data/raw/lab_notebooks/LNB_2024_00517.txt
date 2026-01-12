@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00517
+Scientist: PostDoc_2
+Date: 2024-03-06
+Molecule ID: MOL03233
+
+Objective:
+Investigate impurity formation for MOL03233.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

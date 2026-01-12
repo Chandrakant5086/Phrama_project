@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03938
+Result: PASS
+Details: Involve evidence by point per specific central wide.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04231
+Result: PASS
+Details: Direction hand budget collection half letter range.

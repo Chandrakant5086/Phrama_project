@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00186
+Result: PASS
+Details: Paper second do occur.

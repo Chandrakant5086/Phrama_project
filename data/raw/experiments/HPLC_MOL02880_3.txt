@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02880
+Result: PASS
+Details: Right owner fine.

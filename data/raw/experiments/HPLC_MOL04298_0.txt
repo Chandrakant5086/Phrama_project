@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04298
+Result: PASS
+Details: Entire hair back cover hour still bar.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01034
+Result: PASS
+Details: Throw thought she try.

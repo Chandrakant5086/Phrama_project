@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02457
+Result: PASS
+Details: Environment pattern song back friend per.

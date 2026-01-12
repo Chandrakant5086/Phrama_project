@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01892
+Result: PASS
+Details: First continue firm second rather bag.

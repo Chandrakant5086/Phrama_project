@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00144
+Result: PASS
+Details: Save available watch end prepare single organization environmental.

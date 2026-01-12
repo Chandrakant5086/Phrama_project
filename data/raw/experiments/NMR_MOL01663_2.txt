@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01663
+Result: PASS
+Details: Watch stand free structure certainly know.

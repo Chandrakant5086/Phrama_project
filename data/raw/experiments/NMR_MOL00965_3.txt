@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00965
+Result: PASS
+Details: Sometimes individual rest true leg.

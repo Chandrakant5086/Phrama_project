@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04356
+Result: PASS
+Details: Green social feeling position skin.

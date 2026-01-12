@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03314
+Result: PASS
+Details: Prove a picture stuff identify note point why.

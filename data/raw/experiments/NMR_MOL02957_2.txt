@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02957
+Result: PASS
+Details: State model since finish but.

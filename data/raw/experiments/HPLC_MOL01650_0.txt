@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01650
+Result: PASS
+Details: Son enter expect whatever look.

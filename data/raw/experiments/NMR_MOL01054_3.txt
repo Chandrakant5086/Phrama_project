@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01054
+Result: PASS
+Details: Participant century left side worry machine.

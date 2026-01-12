@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00804
+Result: PASS
+Details: Strategy nothing test according kid.

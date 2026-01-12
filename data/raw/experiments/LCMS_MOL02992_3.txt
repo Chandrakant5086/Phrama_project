@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02992
+Result: PASS
+Details: Trade stuff I radio take.

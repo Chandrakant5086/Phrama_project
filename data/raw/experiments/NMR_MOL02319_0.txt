@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02319
+Result: PASS
+Details: Stand last law.

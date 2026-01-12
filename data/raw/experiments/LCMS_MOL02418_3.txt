@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02418
+Result: PASS
+Details: Send during store camera top buy.

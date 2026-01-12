@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00558
+Result: PASS
+Details: May send across not.

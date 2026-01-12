@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00940
+Result: PASS
+Details: Result save many central shoulder cut method.

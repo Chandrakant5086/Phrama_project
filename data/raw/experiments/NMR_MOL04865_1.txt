@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04865
+Result: PASS
+Details: Election for describe fish product.

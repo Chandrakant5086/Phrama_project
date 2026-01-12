@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02844
+Result: PASS
+Details: Heavy good theory small now foot capital system.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02026
+Scientist: Senior_Scientist_1
+Date: 2023-06-25
+Molecule ID: MOL00939
+
+Objective:
+Validate preliminary reaction conditions for MOL00939.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

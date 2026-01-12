@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04941
+Result: PASS
+Details: Sit main similar return finally one.

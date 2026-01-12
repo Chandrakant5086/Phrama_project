@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02939
+Result: PASS
+Details: Body week rate which seat sit soldier.

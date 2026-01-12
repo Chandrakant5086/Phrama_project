@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02038
+Result: PASS
+Details: Student administration standard appear discussion per six.

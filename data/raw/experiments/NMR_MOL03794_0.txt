@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03794
+Result: PASS
+Details: Increase drop to especially building open section leave.

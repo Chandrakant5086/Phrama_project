@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00829
+Result: PASS
+Details: Suggest history energy type sound region summer.

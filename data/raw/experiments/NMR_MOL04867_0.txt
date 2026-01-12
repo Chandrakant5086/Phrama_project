@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04867
+Result: PASS
+Details: Them human take common candidate section.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02348
+Result: PASS
+Details: Rule thank method room.

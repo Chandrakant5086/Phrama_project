@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00401
+Scientist: Senior_Scientist_1
+Date: 2023-11-01
+Molecule ID: MOL01220
+
+Objective:
+Assess reaction temperature sensitivity for MOL01220.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

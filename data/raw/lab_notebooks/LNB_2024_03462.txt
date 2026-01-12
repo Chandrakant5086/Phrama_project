@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03462
+Scientist: Researcher_A
+Date: 2023-11-08
+Molecule ID: MOL00650
+
+Objective:
+Investigate impurity formation for MOL00650.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

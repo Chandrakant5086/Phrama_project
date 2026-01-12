@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02537
+Result: PASS
+Details: Fire budget already six although hospital.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02982
+Scientist: PostDoc_2
+Date: 2023-09-11
+Molecule ID: MOL01249
+
+Objective:
+Assess reaction temperature sensitivity for MOL01249.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01873
+Result: PASS
+Details: Tv full to main enough risk stock family.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02131
+Result: PASS
+Details: Traditional father process particular.

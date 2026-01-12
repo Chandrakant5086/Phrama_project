@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00989
+Scientist: Researcher_B
+Date: 2024-03-14
+Molecule ID: MOL00281
+
+Objective:
+Test solvent impact on yield for MOL00281.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01335
+Result: PASS
+Details: Choice style question population plan.

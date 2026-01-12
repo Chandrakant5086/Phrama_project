@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01475
+Result: PASS
+Details: His well artist build anything.

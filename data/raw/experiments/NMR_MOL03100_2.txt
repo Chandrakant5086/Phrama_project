@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03100
+Result: PASS
+Details: Better yourself people thank board.

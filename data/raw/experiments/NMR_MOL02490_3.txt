@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02490
+Result: PASS
+Details: Total stage manager final our a us.

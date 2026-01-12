@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00782
+Result: PASS
+Details: As go condition chair choose.

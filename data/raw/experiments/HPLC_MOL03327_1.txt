@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03327
+Result: PASS
+Details: Both PM leg bed almost region theory.

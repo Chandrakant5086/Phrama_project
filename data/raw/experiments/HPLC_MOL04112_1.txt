@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04112
+Result: PASS
+Details: Easy bank general news first.

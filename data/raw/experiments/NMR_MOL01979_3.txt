@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01979
+Result: PASS
+Details: Example none drug morning quickly.

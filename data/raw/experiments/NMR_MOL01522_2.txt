@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01522
+Result: PASS
+Details: Out him look gas.

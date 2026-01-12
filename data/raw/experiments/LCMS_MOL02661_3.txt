@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02661
+Result: PASS
+Details: Whole throughout speech fish.

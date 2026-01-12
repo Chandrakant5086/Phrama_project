@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03473
+Result: PASS
+Details: Foot finish few end long.

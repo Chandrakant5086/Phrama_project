@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04258
+Result: PASS
+Details: Month tax in view field increase unit.

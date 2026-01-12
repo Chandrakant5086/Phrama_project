@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04469
+Result: PASS
+Details: Modern rock new.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03862
+Result: PASS
+Details: One standard himself.

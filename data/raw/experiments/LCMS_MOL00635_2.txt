@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00635
+Result: PASS
+Details: Research way training major.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04997
+Result: PASS
+Details: Design since chance condition.

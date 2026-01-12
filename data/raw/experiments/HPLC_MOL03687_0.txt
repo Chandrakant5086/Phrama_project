@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03687
+Result: PASS
+Details: By response state.

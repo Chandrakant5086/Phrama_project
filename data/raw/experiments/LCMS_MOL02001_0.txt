@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02001
+Result: PASS
+Details: Little lay student possible.

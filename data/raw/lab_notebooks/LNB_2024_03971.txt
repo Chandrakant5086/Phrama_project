@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03971
+Scientist: PostDoc_2
+Date: 2024-01-17
+Molecule ID: MOL02020
+
+Objective:
+Explore alternate synthesis route for MOL02020.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

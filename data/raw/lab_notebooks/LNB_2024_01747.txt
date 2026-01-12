@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01747
+Scientist: Researcher_C
+Date: 2023-02-04
+Molecule ID: MOL01617
+
+Objective:
+Assess reaction temperature sensitivity for MOL01617.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

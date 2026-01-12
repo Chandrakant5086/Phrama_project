@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04688
+Result: PASS
+Details: Necessary oil now stage current truth mission public.

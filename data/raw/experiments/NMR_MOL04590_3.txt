@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04590
+Result: PASS
+Details: Heart not of drop.

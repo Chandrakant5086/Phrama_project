@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02660
+Result: PASS
+Details: Base over rock themselves store building.

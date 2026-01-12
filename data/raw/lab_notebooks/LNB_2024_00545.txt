@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00545
+Scientist: Researcher_A
+Date: 2023-01-05
+Molecule ID: MOL00474
+
+Objective:
+Assess reaction temperature sensitivity for MOL00474.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

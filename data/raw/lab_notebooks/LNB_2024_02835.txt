@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02835
+Scientist: Researcher_C
+Date: 2024-01-24
+Molecule ID: MOL04097
+
+Objective:
+Test solvent impact on yield for MOL04097.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

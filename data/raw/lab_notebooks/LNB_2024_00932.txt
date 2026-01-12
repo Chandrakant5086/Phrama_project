@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00932
+Scientist: PostDoc_2
+Date: 2023-09-15
+Molecule ID: MOL00552
+
+Objective:
+Assess reaction temperature sensitivity for MOL00552.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

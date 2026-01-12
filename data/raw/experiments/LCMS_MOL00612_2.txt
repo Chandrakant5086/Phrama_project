@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00612
+Result: PASS
+Details: Build into story shake.

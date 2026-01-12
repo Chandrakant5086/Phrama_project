@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04821
+Result: PASS
+Details: Apply participant magazine red effect.

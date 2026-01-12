@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02490
+Result: PASS
+Details: Good training treatment well recognize back.

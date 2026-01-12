@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01989
+Result: PASS
+Details: Already official car.

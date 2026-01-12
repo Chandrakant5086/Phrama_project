@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01512
+Result: PASS
+Details: Consider usually support water.

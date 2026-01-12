@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04431
+Result: PASS
+Details: Base foreign local major discover owner power.

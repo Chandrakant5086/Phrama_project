@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01834
+Scientist: Researcher_A
+Date: 2024-01-18
+Molecule ID: MOL02914
+
+Objective:
+Assess reaction temperature sensitivity for MOL02914.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

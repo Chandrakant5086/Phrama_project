@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04958
+Result: PASS
+Details: Policy bank loss else live.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01090
+Result: PASS
+Details: Understand property method total.

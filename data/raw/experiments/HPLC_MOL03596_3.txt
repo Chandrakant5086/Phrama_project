@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03596
+Result: PASS
+Details: Go loss space collection.

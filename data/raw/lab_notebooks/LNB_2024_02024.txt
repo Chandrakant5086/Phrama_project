@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02024
+Scientist: Researcher_A
+Date: 2023-02-19
+Molecule ID: MOL00207
+
+Objective:
+Explore alternate synthesis route for MOL00207.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

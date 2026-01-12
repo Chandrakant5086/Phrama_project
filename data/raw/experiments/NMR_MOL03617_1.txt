@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03617
+Result: PASS
+Details: Almost box program beautiful.

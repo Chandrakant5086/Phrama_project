@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04480
+Result: PASS
+Details: Meeting consumer current fear chance.

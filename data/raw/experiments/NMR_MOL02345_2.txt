@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02345
+Result: PASS
+Details: Piece minute operation allow hospital water.

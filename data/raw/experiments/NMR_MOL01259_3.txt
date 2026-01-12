@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01259
+Result: PASS
+Details: Body between do.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00824
+Result: PASS
+Details: Race natural response popular one daughter find.

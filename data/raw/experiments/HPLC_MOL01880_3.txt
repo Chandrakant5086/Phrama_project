@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01880
+Result: PASS
+Details: Wrong attack contain build modern modern.

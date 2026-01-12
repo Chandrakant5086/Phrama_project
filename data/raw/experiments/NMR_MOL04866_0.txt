@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04866
+Result: PASS
+Details: Author toward feeling population.

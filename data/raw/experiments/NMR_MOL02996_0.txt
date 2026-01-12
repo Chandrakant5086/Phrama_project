@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02996
+Result: PASS
+Details: Million until rise wait experience set push.

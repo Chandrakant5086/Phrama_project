@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01029
+Result: PASS
+Details: Mention economy consumer official detail.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04727
+Result: PASS
+Details: Amount none how new modern.

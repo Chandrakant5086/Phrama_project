@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04632
+Result: PASS
+Details: Spring matter choice.

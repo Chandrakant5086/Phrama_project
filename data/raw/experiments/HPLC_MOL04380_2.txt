@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04380
+Result: PASS
+Details: Determine point language bad study.

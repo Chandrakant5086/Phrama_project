@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04552
+Result: PASS
+Details: Song occur strategy beyond get analysis do follow.

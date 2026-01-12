@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02317
+Scientist: Senior_Scientist_1
+Date: 2023-12-07
+Molecule ID: MOL03478
+
+Objective:
+Explore alternate synthesis route for MOL03478.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

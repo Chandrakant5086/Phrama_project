@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04234
+Result: PASS
+Details: Recognize should per guess somebody assume.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02169
+Result: PASS
+Details: Model executive serve member.

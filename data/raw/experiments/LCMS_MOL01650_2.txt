@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01650
+Result: PASS
+Details: Easy save along well live.

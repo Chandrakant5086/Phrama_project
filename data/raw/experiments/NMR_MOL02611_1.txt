@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02611
+Result: PASS
+Details: Magazine part surface reveal far fly.

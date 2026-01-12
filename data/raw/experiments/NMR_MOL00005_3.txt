@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00005
+Result: PASS
+Details: Relate build do special understand rock.

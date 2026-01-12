@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04247
+Result: PASS
+Details: Stand whole commercial shoulder.

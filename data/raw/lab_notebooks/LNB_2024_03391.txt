@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03391
+Scientist: Senior_Scientist_1
+Date: 2024-01-28
+Molecule ID: MOL01522
+
+Objective:
+Explore alternate synthesis route for MOL01522.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

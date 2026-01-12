@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00808
+Result: PASS
+Details: Difference truth size song serious quite while.

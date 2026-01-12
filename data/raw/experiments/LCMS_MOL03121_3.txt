@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03121
+Result: PASS
+Details: Draw few difficult conference.

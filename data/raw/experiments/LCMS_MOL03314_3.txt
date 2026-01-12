@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03314
+Result: PASS
+Details: Front event director loss candidate nothing well.

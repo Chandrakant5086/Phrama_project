@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00772
+Result: PASS
+Details: Off scene wrong site.

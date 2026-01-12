@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02596
+Result: PASS
+Details: Describe pass candidate cell week.

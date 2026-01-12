@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01358
+Result: PASS
+Details: Front know would candidate shoulder fire.

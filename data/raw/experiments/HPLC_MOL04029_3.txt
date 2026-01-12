@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04029
+Result: PASS
+Details: Amount store move work month themselves.

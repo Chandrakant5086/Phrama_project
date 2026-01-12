@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02011
+Result: PASS
+Details: Among memory traditional cut.

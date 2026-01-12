@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04635
+Result: PASS
+Details: Reality attention meet activity.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03667
+Result: PASS
+Details: Character over future.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03212
+Result: PASS
+Details: Drop ok population general page health.

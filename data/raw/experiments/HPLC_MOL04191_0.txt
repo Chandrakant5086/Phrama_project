@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04191
+Result: PASS
+Details: Away late trip player.

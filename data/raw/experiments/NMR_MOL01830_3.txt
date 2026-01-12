@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01830
+Result: PASS
+Details: In put answer data.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04695
+Result: PASS
+Details: Must couple however anything.

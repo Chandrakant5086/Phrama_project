@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04138
+Result: PASS
+Details: Offer win property pattern.

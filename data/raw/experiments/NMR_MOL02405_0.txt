@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02405
+Result: PASS
+Details: Stuff week mouth might paper well.

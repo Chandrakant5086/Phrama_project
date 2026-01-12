@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04238
+Result: PASS
+Details: Worker hotel real ask.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01294
+Result: PASS
+Details: Play you action land draw.

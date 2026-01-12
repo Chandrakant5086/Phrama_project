@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04695
+Result: PASS
+Details: Speech perhaps executive music.

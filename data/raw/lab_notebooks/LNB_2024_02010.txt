@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02010
+Scientist: Senior_Scientist_1
+Date: 2023-06-15
+Molecule ID: MOL02880
+
+Objective:
+Test solvent impact on yield for MOL02880.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

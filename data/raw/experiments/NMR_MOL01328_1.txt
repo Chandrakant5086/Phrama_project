@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01328
+Result: PASS
+Details: Movement experience wrong onto high off protect.

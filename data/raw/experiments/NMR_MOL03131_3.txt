@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03131
+Result: PASS
+Details: Shake middle over figure.

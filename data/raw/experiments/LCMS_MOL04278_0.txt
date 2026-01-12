@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04278
+Result: PASS
+Details: Because receive condition simple guess major science.

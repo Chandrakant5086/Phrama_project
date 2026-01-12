@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00296
+Result: PASS
+Details: Involve friend job condition position.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00543
+Result: PASS
+Details: Thought while figure series although.

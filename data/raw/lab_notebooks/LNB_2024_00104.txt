@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00104
+Scientist: PostDoc_2
+Date: 2023-05-22
+Molecule ID: MOL01575
+
+Objective:
+Assess reaction temperature sensitivity for MOL01575.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

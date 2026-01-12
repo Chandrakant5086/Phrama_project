@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03409
+Result: PASS
+Details: General many food support trial sometimes.

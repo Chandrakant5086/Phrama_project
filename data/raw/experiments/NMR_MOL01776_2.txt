@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01776
+Result: PASS
+Details: Tax little ok energy size.

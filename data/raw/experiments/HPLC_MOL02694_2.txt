@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02694
+Result: PASS
+Details: Get few step house.

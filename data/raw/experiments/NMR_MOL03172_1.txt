@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03172
+Result: PASS
+Details: Return care professor grow stop at reflect.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03654
+Result: PASS
+Details: Car order book soon.

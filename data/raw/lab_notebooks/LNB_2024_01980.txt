@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01980
+Scientist: Researcher_C
+Date: 2024-03-30
+Molecule ID: MOL01388
+
+Objective:
+Explore alternate synthesis route for MOL01388.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

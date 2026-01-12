@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00162
+Result: PASS
+Details: Executive increase successful act.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01014
+Scientist: Researcher_C
+Date: 2023-05-29
+Molecule ID: MOL03950
+
+Objective:
+Investigate impurity formation for MOL03950.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

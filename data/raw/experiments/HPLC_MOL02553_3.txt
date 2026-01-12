@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02553
+Result: PASS
+Details: Forward together teacher may image.

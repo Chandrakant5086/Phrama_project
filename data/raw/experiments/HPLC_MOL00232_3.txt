@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00232
+Result: PASS
+Details: Some high hope real catch miss rich.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01839
+Scientist: Researcher_A
+Date: 2023-12-18
+Molecule ID: MOL00149
+
+Objective:
+Assess reaction temperature sensitivity for MOL00149.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

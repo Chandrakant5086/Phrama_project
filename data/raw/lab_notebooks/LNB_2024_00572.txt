@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00572
+Scientist: Researcher_B
+Date: 2023-10-28
+Molecule ID: MOL02047
+
+Objective:
+Validate preliminary reaction conditions for MOL02047.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

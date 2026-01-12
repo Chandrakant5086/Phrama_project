@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03492
+Scientist: Senior_Scientist_1
+Date: 2023-10-24
+Molecule ID: MOL02672
+
+Objective:
+Investigate impurity formation for MOL02672.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

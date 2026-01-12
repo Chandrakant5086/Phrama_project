@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02184
+Result: PASS
+Details: Win hit executive price both exist.

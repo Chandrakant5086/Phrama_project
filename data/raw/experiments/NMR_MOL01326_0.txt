@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01326
+Result: PASS
+Details: Short second a herself structure time third.

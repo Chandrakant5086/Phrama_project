@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03835
+Result: PASS
+Details: Theory go assume especially.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00267
+Result: PASS
+Details: Sort record almost.

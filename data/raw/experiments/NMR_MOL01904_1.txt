@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01904
+Result: PASS
+Details: Radio loss while could food.

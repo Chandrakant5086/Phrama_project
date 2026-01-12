@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01261
+Result: PASS
+Details: Issue collection value real newspaper turn guess.

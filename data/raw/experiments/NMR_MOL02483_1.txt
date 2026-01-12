@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02483
+Result: PASS
+Details: Plan care particular war rule.

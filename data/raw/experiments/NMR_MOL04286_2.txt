@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04286
+Result: PASS
+Details: Box until prevent blue trial want east.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03248
+Scientist: Researcher_C
+Date: 2023-03-28
+Molecule ID: MOL03948
+
+Objective:
+Explore alternate synthesis route for MOL03948.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

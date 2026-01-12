@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03825
+Result: PASS
+Details: Ball after member figure last.

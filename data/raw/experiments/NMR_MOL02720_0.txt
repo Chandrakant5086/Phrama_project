@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02720
+Result: PASS
+Details: Bag example general machine every should eye.

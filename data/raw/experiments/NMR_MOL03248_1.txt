@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03248
+Result: PASS
+Details: Wonder down between general.

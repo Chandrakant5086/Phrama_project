@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04160
+Result: PASS
+Details: Receive future smile local structure movement what thought.

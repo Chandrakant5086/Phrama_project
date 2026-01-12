@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04294
+Result: PASS
+Details: Environmental candidate strong over force.

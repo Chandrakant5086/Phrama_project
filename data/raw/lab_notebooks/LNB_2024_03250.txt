@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03250
+Scientist: Researcher_A
+Date: 2023-02-21
+Molecule ID: MOL04290
+
+Objective:
+Explore alternate synthesis route for MOL04290.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

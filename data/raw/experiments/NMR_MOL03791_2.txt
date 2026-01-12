@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03791
+Result: PASS
+Details: Air time protect reason.

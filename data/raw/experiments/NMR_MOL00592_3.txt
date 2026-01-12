@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00592
+Result: PASS
+Details: Field forward clearly read carry film.

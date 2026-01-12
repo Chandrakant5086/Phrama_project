@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00525
+Scientist: Researcher_A
+Date: 2024-03-26
+Molecule ID: MOL02358
+
+Objective:
+Assess reaction temperature sensitivity for MOL02358.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

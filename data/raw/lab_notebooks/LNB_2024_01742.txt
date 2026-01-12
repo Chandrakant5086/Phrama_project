@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01742
+Scientist: Researcher_B
+Date: 2024-01-01
+Molecule ID: MOL04866
+
+Objective:
+Explore alternate synthesis route for MOL04866.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

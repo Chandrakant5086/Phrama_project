@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02112
+Result: PASS
+Details: Young factor thought also see price.

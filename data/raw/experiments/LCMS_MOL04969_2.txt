@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04969
+Result: PASS
+Details: Person system type half bank learn.

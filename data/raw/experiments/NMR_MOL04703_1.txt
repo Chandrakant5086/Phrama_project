@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04703
+Result: PASS
+Details: Six sense improve guess amount.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02054
+Scientist: Researcher_C
+Date: 2023-05-23
+Molecule ID: MOL04355
+
+Objective:
+Assess reaction temperature sensitivity for MOL04355.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

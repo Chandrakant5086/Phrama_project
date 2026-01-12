@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03487
+Scientist: Researcher_C
+Date: 2023-01-08
+Molecule ID: MOL04899
+
+Objective:
+Explore alternate synthesis route for MOL04899.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

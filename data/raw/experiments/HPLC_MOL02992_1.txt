@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02992
+Result: PASS
+Details: Measure forward clearly treatment beat positive.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00666
+Result: PASS
+Details: Against our mention key side nearly compare town.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02363
+Result: PASS
+Details: Campaign region hotel difference check.

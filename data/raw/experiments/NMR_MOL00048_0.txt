@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00048
+Result: PASS
+Details: Fall term here go clear.

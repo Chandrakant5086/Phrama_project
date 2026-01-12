@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03494
+Result: PASS
+Details: Final shoulder civil vote.

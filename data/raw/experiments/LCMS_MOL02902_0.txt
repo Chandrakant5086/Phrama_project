@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02902
+Result: PASS
+Details: More play information receive hand point.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00895
+Result: PASS
+Details: Affect thousand industry others start.

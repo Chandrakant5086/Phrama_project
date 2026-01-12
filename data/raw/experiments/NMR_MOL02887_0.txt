@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02887
+Result: PASS
+Details: Job almost indicate week.

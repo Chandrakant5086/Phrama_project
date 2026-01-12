@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01022
+Result: PASS
+Details: Set fund billion street.

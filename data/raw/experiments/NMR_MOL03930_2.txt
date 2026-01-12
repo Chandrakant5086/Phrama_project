@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03930
+Result: PASS
+Details: Me treatment culture ahead question answer analysis.

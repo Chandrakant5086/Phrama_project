@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03882
+Result: PASS
+Details: Worker report go serve employee face price change.

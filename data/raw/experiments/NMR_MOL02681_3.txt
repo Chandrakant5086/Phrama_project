@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02681
+Result: PASS
+Details: Form newspaper employee.

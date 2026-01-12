@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03333
+Scientist: Senior_Scientist_1
+Date: 2023-09-06
+Molecule ID: MOL04803
+
+Objective:
+Assess reaction temperature sensitivity for MOL04803.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

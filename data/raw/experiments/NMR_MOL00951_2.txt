@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00951
+Result: PASS
+Details: Federal my mind.

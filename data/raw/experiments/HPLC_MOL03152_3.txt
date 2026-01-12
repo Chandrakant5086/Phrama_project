@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03152
+Result: PASS
+Details: Red base create southern success maybe.

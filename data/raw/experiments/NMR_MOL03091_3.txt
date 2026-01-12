@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03091
+Result: PASS
+Details: Family right old source.

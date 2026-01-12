@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02589
+Scientist: Researcher_A
+Date: 2024-05-09
+Molecule ID: MOL03707
+
+Objective:
+Explore alternate synthesis route for MOL03707.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

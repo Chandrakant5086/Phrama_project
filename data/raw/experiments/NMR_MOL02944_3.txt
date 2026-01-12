@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02944
+Result: PASS
+Details: Power old send store continue best rest relate.

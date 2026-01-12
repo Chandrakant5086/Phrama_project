@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02686
+Result: PASS
+Details: Charge even its.

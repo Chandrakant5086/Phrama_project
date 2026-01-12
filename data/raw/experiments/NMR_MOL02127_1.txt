@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02127
+Result: PASS
+Details: Read research energy point win stock.

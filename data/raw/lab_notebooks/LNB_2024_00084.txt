@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00084
+Scientist: PostDoc_2
+Date: 2023-06-30
+Molecule ID: MOL02928
+
+Objective:
+Investigate impurity formation for MOL02928.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

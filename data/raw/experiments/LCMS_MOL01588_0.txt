@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01588
+Result: PASS
+Details: Admit play gun series.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03687
+Result: PASS
+Details: Others camera least.

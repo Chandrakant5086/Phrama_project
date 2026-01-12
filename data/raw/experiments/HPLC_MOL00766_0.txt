@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00766
+Result: PASS
+Details: But think energy good then.

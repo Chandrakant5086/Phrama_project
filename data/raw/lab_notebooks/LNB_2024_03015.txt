@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03015
+Scientist: Researcher_C
+Date: 2023-11-25
+Molecule ID: MOL03013
+
+Objective:
+Explore alternate synthesis route for MOL03013.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

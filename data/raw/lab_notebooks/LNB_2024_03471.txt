@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03471
+Scientist: Researcher_B
+Date: 2023-07-31
+Molecule ID: MOL00981
+
+Objective:
+Test solvent impact on yield for MOL00981.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

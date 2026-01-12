@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02330
+Result: PASS
+Details: Order whole one similar.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03161
+Result: PASS
+Details: Collection camera break loss teacher.

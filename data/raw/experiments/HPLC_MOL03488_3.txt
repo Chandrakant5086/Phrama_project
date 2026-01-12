@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03488
+Result: PASS
+Details: Identify bar may.

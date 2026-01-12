@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01602
+Result: PASS
+Details: Major plan himself for surface.

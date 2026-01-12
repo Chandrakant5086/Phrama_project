@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00393
+Result: PASS
+Details: Defense seat road left.

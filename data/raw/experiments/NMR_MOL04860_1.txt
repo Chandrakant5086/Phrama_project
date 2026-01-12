@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04860
+Result: PASS
+Details: Game purpose finish.

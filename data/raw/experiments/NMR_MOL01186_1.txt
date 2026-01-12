@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01186
+Result: PASS
+Details: Treatment reduce floor do wear purpose.

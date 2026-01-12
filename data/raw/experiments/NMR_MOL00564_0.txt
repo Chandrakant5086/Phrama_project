@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00564
+Result: PASS
+Details: Discuss energy southern treat level.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01599
+Result: PASS
+Details: Contain realize whose city green.

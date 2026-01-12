@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01372
+Result: PASS
+Details: Analysis hard camera gun agree chance easy already.

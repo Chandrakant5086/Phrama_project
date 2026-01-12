@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03424
+Scientist: Researcher_C
+Date: 2024-02-19
+Molecule ID: MOL04599
+
+Objective:
+Explore alternate synthesis route for MOL04599.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

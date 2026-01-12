@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00467
+Scientist: Senior_Scientist_1
+Date: 2024-02-09
+Molecule ID: MOL03161
+
+Objective:
+Investigate impurity formation for MOL03161.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

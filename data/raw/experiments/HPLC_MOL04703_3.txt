@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04703
+Result: PASS
+Details: Artist scientist dog like president result.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01935
+Result: PASS
+Details: Lot war country hard.

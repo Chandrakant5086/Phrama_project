@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02248
+Result: PASS
+Details: Assume attack place later bed.

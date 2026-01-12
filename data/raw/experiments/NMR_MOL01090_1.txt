@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01090
+Result: PASS
+Details: Bar fly make billion stay care show.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03512
+Result: PASS
+Details: Ever let glass once well.

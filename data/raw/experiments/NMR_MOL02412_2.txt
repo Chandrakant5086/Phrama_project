@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02412
+Result: PASS
+Details: Short that trial here direction score contain.

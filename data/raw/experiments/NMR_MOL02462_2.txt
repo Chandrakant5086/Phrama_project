@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02462
+Result: PASS
+Details: Either phone available scientist.

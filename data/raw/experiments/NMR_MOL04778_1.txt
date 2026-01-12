@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04778
+Result: PASS
+Details: Character recently but prevent push loss.

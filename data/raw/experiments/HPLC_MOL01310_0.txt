@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01310
+Result: PASS
+Details: Land time good international rate.

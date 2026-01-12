@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03832
+Result: PASS
+Details: Fear reveal standard well bag east.

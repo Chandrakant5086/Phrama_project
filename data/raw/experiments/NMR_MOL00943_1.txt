@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00943
+Result: PASS
+Details: Add natural school rule as than collection room.

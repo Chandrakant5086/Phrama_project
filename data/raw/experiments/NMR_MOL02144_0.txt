@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02144
+Result: PASS
+Details: Right product explain answer.

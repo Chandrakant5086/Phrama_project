@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03579
+Result: PASS
+Details: Father above director assume start.

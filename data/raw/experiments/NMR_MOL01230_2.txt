@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01230
+Result: PASS
+Details: Remain provide about body response director name.

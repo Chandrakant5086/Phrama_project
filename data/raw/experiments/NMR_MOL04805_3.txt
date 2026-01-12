@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04805
+Result: PASS
+Details: Bed member finish board suddenly.

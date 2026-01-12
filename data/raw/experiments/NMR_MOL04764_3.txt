@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04764
+Result: PASS
+Details: Become difference similar goal expect.

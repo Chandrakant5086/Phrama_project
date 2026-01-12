@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00033
+Result: PASS
+Details: Morning resource friend peace.

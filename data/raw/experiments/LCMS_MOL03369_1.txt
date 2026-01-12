@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03369
+Result: PASS
+Details: Policy sell in customer not.

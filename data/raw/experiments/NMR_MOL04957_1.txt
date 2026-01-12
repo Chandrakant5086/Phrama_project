@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04957
+Result: PASS
+Details: Recent owner as choose yet.

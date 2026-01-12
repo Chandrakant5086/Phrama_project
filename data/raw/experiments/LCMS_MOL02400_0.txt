@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02400
+Result: PASS
+Details: Natural keep PM ok next.

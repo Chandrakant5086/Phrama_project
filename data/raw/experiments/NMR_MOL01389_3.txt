@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01389
+Result: PASS
+Details: Ask quite wall part although ground before still.

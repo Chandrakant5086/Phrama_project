@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03373
+Result: PASS
+Details: Know cell away change region number.

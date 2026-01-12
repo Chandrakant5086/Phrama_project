@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01555
+Scientist: Researcher_B
+Date: 2023-12-12
+Molecule ID: MOL00208
+
+Objective:
+Investigate impurity formation for MOL00208.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

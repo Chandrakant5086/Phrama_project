@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01678
+Scientist: Researcher_B
+Date: 2024-03-23
+Molecule ID: MOL03531
+
+Objective:
+Assess reaction temperature sensitivity for MOL03531.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

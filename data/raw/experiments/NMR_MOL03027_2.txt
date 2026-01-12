@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03027
+Result: PASS
+Details: Part commercial strong cut environment middle.

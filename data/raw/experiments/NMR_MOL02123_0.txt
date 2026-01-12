@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02123
+Result: PASS
+Details: Contain direction both without data country final.

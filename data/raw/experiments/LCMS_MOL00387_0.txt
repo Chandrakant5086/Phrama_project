@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00387
+Result: PASS
+Details: Knowledge along fall bring method.

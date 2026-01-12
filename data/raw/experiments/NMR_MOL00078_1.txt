@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00078
+Result: PASS
+Details: Machine like behavior television.

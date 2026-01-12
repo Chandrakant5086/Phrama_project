@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03887
+Scientist: Researcher_A
+Date: 2023-07-07
+Molecule ID: MOL04566
+
+Objective:
+Investigate impurity formation for MOL04566.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

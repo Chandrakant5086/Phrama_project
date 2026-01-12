@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04548
+Result: PASS
+Details: Quality maybe always floor drop listen area.

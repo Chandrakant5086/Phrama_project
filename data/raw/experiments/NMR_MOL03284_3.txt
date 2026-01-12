@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03284
+Result: PASS
+Details: Cost degree measure admit run area against goal.

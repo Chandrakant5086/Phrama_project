@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03638
+Result: PASS
+Details: Imagine surface building behind lose body away.

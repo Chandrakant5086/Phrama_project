@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04135
+Result: PASS
+Details: Wind actually prevent between.

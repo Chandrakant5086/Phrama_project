@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03085
+Scientist: Researcher_B
+Date: 2023-03-31
+Molecule ID: MOL03831
+
+Objective:
+Test solvent impact on yield for MOL03831.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

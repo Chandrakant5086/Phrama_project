@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04384
+Result: PASS
+Details: Agreement example evening even field nation whole.

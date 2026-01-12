@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02485
+Result: PASS
+Details: Toward draw relate agree.

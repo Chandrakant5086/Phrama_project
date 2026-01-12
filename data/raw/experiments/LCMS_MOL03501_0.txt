@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03501
+Result: PASS
+Details: Administration per also.

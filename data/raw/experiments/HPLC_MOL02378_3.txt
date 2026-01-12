@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02378
+Result: PASS
+Details: Culture open traditional forget.

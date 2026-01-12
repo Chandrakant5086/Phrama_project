@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04346
+Result: PASS
+Details: Discussion approach environmental single see.

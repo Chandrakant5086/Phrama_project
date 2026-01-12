@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02515
+Scientist: Researcher_C
+Date: 2024-04-07
+Molecule ID: MOL01900
+
+Objective:
+Assess reaction temperature sensitivity for MOL01900.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

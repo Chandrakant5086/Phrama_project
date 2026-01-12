@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00100
+Result: PASS
+Details: Real final year task mean skill chair south.

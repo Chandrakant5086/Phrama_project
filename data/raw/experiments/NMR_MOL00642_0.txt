@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00642
+Result: PASS
+Details: Course small about alone.

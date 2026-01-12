@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03054
+Result: PASS
+Details: Conference investment name system training.

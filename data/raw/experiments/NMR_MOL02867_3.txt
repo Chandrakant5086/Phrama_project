@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02867
+Result: PASS
+Details: Data laugh card.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02898
+Result: PASS
+Details: Program full available may give remember across.

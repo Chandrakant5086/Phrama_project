@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04485
+Result: PASS
+Details: Clearly control stand guess reach possible probably.

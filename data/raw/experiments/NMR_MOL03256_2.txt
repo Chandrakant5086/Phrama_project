@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03256
+Result: PASS
+Details: National unit without prevent if task.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01801
+Result: PASS
+Details: Fund outside this turn.

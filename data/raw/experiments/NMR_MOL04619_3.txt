@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04619
+Result: PASS
+Details: Indeed inside agree generation put.

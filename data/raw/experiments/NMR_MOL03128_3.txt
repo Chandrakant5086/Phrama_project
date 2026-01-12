@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03128
+Result: PASS
+Details: Worker human situation Republican.

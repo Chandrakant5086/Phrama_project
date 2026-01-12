@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00385
+Result: PASS
+Details: Huge group thought environmental.

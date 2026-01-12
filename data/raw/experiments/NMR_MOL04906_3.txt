@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04906
+Result: PASS
+Details: Contain entire ground effect bag.

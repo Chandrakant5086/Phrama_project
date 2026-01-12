@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04740
+Result: PASS
+Details: Everybody join condition material above property.

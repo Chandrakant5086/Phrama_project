@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01149
+Result: PASS
+Details: Scene investment election stuff.

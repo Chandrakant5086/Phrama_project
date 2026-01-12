@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00534
+Result: PASS
+Details: Create allow poor nation.

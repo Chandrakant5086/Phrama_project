@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00794
+Result: PASS
+Details: Per TV black.

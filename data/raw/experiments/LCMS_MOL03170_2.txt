@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03170
+Result: PASS
+Details: Condition then owner job.

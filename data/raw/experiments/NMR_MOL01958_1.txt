@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01958
+Result: PASS
+Details: Available quite same affect.

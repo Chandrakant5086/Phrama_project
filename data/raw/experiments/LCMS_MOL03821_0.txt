@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03821
+Result: PASS
+Details: Serve whole together.

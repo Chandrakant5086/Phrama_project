@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01190
+Result: PASS
+Details: Him again image reflect.

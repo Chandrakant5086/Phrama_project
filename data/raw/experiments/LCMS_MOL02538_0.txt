@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02538
+Result: PASS
+Details: Blood station get create goal across card.

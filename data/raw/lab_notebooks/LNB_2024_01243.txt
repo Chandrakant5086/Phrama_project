@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01243
+Scientist: Researcher_A
+Date: 2023-11-23
+Molecule ID: MOL00933
+
+Objective:
+Investigate impurity formation for MOL00933.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

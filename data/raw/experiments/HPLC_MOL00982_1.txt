@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00982
+Result: PASS
+Details: Type under send bar.

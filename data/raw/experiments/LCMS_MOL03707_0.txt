@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03707
+Result: PASS
+Details: Picture quality both at above.

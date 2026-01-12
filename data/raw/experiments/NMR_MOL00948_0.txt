@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00948
+Result: PASS
+Details: Small word alone eight every three statement.

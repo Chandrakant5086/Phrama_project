@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02881
+Result: PASS
+Details: Goal recent production people.

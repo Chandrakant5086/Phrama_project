@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04469
+Result: PASS
+Details: Least operation moment on test nature support place.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01411
+Result: PASS
+Details: Understand mission despite hospital activity.

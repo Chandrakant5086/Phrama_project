@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01536
+Result: PASS
+Details: Property change every real source hold edge never.

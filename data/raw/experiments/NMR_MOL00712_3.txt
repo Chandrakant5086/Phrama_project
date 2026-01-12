@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00712
+Result: PASS
+Details: Oil member already bag involve.

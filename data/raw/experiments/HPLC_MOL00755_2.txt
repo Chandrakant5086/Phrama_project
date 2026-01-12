@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00755
+Result: PASS
+Details: Near rise green throughout space another.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03602
+Result: PASS
+Details: Assume administration sister.

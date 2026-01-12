@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00683
+Scientist: Senior_Scientist_1
+Date: 2023-02-08
+Molecule ID: MOL04906
+
+Objective:
+Explore alternate synthesis route for MOL04906.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

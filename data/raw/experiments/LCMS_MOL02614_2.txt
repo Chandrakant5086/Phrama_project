@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02614
+Result: PASS
+Details: So point budget.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01377
+Result: PASS
+Details: See entire administration report down piece trip page.

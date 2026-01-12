@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00882
+Result: PASS
+Details: Represent particular bit before scene.

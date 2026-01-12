@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02645
+Result: PASS
+Details: Citizen degree fight way wrong under.

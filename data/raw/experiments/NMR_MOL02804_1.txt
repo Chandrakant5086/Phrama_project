@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02804
+Result: PASS
+Details: Center sing from water.

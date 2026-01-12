@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00531
+Result: PASS
+Details: Quite personal man space.

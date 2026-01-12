@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04085
+Result: PASS
+Details: Anything although good check.

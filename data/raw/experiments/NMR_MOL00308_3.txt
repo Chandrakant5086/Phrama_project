@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00308
+Result: PASS
+Details: Drop effort both official.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04678
+Result: PASS
+Details: Student fact couple better.

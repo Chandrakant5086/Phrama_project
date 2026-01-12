@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04327
+Result: PASS
+Details: Card walk election drug well red.

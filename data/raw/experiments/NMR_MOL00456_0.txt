@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00456
+Result: PASS
+Details: Science young less truth.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00317
+Result: PASS
+Details: Foreign name smile economy hundred.

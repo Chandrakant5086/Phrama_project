@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01628
+Result: PASS
+Details: Him moment hospital.

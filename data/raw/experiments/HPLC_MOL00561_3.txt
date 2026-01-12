@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00561
+Result: PASS
+Details: Law oil star control production.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04095
+Result: PASS
+Details: Detail effort view wait discuss.

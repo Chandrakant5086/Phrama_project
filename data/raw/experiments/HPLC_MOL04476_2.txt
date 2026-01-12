@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04476
+Result: PASS
+Details: Save say check capital.

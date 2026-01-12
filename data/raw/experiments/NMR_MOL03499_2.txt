@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03499
+Result: PASS
+Details: Stage design pay case line interesting.

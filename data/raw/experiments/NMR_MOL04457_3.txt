@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04457
+Result: PASS
+Details: Beautiful fire trade specific.

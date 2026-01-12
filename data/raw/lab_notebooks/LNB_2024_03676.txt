@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03676
+Scientist: Researcher_A
+Date: 2024-01-11
+Molecule ID: MOL04893
+
+Objective:
+Assess reaction temperature sensitivity for MOL04893.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

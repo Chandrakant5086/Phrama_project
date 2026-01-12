@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01887
+Result: PASS
+Details: After will but production yard accept.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01104
+Result: PASS
+Details: Citizen strong without friend system of main.

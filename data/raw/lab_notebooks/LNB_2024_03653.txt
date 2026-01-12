@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03653
+Scientist: Researcher_C
+Date: 2023-02-17
+Molecule ID: MOL02908
+
+Objective:
+Assess reaction temperature sensitivity for MOL02908.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

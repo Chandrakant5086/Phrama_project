@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03067
+Result: PASS
+Details: Event other tend country arrive can option.

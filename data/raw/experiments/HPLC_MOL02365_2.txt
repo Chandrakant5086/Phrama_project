@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02365
+Result: PASS
+Details: Eat fight ready manage seven.

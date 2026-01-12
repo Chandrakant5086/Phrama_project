@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01857
+Result: PASS
+Details: Character bed letter crime.

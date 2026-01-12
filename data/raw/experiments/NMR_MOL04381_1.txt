@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04381
+Result: PASS
+Details: Significant still than listen.

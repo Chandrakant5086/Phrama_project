@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00244
+Result: PASS
+Details: Act start wind reduce beyond.

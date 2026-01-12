@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01363
+Result: PASS
+Details: Summer film break born.

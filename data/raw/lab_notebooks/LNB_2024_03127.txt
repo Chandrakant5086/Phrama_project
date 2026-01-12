@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03127
+Scientist: Senior_Scientist_1
+Date: 2023-04-18
+Molecule ID: MOL00323
+
+Objective:
+Explore alternate synthesis route for MOL00323.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

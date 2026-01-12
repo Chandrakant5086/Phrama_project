@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03341
+Result: PASS
+Details: Seat cup company without civil shoulder.

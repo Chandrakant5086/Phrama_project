@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03269
+Result: PASS
+Details: Especially culture collection key.

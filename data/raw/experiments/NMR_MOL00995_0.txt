@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00995
+Result: PASS
+Details: Medical fight grow open.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03802
+Result: PASS
+Details: Forward size foot place though stock.

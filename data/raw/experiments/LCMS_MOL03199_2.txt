@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03199
+Result: PASS
+Details: Six shake pressure way.

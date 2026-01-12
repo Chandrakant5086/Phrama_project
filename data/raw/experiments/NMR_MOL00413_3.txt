@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00413
+Result: PASS
+Details: Environment method career mission hospital build central.

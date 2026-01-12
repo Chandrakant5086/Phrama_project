@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04297
+Result: PASS
+Details: All suffer reach safe hit.

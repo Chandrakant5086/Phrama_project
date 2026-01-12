@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01502
+Result: PASS
+Details: Cell job behavior those participant.

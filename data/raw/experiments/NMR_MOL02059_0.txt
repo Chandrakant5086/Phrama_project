@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02059
+Result: PASS
+Details: Break cause response may one many.

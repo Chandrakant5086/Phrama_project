@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02849
+Scientist: Senior_Scientist_1
+Date: 2023-07-06
+Molecule ID: MOL01202
+
+Objective:
+Explore alternate synthesis route for MOL01202.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

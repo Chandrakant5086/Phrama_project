@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02516
+Result: PASS
+Details: Physical floor including save.

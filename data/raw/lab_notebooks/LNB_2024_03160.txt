@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03160
+Scientist: Researcher_C
+Date: 2023-11-08
+Molecule ID: MOL00735
+
+Objective:
+Explore alternate synthesis route for MOL00735.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

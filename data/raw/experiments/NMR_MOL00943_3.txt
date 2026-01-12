@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00943
+Result: PASS
+Details: Range administration spring wish certain pull station.

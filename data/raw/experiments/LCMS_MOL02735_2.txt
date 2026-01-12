@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02735
+Result: PASS
+Details: Yes difference stock.

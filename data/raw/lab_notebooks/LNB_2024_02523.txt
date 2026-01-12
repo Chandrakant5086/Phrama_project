@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02523
+Scientist: Researcher_B
+Date: 2023-01-12
+Molecule ID: MOL02863
+
+Objective:
+Explore alternate synthesis route for MOL02863.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03930
+Scientist: Researcher_C
+Date: 2023-12-17
+Molecule ID: MOL01690
+
+Objective:
+Test solvent impact on yield for MOL01690.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

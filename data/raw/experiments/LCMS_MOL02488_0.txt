@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02488
+Result: PASS
+Details: Job institution present bad four.

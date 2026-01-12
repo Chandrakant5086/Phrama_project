@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03877
+Result: PASS
+Details: Throughout picture power.

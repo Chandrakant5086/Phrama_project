@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01622
+Scientist: Senior_Scientist_1
+Date: 2023-05-16
+Molecule ID: MOL02455
+
+Objective:
+Investigate impurity formation for MOL02455.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01446
+Scientist: Researcher_C
+Date: 2024-03-31
+Molecule ID: MOL00383
+
+Objective:
+Explore alternate synthesis route for MOL00383.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

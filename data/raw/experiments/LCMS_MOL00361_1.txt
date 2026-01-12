@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00361
+Result: PASS
+Details: No technology group open speech shake.

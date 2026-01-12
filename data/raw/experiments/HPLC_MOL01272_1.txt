@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01272
+Result: PASS
+Details: Parent design bar yeah take child.

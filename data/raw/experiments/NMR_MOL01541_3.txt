@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01541
+Result: PASS
+Details: Area decision senior agent sign.

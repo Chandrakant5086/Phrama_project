@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03278
+Result: PASS
+Details: Rest speak or no.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03129
+Result: PASS
+Details: Present sound success pretty machine election design order.

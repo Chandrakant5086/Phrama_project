@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04546
+Result: PASS
+Details: Exist born produce.

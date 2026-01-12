@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04373
+Result: PASS
+Details: Project network visit stand fish against stop.

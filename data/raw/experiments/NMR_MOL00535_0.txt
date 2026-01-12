@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00535
+Result: PASS
+Details: Throw look than.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01173
+Scientist: Researcher_A
+Date: 2024-01-12
+Molecule ID: MOL03601
+
+Objective:
+Test solvent impact on yield for MOL03601.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

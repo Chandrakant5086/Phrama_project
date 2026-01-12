@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03001
+Result: PASS
+Details: Director them already blue.

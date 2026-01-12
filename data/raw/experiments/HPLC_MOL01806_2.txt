@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01806
+Result: PASS
+Details: It special start until.

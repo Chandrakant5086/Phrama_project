@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04144
+Result: PASS
+Details: Employee unit woman.

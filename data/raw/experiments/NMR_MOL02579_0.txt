@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02579
+Result: PASS
+Details: Politics sense edge from explain.

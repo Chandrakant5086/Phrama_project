@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01513
+Scientist: PostDoc_2
+Date: 2023-08-01
+Molecule ID: MOL00876
+
+Objective:
+Explore alternate synthesis route for MOL00876.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

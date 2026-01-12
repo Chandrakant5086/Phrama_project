@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00293
+Result: PASS
+Details: Machine shake small drug happy decide tonight.

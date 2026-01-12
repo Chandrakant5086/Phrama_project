@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00679
+Result: PASS
+Details: Above leader between area third stay.

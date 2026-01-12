@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01711
+Scientist: Researcher_C
+Date: 2023-03-22
+Molecule ID: MOL00578
+
+Objective:
+Test solvent impact on yield for MOL00578.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

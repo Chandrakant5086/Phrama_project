@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02099
+Scientist: Researcher_B
+Date: 2024-01-24
+Molecule ID: MOL03221
+
+Objective:
+Explore alternate synthesis route for MOL03221.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

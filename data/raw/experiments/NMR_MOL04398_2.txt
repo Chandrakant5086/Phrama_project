@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04398
+Result: PASS
+Details: Company never order car none.

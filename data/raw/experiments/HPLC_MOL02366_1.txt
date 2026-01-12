@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02366
+Result: PASS
+Details: Season half candidate kitchen moment.

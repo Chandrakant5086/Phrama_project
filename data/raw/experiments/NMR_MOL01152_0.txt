@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01152
+Result: PASS
+Details: Catch factor that number.

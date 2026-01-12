@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03675
+Result: PASS
+Details: Step war win effect general surface most.

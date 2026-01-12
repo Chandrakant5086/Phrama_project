@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00900
+Result: PASS
+Details: Writer election final analysis style none several.

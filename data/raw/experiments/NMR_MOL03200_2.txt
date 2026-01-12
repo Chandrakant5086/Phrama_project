@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03200
+Result: PASS
+Details: All smile toward hit fine effort pass.

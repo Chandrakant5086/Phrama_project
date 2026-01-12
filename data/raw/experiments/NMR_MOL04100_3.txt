@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04100
+Result: PASS
+Details: Bit rest natural message bar.

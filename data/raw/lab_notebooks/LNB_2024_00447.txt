@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00447
+Scientist: Researcher_C
+Date: 2024-04-20
+Molecule ID: MOL00715
+
+Objective:
+Validate preliminary reaction conditions for MOL00715.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

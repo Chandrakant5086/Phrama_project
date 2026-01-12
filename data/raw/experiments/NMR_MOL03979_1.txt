@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03979
+Result: PASS
+Details: Car away trade.

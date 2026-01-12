@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04584
+Result: PASS
+Details: Sport high staff practice pattern.

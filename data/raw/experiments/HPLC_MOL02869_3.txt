@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02869
+Result: PASS
+Details: Real less power after.

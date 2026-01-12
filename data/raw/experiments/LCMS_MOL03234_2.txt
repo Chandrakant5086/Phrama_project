@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03234
+Result: PASS
+Details: Fast room gas hope.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02655
+Result: PASS
+Details: Charge win window wear drug firm.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03086
+Result: PASS
+Details: Expect compare pattern once.

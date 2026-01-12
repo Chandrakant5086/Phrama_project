@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01049
+Scientist: Senior_Scientist_1
+Date: 2024-02-02
+Molecule ID: MOL00176
+
+Objective:
+Investigate impurity formation for MOL00176.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

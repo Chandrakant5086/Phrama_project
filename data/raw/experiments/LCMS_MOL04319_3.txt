@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04319
+Result: PASS
+Details: Theory power difficult parent anything.

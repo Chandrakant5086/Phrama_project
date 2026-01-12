@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04212
+Result: PASS
+Details: Their have place music information sort possible.

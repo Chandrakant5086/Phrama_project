@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03198
+Result: PASS
+Details: Trip spring loss more cut vote although.

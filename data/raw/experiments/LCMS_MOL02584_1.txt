@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02584
+Result: PASS
+Details: While machine if when step process.

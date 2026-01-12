@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04995
+Result: PASS
+Details: Speech network born service myself operation difference.

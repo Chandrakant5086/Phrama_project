@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03495
+Result: PASS
+Details: Foreign still perform successful but.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03510
+Scientist: Researcher_B
+Date: 2023-12-10
+Molecule ID: MOL00616
+
+Objective:
+Investigate impurity formation for MOL00616.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

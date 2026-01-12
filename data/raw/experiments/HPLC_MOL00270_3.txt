@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00270
+Result: PASS
+Details: Kind score hot minute spend month.

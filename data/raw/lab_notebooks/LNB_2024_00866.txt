@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00866
+Scientist: Senior_Scientist_1
+Date: 2023-07-28
+Molecule ID: MOL00707
+
+Objective:
+Explore alternate synthesis route for MOL00707.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

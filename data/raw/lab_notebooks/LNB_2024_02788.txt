@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02788
+Scientist: Researcher_A
+Date: 2023-12-17
+Molecule ID: MOL03629
+
+Objective:
+Assess reaction temperature sensitivity for MOL03629.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

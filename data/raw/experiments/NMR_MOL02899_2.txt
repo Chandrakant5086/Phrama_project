@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02899
+Result: PASS
+Details: Run simple structure growth.

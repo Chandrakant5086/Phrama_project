@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00504
+Result: PASS
+Details: Authority my beyond now.

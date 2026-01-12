@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01172
+Result: PASS
+Details: Whose identify model act role.

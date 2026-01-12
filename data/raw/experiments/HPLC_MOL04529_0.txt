@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04529
+Result: PASS
+Details: Local then figure machine still miss professional statement.

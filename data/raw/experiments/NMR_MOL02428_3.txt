@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02428
+Result: PASS
+Details: Wear amount environment after best dream stage.

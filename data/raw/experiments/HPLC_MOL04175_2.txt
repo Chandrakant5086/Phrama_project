@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04175
+Result: PASS
+Details: Carry floor piece perform owner growth.

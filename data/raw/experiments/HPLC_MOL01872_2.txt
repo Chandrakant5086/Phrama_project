@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01872
+Result: PASS
+Details: Season short weight detail.

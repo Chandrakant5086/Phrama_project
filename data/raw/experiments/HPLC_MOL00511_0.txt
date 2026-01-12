@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00511
+Result: PASS
+Details: Window thing choice hard each so.

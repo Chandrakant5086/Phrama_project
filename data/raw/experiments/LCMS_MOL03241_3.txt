@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03241
+Result: PASS
+Details: Dark dinner poor other.

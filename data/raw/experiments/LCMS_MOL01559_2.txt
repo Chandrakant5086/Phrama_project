@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01559
+Result: PASS
+Details: Choice compare themselves miss course.

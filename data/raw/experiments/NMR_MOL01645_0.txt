@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01645
+Result: PASS
+Details: From surface star conference lead movement.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00277
+Scientist: PostDoc_2
+Date: 2023-12-04
+Molecule ID: MOL03676
+
+Objective:
+Assess reaction temperature sensitivity for MOL03676.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

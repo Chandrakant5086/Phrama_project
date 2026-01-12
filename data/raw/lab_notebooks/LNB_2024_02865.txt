@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02865
+Scientist: PostDoc_2
+Date: 2023-01-01
+Molecule ID: MOL02134
+
+Objective:
+Validate preliminary reaction conditions for MOL02134.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

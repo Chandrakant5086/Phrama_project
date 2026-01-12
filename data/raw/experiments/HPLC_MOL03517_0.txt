@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03517
+Result: PASS
+Details: Especially guess week which candidate industry.

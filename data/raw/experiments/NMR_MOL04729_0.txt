@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04729
+Result: PASS
+Details: Parent guess management.

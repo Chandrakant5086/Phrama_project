@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01717
+Scientist: Researcher_B
+Date: 2023-01-12
+Molecule ID: MOL01053
+
+Objective:
+Explore alternate synthesis route for MOL01053.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

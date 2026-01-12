@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02455
+Result: PASS
+Details: Partner bit in interesting increase nation.

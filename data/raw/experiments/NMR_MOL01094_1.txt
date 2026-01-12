@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01094
+Result: PASS
+Details: Example grow yard future our will themselves big.

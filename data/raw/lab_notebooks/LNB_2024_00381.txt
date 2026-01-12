@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00381
+Scientist: Senior_Scientist_1
+Date: 2023-06-24
+Molecule ID: MOL03753
+
+Objective:
+Explore alternate synthesis route for MOL03753.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

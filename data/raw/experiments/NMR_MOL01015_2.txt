@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01015
+Result: PASS
+Details: Air account floor reason when beat difference.

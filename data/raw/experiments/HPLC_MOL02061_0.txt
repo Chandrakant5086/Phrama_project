@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02061
+Result: PASS
+Details: Smile officer blue walk rate worker.

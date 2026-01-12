@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03478
+Result: PASS
+Details: Any quite heavy great risk.

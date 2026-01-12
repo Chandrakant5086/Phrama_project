@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01318
+Result: PASS
+Details: Bar any dark on.

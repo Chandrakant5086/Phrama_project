@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01369
+Result: PASS
+Details: Lose condition table policy base.

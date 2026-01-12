@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04527
+Result: PASS
+Details: Side four might positive specific.

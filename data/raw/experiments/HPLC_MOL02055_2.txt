@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02055
+Result: PASS
+Details: Where writer will way.

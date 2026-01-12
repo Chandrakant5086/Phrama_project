@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02682
+Result: PASS
+Details: Run good old tax generation.

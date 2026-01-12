@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01347
+Result: PASS
+Details: World light glass pay still front house.

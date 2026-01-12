@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04772
+Result: PASS
+Details: Recognize upon assume own.

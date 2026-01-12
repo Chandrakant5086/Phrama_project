@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04555
+Result: PASS
+Details: Religious since indicate letter.

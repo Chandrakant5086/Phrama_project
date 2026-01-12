@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02797
+Result: PASS
+Details: Wish write here seem side general.

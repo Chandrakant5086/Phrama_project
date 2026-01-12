@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03955
+Result: PASS
+Details: North major result prepare term read.

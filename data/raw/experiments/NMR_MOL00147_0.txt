@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00147
+Result: PASS
+Details: Meet skin instead.

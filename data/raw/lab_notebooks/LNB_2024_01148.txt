@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01148
+Scientist: Researcher_C
+Date: 2023-06-26
+Molecule ID: MOL03684
+
+Objective:
+Explore alternate synthesis route for MOL03684.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

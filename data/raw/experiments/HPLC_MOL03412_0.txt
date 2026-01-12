@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03412
+Result: PASS
+Details: Mother event discover nature strategy.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01998
+Result: PASS
+Details: Goal stock large would current.

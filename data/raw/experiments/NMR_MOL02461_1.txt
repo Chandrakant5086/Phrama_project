@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02461
+Result: PASS
+Details: Hit bit interview example kind every.

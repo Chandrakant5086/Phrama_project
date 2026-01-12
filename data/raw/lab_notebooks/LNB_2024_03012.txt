@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03012
+Scientist: Researcher_B
+Date: 2023-06-01
+Molecule ID: MOL02060
+
+Objective:
+Explore alternate synthesis route for MOL02060.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

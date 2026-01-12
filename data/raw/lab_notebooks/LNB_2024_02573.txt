@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02573
+Scientist: Senior_Scientist_1
+Date: 2023-06-13
+Molecule ID: MOL00697
+
+Objective:
+Assess reaction temperature sensitivity for MOL00697.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

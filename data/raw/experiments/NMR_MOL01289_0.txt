@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01289
+Result: PASS
+Details: Away but plan several.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01020
+Result: PASS
+Details: Consumer class focus phone.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04068
+Result: PASS
+Details: Still enough work anyone type story.

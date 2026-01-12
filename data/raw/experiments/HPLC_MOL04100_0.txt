@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04100
+Result: PASS
+Details: Fire reach campaign.

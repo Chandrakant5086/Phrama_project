@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00627
+Result: PASS
+Details: Ground drop article mouth.

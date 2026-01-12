@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02093
+Result: PASS
+Details: Improve others stay window.

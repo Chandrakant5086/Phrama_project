@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03514
+Result: PASS
+Details: Group pay measure bit.

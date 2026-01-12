@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01288
+Result: PASS
+Details: Four fight cost source seem.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00991
+Result: PASS
+Details: Worker service share business pressure area.

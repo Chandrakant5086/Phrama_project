@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00032
+Result: PASS
+Details: Catch political firm down.

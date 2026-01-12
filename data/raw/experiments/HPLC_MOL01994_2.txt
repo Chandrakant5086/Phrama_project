@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01994
+Result: PASS
+Details: Field remain activity arm economy work.

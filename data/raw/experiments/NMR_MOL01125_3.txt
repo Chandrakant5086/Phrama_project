@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01125
+Result: PASS
+Details: Turn power available write design since him.

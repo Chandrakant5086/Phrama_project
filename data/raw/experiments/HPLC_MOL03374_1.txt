@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03374
+Result: PASS
+Details: Hope large production oil.

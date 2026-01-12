@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00643
+Result: PASS
+Details: Within avoid mean.

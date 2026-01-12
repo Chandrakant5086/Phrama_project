@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04120
+Result: PASS
+Details: Ten activity nor hear.

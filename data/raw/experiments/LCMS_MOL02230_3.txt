@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02230
+Result: PASS
+Details: Mission inside yet treatment.

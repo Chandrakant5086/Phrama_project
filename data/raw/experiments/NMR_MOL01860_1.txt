@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01860
+Result: PASS
+Details: Room often still very relationship.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02504
+Result: PASS
+Details: Scientist political full allow standard.

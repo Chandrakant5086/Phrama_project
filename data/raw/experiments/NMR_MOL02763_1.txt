@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02763
+Result: PASS
+Details: Remember environment now never series.

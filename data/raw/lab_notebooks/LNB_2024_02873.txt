@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02873
+Scientist: Senior_Scientist_1
+Date: 2023-07-10
+Molecule ID: MOL03536
+
+Objective:
+Assess reaction temperature sensitivity for MOL03536.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

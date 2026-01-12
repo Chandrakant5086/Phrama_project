@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02345
+Result: PASS
+Details: Performance long let with system region almost.

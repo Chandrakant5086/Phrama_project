@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01594
+Scientist: Senior_Scientist_1
+Date: 2024-04-01
+Molecule ID: MOL04448
+
+Objective:
+Explore alternate synthesis route for MOL04448.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

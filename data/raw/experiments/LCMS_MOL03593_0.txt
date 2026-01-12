@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03593
+Result: PASS
+Details: Create focus blue power.

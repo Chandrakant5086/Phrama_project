@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01395
+Result: PASS
+Details: Professor study task must difference bar.

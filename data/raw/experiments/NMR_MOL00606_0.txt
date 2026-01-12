@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00606
+Result: PASS
+Details: Group professional main animal take.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01524
+Result: PASS
+Details: Last rich significant condition now.

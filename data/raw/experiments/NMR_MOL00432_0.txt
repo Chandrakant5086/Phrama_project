@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00432
+Result: PASS
+Details: Officer white manager in support turn.

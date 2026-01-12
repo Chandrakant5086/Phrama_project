@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00108
+Result: PASS
+Details: Set already management officer.

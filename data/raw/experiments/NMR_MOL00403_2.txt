@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00403
+Result: PASS
+Details: Evidence present family.

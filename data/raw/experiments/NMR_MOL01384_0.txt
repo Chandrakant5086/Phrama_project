@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01384
+Result: PASS
+Details: Wait return these son.

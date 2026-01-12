@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01494
+Result: PASS
+Details: Many know each room side choice vote.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04633
+Result: PASS
+Details: Candidate since assume become though.

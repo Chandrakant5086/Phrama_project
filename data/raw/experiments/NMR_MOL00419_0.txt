@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00419
+Result: PASS
+Details: Respond series section state partner area near.

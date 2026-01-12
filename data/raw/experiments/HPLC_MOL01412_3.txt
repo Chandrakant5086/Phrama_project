@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01412
+Result: PASS
+Details: Major real together huge green reflect green.

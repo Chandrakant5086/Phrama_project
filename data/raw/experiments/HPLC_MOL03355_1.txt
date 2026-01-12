@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03355
+Result: PASS
+Details: Price back key to it.

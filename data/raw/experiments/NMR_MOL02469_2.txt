@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02469
+Result: PASS
+Details: Student wall thought among dream data.

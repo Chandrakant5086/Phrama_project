@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02066
+Result: PASS
+Details: Guess specific should fill allow assume guy heavy.

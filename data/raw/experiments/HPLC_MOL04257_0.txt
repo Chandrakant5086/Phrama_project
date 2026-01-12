@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04257
+Result: PASS
+Details: Beyond lot nothing blood store top attack.

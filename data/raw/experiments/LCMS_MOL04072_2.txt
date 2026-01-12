@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04072
+Result: PASS
+Details: Phone past ask.

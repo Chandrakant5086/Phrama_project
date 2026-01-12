@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02895
+Result: PASS
+Details: Everyone year will everyone.

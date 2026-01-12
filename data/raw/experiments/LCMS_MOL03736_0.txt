@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03736
+Result: PASS
+Details: With source center eye.

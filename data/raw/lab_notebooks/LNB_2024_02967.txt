@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02967
+Scientist: PostDoc_2
+Date: 2023-11-03
+Molecule ID: MOL01960
+
+Objective:
+Assess reaction temperature sensitivity for MOL01960.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01563
+Result: PASS
+Details: Win order raise strategy before take.

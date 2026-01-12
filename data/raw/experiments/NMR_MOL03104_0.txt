@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03104
+Result: PASS
+Details: Family one stand.

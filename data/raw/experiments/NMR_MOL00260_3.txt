@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00260
+Result: PASS
+Details: Beyond age standard alone despite approach administration.

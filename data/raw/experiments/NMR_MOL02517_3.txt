@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02517
+Result: PASS
+Details: Speak person state institution people.

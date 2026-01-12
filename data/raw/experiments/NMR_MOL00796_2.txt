@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00796
+Result: PASS
+Details: South per table all eat.

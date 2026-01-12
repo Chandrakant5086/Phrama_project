@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01651
+Scientist: Senior_Scientist_1
+Date: 2024-04-12
+Molecule ID: MOL01374
+
+Objective:
+Investigate impurity formation for MOL01374.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

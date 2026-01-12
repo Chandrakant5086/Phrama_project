@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03668
+Result: PASS
+Details: Structure hope huge.

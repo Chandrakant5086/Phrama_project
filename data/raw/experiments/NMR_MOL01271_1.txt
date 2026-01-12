@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01271
+Result: PASS
+Details: Best next occur heavy professor agent.

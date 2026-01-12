@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03114
+Scientist: Researcher_C
+Date: 2023-06-26
+Molecule ID: MOL01648
+
+Objective:
+Explore alternate synthesis route for MOL01648.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

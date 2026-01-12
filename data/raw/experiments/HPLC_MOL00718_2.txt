@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00718
+Result: PASS
+Details: Pick with others management study audience.

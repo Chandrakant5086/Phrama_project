@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01277
+Result: PASS
+Details: Recognize name hospital stock also hear.

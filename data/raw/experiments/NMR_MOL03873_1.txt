@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03873
+Result: PASS
+Details: Add him true only.

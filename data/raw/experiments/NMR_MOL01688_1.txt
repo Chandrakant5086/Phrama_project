@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01688
+Result: PASS
+Details: Off high similar but state part health over.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01409
+Result: PASS
+Details: Past take pay cost.

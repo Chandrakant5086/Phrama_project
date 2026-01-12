@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01593
+Result: PASS
+Details: Find example method knowledge value.

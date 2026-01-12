@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03362
+Result: PASS
+Details: Away box training discussion consumer rule expect true.

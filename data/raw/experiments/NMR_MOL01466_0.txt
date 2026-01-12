@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01466
+Result: PASS
+Details: Project nice doctor idea.

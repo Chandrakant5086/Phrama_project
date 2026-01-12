@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01326
+Result: PASS
+Details: When produce food inside pick themselves.

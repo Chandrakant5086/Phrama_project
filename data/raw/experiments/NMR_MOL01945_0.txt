@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01945
+Result: PASS
+Details: Ground member across surface black organization.

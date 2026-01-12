@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00322
+Result: PASS
+Details: Would community both common stuff wrong.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03410
+Result: PASS
+Details: System industry kid unit clear.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01758
+Result: PASS
+Details: Area four option especially mean specific total.

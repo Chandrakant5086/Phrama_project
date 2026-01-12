@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03549
+Result: PASS
+Details: Physical area brother state.

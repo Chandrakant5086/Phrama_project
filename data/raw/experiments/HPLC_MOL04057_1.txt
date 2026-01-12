@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04057
+Result: PASS
+Details: College about design.

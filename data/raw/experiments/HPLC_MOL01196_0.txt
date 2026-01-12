@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01196
+Result: PASS
+Details: Natural meeting wall individual certain level could.

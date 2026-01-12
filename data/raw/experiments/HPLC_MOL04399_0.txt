@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04399
+Result: PASS
+Details: Cost point represent evidence.

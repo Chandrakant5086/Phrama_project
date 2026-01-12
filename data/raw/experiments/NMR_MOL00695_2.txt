@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00695
+Result: PASS
+Details: Together serious old walk.

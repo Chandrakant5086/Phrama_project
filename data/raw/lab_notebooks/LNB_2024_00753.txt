@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00753
+Scientist: Senior_Scientist_1
+Date: 2023-09-29
+Molecule ID: MOL01002
+
+Objective:
+Explore alternate synthesis route for MOL01002.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

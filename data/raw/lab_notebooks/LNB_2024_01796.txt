@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01796
+Scientist: Senior_Scientist_1
+Date: 2023-06-23
+Molecule ID: MOL02099
+
+Objective:
+Assess reaction temperature sensitivity for MOL02099.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

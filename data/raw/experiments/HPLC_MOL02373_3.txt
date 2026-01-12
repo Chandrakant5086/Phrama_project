@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02373
+Result: PASS
+Details: Big summer image concern.

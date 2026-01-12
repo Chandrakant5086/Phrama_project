@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03729
+Scientist: Researcher_A
+Date: 2024-02-29
+Molecule ID: MOL02880
+
+Objective:
+Investigate impurity formation for MOL02880.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

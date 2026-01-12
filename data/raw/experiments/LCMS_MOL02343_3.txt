@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02343
+Result: PASS
+Details: Race no yourself remain reflect local.

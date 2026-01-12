@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01018
+Result: PASS
+Details: Congress collection treatment minute.

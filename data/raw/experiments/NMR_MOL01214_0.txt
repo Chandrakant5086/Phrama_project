@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01214
+Result: PASS
+Details: Might dark field ground billion series strategy.

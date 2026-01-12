@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01103
+Result: PASS
+Details: Begin spring area specific.

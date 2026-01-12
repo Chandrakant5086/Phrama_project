@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02029
+Scientist: Senior_Scientist_1
+Date: 2023-12-26
+Molecule ID: MOL01608
+
+Objective:
+Investigate impurity formation for MOL01608.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

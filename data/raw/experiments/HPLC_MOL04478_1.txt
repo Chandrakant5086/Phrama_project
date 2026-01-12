@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04478
+Result: PASS
+Details: Forward throw produce have as.

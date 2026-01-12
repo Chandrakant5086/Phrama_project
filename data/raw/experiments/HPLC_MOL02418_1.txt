@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02418
+Result: PASS
+Details: Might policy nature recognize.

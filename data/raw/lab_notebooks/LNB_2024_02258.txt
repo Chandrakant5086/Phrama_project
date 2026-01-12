@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02258
+Scientist: Senior_Scientist_1
+Date: 2023-06-07
+Molecule ID: MOL02400
+
+Objective:
+Validate preliminary reaction conditions for MOL02400.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

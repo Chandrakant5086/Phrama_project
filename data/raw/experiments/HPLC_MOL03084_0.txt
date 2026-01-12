@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03084
+Result: PASS
+Details: Area near floor face treat level idea.

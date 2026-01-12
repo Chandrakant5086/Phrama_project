@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01859
+Result: PASS
+Details: May become quality.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04523
+Result: PASS
+Details: Memory law really out sure.

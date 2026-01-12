@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04732
+Result: PASS
+Details: Early site money which also part likely.

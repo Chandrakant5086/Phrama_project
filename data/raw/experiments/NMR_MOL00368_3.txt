@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00368
+Result: PASS
+Details: Defense old area former.

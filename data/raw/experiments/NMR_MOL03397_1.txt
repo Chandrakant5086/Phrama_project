@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03397
+Result: PASS
+Details: Under book improve whether industry.

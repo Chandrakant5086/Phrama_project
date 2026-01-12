@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04071
+Result: PASS
+Details: Statement care back attention day.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00696
+Result: PASS
+Details: My personal produce gun.

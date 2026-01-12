@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02063
+Result: PASS
+Details: Next job run actually million fall least.

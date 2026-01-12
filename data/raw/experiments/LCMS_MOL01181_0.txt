@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01181
+Result: PASS
+Details: Send pull compare treatment ready clear stuff.

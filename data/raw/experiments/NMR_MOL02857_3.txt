@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02857
+Result: PASS
+Details: Think base performance trade space type.

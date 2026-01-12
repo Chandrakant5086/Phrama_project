@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01344
+Result: PASS
+Details: Such again class agent manager.

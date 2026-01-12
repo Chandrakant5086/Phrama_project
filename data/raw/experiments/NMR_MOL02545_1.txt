@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02545
+Result: PASS
+Details: Lot benefit weight.

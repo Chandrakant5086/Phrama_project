@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02812
+Result: PASS
+Details: Environmental we same imagine.

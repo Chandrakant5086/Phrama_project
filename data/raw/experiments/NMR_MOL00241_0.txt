@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00241
+Result: PASS
+Details: Sure information first effect yes sense ahead.

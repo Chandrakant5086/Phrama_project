@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03655
+Result: PASS
+Details: Citizen bill oil series former.

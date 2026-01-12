@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01238
+Result: PASS
+Details: See few week particularly pull item note.

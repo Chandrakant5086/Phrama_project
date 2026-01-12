@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04021
+Result: PASS
+Details: So itself simply base measure total.

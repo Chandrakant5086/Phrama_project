@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02659
+Result: PASS
+Details: Writer operation mean.

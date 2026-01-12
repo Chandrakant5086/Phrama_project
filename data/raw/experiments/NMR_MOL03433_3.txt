@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03433
+Result: PASS
+Details: Example process sister.

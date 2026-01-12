@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00635
+Result: PASS
+Details: Against picture current reflect.

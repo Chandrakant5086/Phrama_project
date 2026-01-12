@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03341
+Result: PASS
+Details: Family big spring what.

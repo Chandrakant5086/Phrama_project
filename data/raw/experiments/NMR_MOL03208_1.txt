@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03208
+Result: PASS
+Details: Get traditional similar wrong system the realize.

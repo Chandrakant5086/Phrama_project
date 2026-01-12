@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04269
+Result: PASS
+Details: Travel accept parent life other base add.

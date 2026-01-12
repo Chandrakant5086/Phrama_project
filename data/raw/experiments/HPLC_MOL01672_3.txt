@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01672
+Result: PASS
+Details: Available point smile agency with interesting camera.

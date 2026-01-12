@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01484
+Result: PASS
+Details: Wall wall music full job pull.

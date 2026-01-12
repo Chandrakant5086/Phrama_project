@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04188
+Result: PASS
+Details: Speech girl product heavy.

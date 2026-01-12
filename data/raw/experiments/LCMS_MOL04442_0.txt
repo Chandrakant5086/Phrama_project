@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04442
+Result: PASS
+Details: Director hot pattern attention soon area.

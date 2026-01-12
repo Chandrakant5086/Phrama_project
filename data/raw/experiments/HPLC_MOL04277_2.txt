@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04277
+Result: PASS
+Details: Board style name whatever.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00024
+Result: PASS
+Details: Size value watch rest white.

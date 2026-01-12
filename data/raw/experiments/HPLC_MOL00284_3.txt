@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00284
+Result: PASS
+Details: Grow upon reason result street test.

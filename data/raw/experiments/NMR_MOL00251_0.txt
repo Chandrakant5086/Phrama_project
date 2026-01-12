@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00251
+Result: PASS
+Details: Their exist low pattern.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01293
+Scientist: Senior_Scientist_1
+Date: 2023-04-10
+Molecule ID: MOL04830
+
+Objective:
+Explore alternate synthesis route for MOL04830.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

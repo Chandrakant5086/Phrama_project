@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03069
+Scientist: Senior_Scientist_1
+Date: 2024-04-22
+Molecule ID: MOL03813
+
+Objective:
+Assess reaction temperature sensitivity for MOL03813.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

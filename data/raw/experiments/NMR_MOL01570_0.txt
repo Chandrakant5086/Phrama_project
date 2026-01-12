@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01570
+Result: PASS
+Details: Doctor door inside say.

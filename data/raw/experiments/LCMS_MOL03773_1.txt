@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03773
+Result: PASS
+Details: Join prepare floor thing information which.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01878
+Result: PASS
+Details: In first company building similar.

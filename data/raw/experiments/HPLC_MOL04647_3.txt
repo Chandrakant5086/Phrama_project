@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04647
+Result: PASS
+Details: Reason box air may feeling.

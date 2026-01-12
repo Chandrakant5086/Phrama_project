@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03308
+Result: PASS
+Details: By yet during might parent.

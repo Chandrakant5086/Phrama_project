@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01500
+Scientist: PostDoc_2
+Date: 2023-02-24
+Molecule ID: MOL04818
+
+Objective:
+Investigate impurity formation for MOL04818.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03652
+Result: PASS
+Details: Provide nor certain everyone.

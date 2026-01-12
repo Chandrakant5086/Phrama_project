@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01579
+Result: PASS
+Details: Protect share note war assume.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02091
+Result: PASS
+Details: Receive staff put book thousand.

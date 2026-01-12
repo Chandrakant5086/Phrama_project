@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03502
+Result: PASS
+Details: Avoid pass create front.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04084
+Result: PASS
+Details: Skin stay have interview.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00361
+Result: PASS
+Details: White else only themselves loss tend back.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04533
+Result: PASS
+Details: Rate action require above attack save.

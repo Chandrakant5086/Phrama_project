@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04235
+Result: PASS
+Details: Recent nation set book plan foreign.

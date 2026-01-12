@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00073
+Result: PASS
+Details: Also stock fine main specific civil.

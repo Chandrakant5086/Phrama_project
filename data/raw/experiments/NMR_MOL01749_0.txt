@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01749
+Result: PASS
+Details: Democratic require sing board PM wide.

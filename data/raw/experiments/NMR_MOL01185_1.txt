@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01185
+Result: PASS
+Details: Sister second give blood can.

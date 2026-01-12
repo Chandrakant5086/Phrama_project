@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01144
+Result: PASS
+Details: Story open involve likely sell.

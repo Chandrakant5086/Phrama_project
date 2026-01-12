@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02935
+Result: PASS
+Details: Term computer leader magazine space field example.

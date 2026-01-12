@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04307
+Result: PASS
+Details: History surface effort world film record method under.

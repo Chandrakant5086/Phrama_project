@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00570
+Result: PASS
+Details: Catch ten no fill behavior thing yard since.

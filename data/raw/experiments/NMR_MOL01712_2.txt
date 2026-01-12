@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01712
+Result: PASS
+Details: Instead candidate cell step.

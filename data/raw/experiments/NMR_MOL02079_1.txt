@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02079
+Result: PASS
+Details: Enough together stop local structure economic.

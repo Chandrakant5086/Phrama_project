@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00878
+Result: PASS
+Details: Clearly work tell world.

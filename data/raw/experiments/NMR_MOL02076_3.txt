@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02076
+Result: PASS
+Details: Individual food reach better.

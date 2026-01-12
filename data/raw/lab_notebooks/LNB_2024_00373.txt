@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00373
+Scientist: Researcher_A
+Date: 2023-05-16
+Molecule ID: MOL04790
+
+Objective:
+Assess reaction temperature sensitivity for MOL04790.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

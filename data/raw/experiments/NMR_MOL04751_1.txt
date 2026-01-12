@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04751
+Result: PASS
+Details: Current beat before hope response.

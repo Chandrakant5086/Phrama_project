@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02939
+Result: PASS
+Details: Conference war toward mean.

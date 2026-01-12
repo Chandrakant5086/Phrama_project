@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01389
+Result: PASS
+Details: Traditional agent line consider short positive.

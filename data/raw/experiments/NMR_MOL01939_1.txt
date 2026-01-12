@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01939
+Result: PASS
+Details: Especially wear half one require front.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04603
+Result: PASS
+Details: Growth thus care station picture.

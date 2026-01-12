@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03848
+Result: PASS
+Details: Conference send name.

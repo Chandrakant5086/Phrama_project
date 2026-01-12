@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02114
+Result: PASS
+Details: Analysis personal movie.

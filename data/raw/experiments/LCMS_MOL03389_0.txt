@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03389
+Result: PASS
+Details: Would population strategy current.

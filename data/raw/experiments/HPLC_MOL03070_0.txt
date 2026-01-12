@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03070
+Result: PASS
+Details: Season relate final should call amount bag.

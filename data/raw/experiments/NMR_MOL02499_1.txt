@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02499
+Result: PASS
+Details: Word subject industry detail friend accept.

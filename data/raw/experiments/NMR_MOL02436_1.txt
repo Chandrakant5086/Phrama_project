@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02436
+Result: PASS
+Details: With a think.

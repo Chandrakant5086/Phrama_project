@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02753
+Result: PASS
+Details: Capital cut soon month trip detail.

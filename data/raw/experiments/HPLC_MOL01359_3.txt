@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01359
+Result: PASS
+Details: Its think rule stand.

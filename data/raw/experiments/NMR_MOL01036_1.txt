@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01036
+Result: PASS
+Details: Final his board system serve month.

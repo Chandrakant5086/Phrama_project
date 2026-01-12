@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02598
+Result: PASS
+Details: Nearly save protect six.

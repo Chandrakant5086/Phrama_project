@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00427
+Result: PASS
+Details: Issue area process stock group green.

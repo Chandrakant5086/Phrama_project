@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00282
+Result: PASS
+Details: Read a may way window southern reflect air.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03386
+Result: PASS
+Details: Away bag board central meeting type.

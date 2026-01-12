@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01404
+Result: PASS
+Details: Can shoulder unit hit music.

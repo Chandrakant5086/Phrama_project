@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04236
+Result: PASS
+Details: Simple add your activity.

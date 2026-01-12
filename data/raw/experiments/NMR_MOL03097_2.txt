@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03097
+Result: PASS
+Details: Easy leader really area state just.

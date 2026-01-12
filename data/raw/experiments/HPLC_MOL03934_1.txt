@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03934
+Result: PASS
+Details: Treat end take analysis side.

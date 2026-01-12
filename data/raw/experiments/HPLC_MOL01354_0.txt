@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01354
+Result: PASS
+Details: Also north despite blue.

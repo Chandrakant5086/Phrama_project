@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03651
+Result: PASS
+Details: Store house reflect trade bag value source yet.

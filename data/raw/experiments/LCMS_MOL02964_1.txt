@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02964
+Result: PASS
+Details: Hit remain contain.

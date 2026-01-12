@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01719
+Result: PASS
+Details: Child group parent system keep similar point all.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01051
+Result: PASS
+Details: Player although treat.

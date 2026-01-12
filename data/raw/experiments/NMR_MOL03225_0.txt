@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03225
+Result: PASS
+Details: Campaign range site.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03444
+Scientist: PostDoc_2
+Date: 2023-07-08
+Molecule ID: MOL01208
+
+Objective:
+Test solvent impact on yield for MOL01208.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

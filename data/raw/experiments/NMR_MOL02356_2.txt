@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02356
+Result: PASS
+Details: Style thing sell culture road.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03994
+Result: PASS
+Details: Cold guess another more likely.

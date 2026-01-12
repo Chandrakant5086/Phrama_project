@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02105
+Result: PASS
+Details: Strong leg seek or example western.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03349
+Result: PASS
+Details: Rest model individual soldier.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01569
+Result: PASS
+Details: Although couple majority on end describe.

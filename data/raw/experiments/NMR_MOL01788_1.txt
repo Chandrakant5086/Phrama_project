@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01788
+Result: PASS
+Details: Best pattern really open.

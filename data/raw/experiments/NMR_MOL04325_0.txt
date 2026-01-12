@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04325
+Result: PASS
+Details: Event radio check different take.

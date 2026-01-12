@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04169
+Result: PASS
+Details: System attention to most cell sing.

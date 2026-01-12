@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02648
+Result: PASS
+Details: Sure point read meeting.

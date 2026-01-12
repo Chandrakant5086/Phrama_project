@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04330
+Result: PASS
+Details: Analysis kitchen hit authority amount campaign prepare.

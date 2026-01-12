@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03539
+Result: PASS
+Details: Son item then push training.

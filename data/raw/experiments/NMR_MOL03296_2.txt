@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03296
+Result: PASS
+Details: Cultural use indeed.

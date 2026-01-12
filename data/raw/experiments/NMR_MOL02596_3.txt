@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02596
+Result: PASS
+Details: Along design natural writer wait order.

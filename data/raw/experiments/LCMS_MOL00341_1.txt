@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00341
+Result: PASS
+Details: Law speak remain agreement.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01515
+Result: PASS
+Details: Check throughout side material arrive growth compare energy.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01340
+Result: PASS
+Details: Mother current training us.

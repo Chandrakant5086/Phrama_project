@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01431
+Result: PASS
+Details: Strong day ago next.

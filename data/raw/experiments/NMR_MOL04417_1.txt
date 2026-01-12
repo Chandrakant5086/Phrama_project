@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04417
+Result: PASS
+Details: Sound test court.

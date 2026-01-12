@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01107
+Result: PASS
+Details: Grow space write statement.

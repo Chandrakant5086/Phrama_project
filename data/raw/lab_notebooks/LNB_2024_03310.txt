@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03310
+Scientist: Researcher_A
+Date: 2024-03-06
+Molecule ID: MOL00195
+
+Objective:
+Explore alternate synthesis route for MOL00195.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

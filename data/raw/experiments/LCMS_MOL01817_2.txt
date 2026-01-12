@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01817
+Result: PASS
+Details: Nearly big loss small.

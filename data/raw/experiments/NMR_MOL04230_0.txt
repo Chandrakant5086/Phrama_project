@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04230
+Result: PASS
+Details: Least arrive product find later mean outside thus.

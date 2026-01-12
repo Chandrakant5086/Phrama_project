@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02519
+Result: PASS
+Details: School name we deal state.

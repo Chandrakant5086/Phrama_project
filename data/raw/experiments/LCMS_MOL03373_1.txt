@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03373
+Result: PASS
+Details: Team it condition mention often here rich.

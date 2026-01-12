@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02449
+Result: PASS
+Details: Rather positive treatment total expert.

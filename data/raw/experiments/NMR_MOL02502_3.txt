@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02502
+Result: PASS
+Details: Local skin training determine increase throw stop see.

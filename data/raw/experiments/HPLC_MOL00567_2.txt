@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00567
+Result: PASS
+Details: Gun plan relationship inside mean.

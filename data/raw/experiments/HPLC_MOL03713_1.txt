@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03713
+Result: PASS
+Details: Indeed language difference real.

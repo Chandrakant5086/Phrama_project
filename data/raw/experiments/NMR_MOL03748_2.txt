@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03748
+Result: PASS
+Details: Deep recognize mention treatment.

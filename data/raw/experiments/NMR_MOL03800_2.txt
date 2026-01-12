@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03800
+Result: PASS
+Details: Contain after recently two like so hold.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00592
+Result: PASS
+Details: At power goal everybody.

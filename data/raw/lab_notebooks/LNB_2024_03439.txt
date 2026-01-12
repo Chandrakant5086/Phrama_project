@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03439
+Scientist: Researcher_B
+Date: 2023-02-03
+Molecule ID: MOL03444
+
+Objective:
+Explore alternate synthesis route for MOL03444.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

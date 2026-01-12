@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03026
+Result: PASS
+Details: Star over everything treatment.

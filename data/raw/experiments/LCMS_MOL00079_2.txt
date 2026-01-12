@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00079
+Result: PASS
+Details: Stage opportunity by camera professor large.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02570
+Result: PASS
+Details: Hair thus glass movie trial.

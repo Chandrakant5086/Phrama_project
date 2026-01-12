@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03873
+Result: PASS
+Details: Former difference high share including.

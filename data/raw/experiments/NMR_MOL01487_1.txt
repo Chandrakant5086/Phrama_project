@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01487
+Result: PASS
+Details: Individual gun authority matter.

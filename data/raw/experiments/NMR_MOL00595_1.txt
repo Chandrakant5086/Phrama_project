@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00595
+Result: PASS
+Details: Strategy people street hold watch.

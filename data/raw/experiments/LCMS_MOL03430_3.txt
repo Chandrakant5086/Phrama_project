@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03430
+Result: PASS
+Details: Specific various base form opportunity policy.

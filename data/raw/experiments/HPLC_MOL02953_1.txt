@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02953
+Result: PASS
+Details: Large either both away identify single.

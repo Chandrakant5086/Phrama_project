@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00214
+Result: PASS
+Details: Available consumer because front.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02973
+Result: PASS
+Details: Agent box visit information authority too management.

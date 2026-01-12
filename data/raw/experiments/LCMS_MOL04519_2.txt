@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04519
+Result: PASS
+Details: Offer score high blood available.

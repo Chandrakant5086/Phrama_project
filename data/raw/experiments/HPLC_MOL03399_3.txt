@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03399
+Result: PASS
+Details: Necessary drop spring up majority consider identify.

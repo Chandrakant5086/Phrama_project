@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02153
+Result: PASS
+Details: Share it put especially candidate.

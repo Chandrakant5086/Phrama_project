@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04499
+Result: PASS
+Details: When soldier large Mr.

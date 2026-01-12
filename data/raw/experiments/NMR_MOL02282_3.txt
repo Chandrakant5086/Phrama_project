@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02282
+Result: PASS
+Details: Expect law meet mean want spring.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04995
+Result: PASS
+Details: Own win full.

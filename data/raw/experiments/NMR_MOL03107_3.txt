@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03107
+Result: PASS
+Details: Page have phone across bank shake effect.

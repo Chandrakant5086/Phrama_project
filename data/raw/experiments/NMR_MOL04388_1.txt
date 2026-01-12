@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04388
+Result: PASS
+Details: Onto week blue purpose water.

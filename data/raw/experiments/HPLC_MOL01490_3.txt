@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01490
+Result: PASS
+Details: Official mean loss fund threat read.

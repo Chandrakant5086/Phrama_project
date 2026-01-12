@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01270
+Result: PASS
+Details: Order simple without show great.

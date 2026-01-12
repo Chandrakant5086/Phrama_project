@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00472
+Result: PASS
+Details: Modern bad clear case room.

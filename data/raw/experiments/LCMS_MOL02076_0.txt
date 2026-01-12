@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02076
+Result: PASS
+Details: Produce consumer must similar west.

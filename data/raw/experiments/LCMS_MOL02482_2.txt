@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02482
+Result: PASS
+Details: Finish bring hospital control point condition.

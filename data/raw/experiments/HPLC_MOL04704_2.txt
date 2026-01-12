@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04704
+Result: PASS
+Details: Car partner apply number when choose mouth travel.

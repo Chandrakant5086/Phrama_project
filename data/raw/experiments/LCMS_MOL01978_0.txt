@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01978
+Result: PASS
+Details: Same finish strong ability.

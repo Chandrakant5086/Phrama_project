@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00529
+Result: PASS
+Details: Happen identify oil western student.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03942
+Result: PASS
+Details: Collection animal first should project into physical bit.

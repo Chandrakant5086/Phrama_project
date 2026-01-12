@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04787
+Result: PASS
+Details: Easy full since find teach window.

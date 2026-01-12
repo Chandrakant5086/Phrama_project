@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00430
+Result: PASS
+Details: Election standard owner everyone.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00303
+Result: PASS
+Details: Poor issue leave similar each deep head.

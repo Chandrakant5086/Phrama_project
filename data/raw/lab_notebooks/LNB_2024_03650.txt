@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03650
+Scientist: Researcher_C
+Date: 2023-12-26
+Molecule ID: MOL02422
+
+Objective:
+Explore alternate synthesis route for MOL02422.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

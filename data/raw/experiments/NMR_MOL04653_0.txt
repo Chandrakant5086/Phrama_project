@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04653
+Result: PASS
+Details: Keep close why act quality mean.

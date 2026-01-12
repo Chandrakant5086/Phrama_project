@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00975
+Result: PASS
+Details: Kid generation coach stuff.

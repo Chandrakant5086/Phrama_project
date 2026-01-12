@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03572
+Result: PASS
+Details: Pass conference away reveal.

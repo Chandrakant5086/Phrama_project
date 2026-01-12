@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02558
+Result: PASS
+Details: Follow war three.

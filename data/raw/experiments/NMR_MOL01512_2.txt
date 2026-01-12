@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01512
+Result: PASS
+Details: Single drive sometimes technology family.

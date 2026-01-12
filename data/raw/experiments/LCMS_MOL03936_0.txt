@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03936
+Result: PASS
+Details: Hold build involve.

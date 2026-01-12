@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01355
+Result: PASS
+Details: Media perhaps specific drop national.

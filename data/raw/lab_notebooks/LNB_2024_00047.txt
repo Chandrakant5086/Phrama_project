@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00047
+Scientist: Researcher_A
+Date: 2024-02-19
+Molecule ID: MOL01327
+
+Objective:
+Test solvent impact on yield for MOL01327.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

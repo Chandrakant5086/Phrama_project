@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00225
+Result: PASS
+Details: Society degree like deal.

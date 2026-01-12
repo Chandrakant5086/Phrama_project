@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01373
+Result: PASS
+Details: Rate next spring wide.

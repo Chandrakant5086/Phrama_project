@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02067
+Result: PASS
+Details: Long many one.

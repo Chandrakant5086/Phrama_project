@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01871
+Result: PASS
+Details: Difficult get action open look.

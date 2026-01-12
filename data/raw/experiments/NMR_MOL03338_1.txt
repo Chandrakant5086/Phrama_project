@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03338
+Result: PASS
+Details: Perform deal whatever look run reflect.

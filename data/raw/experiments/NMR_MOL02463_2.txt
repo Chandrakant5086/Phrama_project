@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02463
+Result: PASS
+Details: Trouble under instead trouble window.

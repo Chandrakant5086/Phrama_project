@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00690
+Result: PASS
+Details: Rate involve kid thus fine as former.

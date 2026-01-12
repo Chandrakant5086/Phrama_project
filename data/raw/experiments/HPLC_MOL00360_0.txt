@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00360
+Result: PASS
+Details: Same get still spend.

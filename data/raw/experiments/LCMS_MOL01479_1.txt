@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01479
+Result: PASS
+Details: Career grow avoid production message case.

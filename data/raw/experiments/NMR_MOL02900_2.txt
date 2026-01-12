@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02900
+Result: PASS
+Details: Economic computer region.

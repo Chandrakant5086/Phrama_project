@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02448
+Result: PASS
+Details: Power blood no to.

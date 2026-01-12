@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03411
+Result: PASS
+Details: Design always unit realize hit.

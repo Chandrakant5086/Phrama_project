@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02594
+Result: PASS
+Details: Assume evidence glass huge wide.

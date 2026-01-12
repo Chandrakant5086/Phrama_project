@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03187
+Scientist: Senior_Scientist_1
+Date: 2023-04-28
+Molecule ID: MOL01965
+
+Objective:
+Explore alternate synthesis route for MOL01965.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01061
+Result: PASS
+Details: Southern now take central out.

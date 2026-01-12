@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04122
+Result: PASS
+Details: Between whose suggest age grow.

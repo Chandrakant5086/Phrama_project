@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02770
+Result: PASS
+Details: Just over possible old that.

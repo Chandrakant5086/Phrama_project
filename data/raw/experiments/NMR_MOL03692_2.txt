@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03692
+Result: PASS
+Details: Thing state low sign large goal.

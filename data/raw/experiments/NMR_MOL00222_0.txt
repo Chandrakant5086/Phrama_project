@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00222
+Result: PASS
+Details: Yet finish structure our control.

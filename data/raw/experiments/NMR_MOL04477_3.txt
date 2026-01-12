@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04477
+Result: PASS
+Details: Central nice two newspaper.

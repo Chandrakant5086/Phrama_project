@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02208
+Scientist: Senior_Scientist_1
+Date: 2023-09-27
+Molecule ID: MOL01684
+
+Objective:
+Assess reaction temperature sensitivity for MOL01684.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

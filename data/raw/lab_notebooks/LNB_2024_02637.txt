@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02637
+Scientist: Researcher_A
+Date: 2023-01-23
+Molecule ID: MOL00155
+
+Objective:
+Investigate impurity formation for MOL00155.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

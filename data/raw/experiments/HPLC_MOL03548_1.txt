@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03548
+Result: PASS
+Details: Single like forward increase.

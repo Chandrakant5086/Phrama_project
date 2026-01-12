@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04753
+Result: PASS
+Details: Individual kid card building might own.

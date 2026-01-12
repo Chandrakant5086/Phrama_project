@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04867
+Result: PASS
+Details: Out happen ago account.

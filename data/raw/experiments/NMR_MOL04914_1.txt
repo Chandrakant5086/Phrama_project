@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04914
+Result: PASS
+Details: Win magazine best real.

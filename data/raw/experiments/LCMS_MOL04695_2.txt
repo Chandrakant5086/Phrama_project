@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04695
+Result: PASS
+Details: Fill good not admit answer red whether production.

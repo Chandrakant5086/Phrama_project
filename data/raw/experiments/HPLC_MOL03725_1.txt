@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03725
+Result: PASS
+Details: Radio message method financial pay.

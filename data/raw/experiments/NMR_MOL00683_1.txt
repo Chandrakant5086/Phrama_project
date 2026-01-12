@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00683
+Result: PASS
+Details: Some party sea consider politics.

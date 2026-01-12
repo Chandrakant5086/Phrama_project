@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04895
+Result: PASS
+Details: Moment analysis pay contain.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00623
+Scientist: Researcher_A
+Date: 2023-02-13
+Molecule ID: MOL00771
+
+Objective:
+Test solvent impact on yield for MOL00771.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

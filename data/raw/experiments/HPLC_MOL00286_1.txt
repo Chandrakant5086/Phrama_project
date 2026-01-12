@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00286
+Result: PASS
+Details: Put soldier reach trip home resource cell.

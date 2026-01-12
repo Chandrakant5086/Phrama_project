@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00585
+Result: PASS
+Details: Control culture option ability.

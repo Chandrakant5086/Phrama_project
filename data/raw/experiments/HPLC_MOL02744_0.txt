@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02744
+Result: PASS
+Details: Law run contain.

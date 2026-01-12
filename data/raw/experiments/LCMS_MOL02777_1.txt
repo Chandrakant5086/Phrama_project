@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02777
+Result: PASS
+Details: Involve happy by star.

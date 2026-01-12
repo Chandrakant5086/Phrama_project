@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01547
+Scientist: Researcher_B
+Date: 2023-04-10
+Molecule ID: MOL02560
+
+Objective:
+Explore alternate synthesis route for MOL02560.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

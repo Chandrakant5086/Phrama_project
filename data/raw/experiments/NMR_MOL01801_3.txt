@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01801
+Result: PASS
+Details: Information popular wish despite cost decision.

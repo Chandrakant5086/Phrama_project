@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01473
+Result: PASS
+Details: Next world sport tonight.

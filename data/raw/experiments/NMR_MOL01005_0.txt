@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01005
+Result: PASS
+Details: Management trip indeed response prevent.

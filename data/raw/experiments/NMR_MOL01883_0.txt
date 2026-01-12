@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01883
+Result: PASS
+Details: Hand choice although that.

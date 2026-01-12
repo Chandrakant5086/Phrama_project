@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03197
+Result: PASS
+Details: Simply interview it worker.

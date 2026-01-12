@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02760
+Result: PASS
+Details: Her cell particular citizen candidate trip.

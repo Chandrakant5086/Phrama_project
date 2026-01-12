@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02687
+Result: PASS
+Details: Purpose couple improve everything.

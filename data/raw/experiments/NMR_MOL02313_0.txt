@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02313
+Result: PASS
+Details: Matter simple vote sell.

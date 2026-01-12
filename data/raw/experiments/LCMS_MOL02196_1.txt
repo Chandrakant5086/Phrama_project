@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02196
+Result: PASS
+Details: Company we feeling tonight.

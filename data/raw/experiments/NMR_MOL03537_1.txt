@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03537
+Result: PASS
+Details: Measure small group defense white open call finish.

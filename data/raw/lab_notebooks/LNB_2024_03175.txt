@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03175
+Scientist: Researcher_C
+Date: 2024-05-04
+Molecule ID: MOL04218
+
+Objective:
+Test solvent impact on yield for MOL04218.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

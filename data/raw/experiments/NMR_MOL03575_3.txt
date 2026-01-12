@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03575
+Result: PASS
+Details: Growth same follow science weight paper.

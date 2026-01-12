@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04894
+Result: PASS
+Details: Opportunity material hear.

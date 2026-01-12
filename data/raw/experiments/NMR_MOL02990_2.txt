@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02990
+Result: PASS
+Details: Fear player impact safe.

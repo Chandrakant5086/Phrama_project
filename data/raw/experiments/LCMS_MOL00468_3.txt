@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00468
+Result: PASS
+Details: Fast play effect some something lose.

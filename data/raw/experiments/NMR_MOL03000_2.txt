@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03000
+Result: PASS
+Details: Best tell prepare design support billion.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02728
+Result: PASS
+Details: Meeting American head family.

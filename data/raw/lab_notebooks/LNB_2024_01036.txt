@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01036
+Scientist: Researcher_B
+Date: 2024-04-12
+Molecule ID: MOL01186
+
+Objective:
+Explore alternate synthesis route for MOL01186.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

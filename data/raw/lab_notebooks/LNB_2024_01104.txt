@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01104
+Scientist: Researcher_B
+Date: 2023-05-20
+Molecule ID: MOL01612
+
+Objective:
+Explore alternate synthesis route for MOL01612.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

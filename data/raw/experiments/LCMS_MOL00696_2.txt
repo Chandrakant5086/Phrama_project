@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00696
+Result: PASS
+Details: Seven walk TV throw.

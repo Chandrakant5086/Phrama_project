@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02229
+Result: PASS
+Details: Individual tree budget shake theory reason including big.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00000
+Result: PASS
+Details: Kitchen big fish figure.

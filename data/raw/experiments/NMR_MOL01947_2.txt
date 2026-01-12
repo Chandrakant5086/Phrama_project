@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01947
+Result: PASS
+Details: Run any relationship role explain lead.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04600
+Result: PASS
+Details: Loss go community agent.

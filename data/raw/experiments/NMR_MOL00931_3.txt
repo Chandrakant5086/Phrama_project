@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00931
+Result: PASS
+Details: Beat member growth find fact personal.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02766
+Result: PASS
+Details: Remember probably effect cost everything.

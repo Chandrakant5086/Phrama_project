@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03856
+Result: PASS
+Details: East along statement hit concern network lose.

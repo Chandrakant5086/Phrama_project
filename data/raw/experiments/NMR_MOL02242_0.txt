@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02242
+Result: PASS
+Details: Cultural collection past decade add trial entire.

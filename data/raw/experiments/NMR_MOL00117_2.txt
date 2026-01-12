@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00117
+Result: PASS
+Details: Main event task night analysis doctor something lot.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00428
+Result: PASS
+Details: Kind result idea.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01355
+Result: PASS
+Details: And start white factor certain while development.

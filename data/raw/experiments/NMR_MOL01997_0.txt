@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01997
+Result: PASS
+Details: Walk drop glass quite general industry time.

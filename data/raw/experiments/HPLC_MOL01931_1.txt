@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01931
+Result: PASS
+Details: Cost role child specific.

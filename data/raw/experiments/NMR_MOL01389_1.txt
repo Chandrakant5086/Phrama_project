@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01389
+Result: PASS
+Details: Team general need case feel pretty.

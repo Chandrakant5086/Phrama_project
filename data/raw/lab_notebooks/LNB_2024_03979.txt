@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03979
+Scientist: Researcher_B
+Date: 2023-06-01
+Molecule ID: MOL01182
+
+Objective:
+Explore alternate synthesis route for MOL01182.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

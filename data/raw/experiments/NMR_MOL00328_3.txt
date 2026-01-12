@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00328
+Result: PASS
+Details: Positive sign apply process early box.

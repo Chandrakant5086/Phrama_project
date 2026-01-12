@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02309
+Result: PASS
+Details: Happy right action pressure exist down.

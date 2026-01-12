@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04344
+Result: PASS
+Details: Large product from.

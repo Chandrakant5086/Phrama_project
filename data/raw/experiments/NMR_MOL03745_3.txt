@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03745
+Result: PASS
+Details: Not sell can resource parent.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03475
+Result: PASS
+Details: Daughter soldier high try.

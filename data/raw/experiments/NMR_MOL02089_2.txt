@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02089
+Result: PASS
+Details: Hold including appear play bill success.

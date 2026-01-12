@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02677
+Result: PASS
+Details: Fill control century once.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04433
+Result: PASS
+Details: Method include degree successful dark.

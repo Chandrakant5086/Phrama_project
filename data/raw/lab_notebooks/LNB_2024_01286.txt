@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01286
+Scientist: Senior_Scientist_1
+Date: 2023-12-17
+Molecule ID: MOL02857
+
+Objective:
+Explore alternate synthesis route for MOL02857.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

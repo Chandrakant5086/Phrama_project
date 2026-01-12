@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00598
+Scientist: Researcher_C
+Date: 2023-09-21
+Molecule ID: MOL04583
+
+Objective:
+Explore alternate synthesis route for MOL04583.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

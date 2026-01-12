@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00096
+Scientist: Researcher_C
+Date: 2024-03-12
+Molecule ID: MOL00205
+
+Objective:
+Explore alternate synthesis route for MOL00205.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

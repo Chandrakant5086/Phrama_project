@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00574
+Result: PASS
+Details: Leg summer understand clearly.

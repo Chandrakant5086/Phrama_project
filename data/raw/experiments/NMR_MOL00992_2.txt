@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00992
+Result: PASS
+Details: Them nothing network face.

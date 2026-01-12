@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00333
+Result: PASS
+Details: Sense middle south two want better return build.

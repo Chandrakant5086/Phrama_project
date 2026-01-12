@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00311
+Result: PASS
+Details: Food little five shoulder morning.

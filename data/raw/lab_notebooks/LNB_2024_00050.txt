@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00050
+Scientist: Researcher_A
+Date: 2024-04-02
+Molecule ID: MOL01876
+
+Objective:
+Test solvent impact on yield for MOL01876.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

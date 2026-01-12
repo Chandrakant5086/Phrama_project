@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00480
+Result: PASS
+Details: Mind assume return of more tough always.

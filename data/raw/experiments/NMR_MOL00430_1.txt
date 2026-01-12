@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00430
+Result: PASS
+Details: Field born cold rate sister.

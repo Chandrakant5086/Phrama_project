@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00190
+Scientist: Researcher_A
+Date: 2023-03-11
+Molecule ID: MOL01906
+
+Objective:
+Investigate impurity formation for MOL01906.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

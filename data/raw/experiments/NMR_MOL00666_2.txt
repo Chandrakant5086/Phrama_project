@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00666
+Result: PASS
+Details: Light plan year same.

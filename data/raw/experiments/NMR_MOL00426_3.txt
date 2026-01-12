@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00426
+Result: PASS
+Details: Whatever sit best worry all environment.

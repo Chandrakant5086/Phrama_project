@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03973
+Result: PASS
+Details: Start size pass bank center air lay.

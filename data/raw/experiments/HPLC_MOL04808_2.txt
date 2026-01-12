@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04808
+Result: PASS
+Details: Need read situation success.

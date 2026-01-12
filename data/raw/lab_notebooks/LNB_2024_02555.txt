@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02555
+Scientist: Senior_Scientist_1
+Date: 2024-01-06
+Molecule ID: MOL02213
+
+Objective:
+Explore alternate synthesis route for MOL02213.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

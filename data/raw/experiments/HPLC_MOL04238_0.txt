@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04238
+Result: PASS
+Details: Front figure among stop couple.

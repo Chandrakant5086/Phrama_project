@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02952
+Result: PASS
+Details: Special join many big give.

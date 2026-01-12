@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01435
+Result: PASS
+Details: Treatment almost certain able.

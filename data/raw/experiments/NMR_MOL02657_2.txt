@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02657
+Result: PASS
+Details: Support fire property stay lay local.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01111
+Scientist: Researcher_B
+Date: 2023-10-20
+Molecule ID: MOL04784
+
+Objective:
+Test solvent impact on yield for MOL04784.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

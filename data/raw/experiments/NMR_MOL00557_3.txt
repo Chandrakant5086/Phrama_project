@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00557
+Result: PASS
+Details: Head decide want answer.

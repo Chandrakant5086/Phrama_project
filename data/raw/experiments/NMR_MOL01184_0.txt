@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01184
+Result: PASS
+Details: Appear field step option.

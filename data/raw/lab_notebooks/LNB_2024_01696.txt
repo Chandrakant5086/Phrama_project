@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01696
+Scientist: Researcher_B
+Date: 2024-03-07
+Molecule ID: MOL01110
+
+Objective:
+Explore alternate synthesis route for MOL01110.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

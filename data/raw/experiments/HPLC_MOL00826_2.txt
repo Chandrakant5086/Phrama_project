@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00826
+Result: PASS
+Details: Trip put food prove.

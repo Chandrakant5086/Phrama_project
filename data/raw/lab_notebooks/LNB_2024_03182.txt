@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03182
+Scientist: Researcher_A
+Date: 2024-04-17
+Molecule ID: MOL03507
+
+Objective:
+Explore alternate synthesis route for MOL03507.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

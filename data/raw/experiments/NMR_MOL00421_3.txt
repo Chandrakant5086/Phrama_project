@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00421
+Result: PASS
+Details: That cold sea analysis.

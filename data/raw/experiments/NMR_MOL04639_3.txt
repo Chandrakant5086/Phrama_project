@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04639
+Result: PASS
+Details: Exist style director development born note.

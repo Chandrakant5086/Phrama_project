@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04377
+Result: PASS
+Details: Important majority course food.

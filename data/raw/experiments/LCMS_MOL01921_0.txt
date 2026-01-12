@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01921
+Result: PASS
+Details: Second inside article policy.

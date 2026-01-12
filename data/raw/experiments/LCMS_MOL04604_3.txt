@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04604
+Result: PASS
+Details: Rather forward but detail.

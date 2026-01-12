@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04552
+Result: PASS
+Details: Simple pay per read ok plan.

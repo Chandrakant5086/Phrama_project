@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01464
+Result: PASS
+Details: Third role hot view.

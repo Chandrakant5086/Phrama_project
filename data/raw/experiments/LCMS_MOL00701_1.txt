@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00701
+Result: PASS
+Details: Training same start.

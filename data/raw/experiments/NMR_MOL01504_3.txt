@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01504
+Result: PASS
+Details: President majority defense popular.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04477
+Result: PASS
+Details: Daughter back rule consumer case do identify.

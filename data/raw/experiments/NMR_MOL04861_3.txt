@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04861
+Result: PASS
+Details: Build nature compare do.

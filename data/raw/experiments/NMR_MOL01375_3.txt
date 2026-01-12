@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01375
+Result: PASS
+Details: Test behavior join kind start describe produce.

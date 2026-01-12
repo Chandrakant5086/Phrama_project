@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00699
+Result: PASS
+Details: Thing southern school.

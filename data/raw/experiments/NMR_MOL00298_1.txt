@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00298
+Result: PASS
+Details: Represent feel property just result choose.

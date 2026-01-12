@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04792
+Result: PASS
+Details: Natural lot run conference put other.

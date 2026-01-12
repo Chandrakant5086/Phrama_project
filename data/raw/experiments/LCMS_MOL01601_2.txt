@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01601
+Result: PASS
+Details: Rock dinner box bed camera.

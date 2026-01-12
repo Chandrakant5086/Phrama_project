@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01919
+Result: PASS
+Details: Support interest indeed.

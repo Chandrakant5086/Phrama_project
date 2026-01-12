@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02547
+Result: PASS
+Details: Above professor they million example long.

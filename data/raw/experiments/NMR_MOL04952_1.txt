@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04952
+Result: PASS
+Details: Type network possible guy score already.

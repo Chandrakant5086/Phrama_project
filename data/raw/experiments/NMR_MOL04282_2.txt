@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04282
+Result: PASS
+Details: Design eye apply door few up.

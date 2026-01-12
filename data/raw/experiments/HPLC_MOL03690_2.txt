@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03690
+Result: PASS
+Details: Family condition get.

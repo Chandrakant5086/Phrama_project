@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00609
+Result: PASS
+Details: Technology data fund ask.

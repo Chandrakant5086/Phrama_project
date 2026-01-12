@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02343
+Result: PASS
+Details: Respond technology single series third message from old.

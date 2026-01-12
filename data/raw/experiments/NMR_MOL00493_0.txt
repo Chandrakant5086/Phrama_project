@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00493
+Result: PASS
+Details: Material certainly collection tonight.

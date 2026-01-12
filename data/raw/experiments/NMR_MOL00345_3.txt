@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00345
+Result: PASS
+Details: Conference grow strategy.

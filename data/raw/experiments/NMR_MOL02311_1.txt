@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02311
+Result: PASS
+Details: Heart of wear space doctor test various.

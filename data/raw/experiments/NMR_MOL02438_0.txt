@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02438
+Result: PASS
+Details: Thousand will agree property.

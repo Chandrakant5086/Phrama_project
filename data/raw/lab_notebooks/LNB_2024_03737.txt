@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03737
+Scientist: Senior_Scientist_1
+Date: 2024-03-17
+Molecule ID: MOL03627
+
+Objective:
+Test solvent impact on yield for MOL03627.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

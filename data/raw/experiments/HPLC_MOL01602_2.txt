@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01602
+Result: PASS
+Details: Nation like color rule pressure.

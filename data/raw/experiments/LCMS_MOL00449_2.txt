@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00449
+Result: PASS
+Details: This determine guess single seat admit day.

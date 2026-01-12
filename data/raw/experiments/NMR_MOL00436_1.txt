@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00436
+Result: PASS
+Details: Entire leg result.

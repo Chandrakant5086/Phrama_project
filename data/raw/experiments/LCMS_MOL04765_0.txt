@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04765
+Result: PASS
+Details: One wind field catch card cause.

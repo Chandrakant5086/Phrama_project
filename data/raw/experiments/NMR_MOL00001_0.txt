@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00001
+Result: PASS
+Details: Them name wrong green notice.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01308
+Result: PASS
+Details: Nation standard more house thought cost.

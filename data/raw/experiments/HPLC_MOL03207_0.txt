@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03207
+Result: PASS
+Details: Quite itself success already so business new.

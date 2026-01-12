@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04765
+Result: PASS
+Details: Director item candidate.

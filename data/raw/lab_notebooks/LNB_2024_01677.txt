@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01677
+Scientist: Researcher_C
+Date: 2023-02-08
+Molecule ID: MOL03320
+
+Objective:
+Investigate impurity formation for MOL03320.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02849
+Result: PASS
+Details: Western training property care.

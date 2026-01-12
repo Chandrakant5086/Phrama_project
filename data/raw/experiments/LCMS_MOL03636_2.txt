@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03636
+Result: PASS
+Details: Deal writer way rate.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01835
+Result: PASS
+Details: Student director lose experience.

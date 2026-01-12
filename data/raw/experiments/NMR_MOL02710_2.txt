@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02710
+Result: PASS
+Details: Great growth include cold event.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03336
+Result: PASS
+Details: Great short national street.

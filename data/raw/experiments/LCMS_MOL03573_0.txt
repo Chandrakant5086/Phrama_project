@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03573
+Result: PASS
+Details: Assume recently shoulder heavy letter.

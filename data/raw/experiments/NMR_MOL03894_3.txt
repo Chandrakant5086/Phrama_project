@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03894
+Result: PASS
+Details: Face central agree field herself end hit record.

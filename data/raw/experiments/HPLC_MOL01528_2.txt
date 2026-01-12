@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01528
+Result: PASS
+Details: Often upon meeting weight factor material require series.

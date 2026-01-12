@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03244
+Result: PASS
+Details: View officer cover friend exist data result.

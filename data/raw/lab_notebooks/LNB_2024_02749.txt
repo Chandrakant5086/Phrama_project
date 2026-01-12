@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02749
+Scientist: PostDoc_2
+Date: 2023-12-03
+Molecule ID: MOL04274
+
+Objective:
+Assess reaction temperature sensitivity for MOL04274.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

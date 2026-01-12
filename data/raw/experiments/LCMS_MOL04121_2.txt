@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04121
+Result: PASS
+Details: Probably education office by likely project.

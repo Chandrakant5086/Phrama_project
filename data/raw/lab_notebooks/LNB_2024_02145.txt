@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02145
+Scientist: Senior_Scientist_1
+Date: 2023-10-17
+Molecule ID: MOL01833
+
+Objective:
+Assess reaction temperature sensitivity for MOL01833.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

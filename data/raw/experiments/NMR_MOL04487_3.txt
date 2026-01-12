@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04487
+Result: PASS
+Details: Within book start small occur ahead friend.

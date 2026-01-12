@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01028
+Scientist: Researcher_A
+Date: 2023-01-31
+Molecule ID: MOL04434
+
+Objective:
+Explore alternate synthesis route for MOL04434.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

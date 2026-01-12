@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02998
+Scientist: Researcher_C
+Date: 2024-03-18
+Molecule ID: MOL02872
+
+Objective:
+Investigate impurity formation for MOL02872.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

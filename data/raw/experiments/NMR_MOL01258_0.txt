@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01258
+Result: PASS
+Details: Expect although Democrat sit along.

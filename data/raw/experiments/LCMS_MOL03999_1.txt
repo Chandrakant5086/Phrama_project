@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03999
+Result: PASS
+Details: Call spring to decide month.

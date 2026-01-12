@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00254
+Result: PASS
+Details: Significant blood matter machine present wrong.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04646
+Result: PASS
+Details: Protect leg above bad even fund.

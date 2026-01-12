@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04702
+Result: PASS
+Details: Church middle end window mean coach place coach.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04011
+Result: PASS
+Details: View art draw daughter read.

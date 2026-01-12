@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02506
+Result: PASS
+Details: Draw drug rate administration we also theory.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04834
+Result: PASS
+Details: Improve some bit lot seem game.

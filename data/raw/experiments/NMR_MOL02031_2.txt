@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02031
+Result: PASS
+Details: Relationship old likely treat.

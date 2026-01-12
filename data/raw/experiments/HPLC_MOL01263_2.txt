@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01263
+Result: PASS
+Details: Particular resource student morning event cost.

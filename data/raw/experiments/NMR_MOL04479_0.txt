@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04479
+Result: PASS
+Details: Trip move police true computer nor degree.

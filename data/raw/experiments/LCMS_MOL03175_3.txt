@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03175
+Result: PASS
+Details: Door read last.

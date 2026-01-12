@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03629
+Result: PASS
+Details: Strong agent company already radio allow.

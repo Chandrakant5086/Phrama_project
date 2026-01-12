@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03317
+Result: PASS
+Details: Change ball nothing animal truth.

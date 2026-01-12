@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04183
+Result: PASS
+Details: Eat region attack.

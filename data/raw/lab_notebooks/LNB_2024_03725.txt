@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03725
+Scientist: Senior_Scientist_1
+Date: 2023-06-09
+Molecule ID: MOL02008
+
+Objective:
+Investigate impurity formation for MOL02008.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

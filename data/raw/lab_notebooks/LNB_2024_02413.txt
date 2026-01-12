@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02413
+Scientist: Senior_Scientist_1
+Date: 2024-02-03
+Molecule ID: MOL02960
+
+Objective:
+Investigate impurity formation for MOL02960.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

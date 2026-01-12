@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02391
+Result: PASS
+Details: Left job candidate drive real southern range.

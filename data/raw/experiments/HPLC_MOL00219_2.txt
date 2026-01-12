@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00219
+Result: PASS
+Details: True thousand source operation each.

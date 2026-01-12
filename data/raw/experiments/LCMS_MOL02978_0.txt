@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02978
+Result: PASS
+Details: Probably cut go response.

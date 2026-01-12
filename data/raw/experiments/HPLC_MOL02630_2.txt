@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02630
+Result: PASS
+Details: Candidate certainly outside.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02908
+Result: PASS
+Details: Power other result each to.

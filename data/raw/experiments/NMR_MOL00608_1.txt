@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00608
+Result: PASS
+Details: Few more son kid order enter.

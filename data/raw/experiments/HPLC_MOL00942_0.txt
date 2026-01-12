@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00942
+Result: PASS
+Details: Six product include red.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03765
+Result: PASS
+Details: Commercial production produce west black.

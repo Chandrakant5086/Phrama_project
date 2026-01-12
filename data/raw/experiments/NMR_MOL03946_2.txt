@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03946
+Result: PASS
+Details: Moment democratic within.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04282
+Result: PASS
+Details: Military order table figure capital catch type.

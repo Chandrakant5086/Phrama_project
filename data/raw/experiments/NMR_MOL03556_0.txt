@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03556
+Result: PASS
+Details: East throw standard hope.

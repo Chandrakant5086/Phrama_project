@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00324
+Result: PASS
+Details: Too information various stay.

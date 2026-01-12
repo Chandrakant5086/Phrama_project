@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01416
+Result: PASS
+Details: Build gas song garden add fish.

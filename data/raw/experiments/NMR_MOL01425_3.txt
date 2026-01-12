@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01425
+Result: PASS
+Details: Necessary group know miss specific their ever its.

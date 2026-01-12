@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00137
+Result: PASS
+Details: Good class right land guess draw it result.

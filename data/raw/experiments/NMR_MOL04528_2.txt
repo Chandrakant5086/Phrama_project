@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04528
+Result: PASS
+Details: Race chance billion.

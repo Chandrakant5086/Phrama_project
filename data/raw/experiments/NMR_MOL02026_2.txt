@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02026
+Result: PASS
+Details: Finally to often send.

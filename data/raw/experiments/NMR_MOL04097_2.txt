@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04097
+Result: PASS
+Details: Those choose partner house pattern including score.

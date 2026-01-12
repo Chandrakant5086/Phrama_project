@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03972
+Scientist: Researcher_C
+Date: 2023-08-09
+Molecule ID: MOL00550
+
+Objective:
+Validate preliminary reaction conditions for MOL00550.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02429
+Result: PASS
+Details: Result produce sell when foot hospital set.

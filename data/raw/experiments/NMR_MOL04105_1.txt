@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04105
+Result: PASS
+Details: We seem present as dream wrong.

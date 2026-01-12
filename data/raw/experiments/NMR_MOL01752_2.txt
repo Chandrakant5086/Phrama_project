@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01752
+Result: PASS
+Details: Soon east cut.

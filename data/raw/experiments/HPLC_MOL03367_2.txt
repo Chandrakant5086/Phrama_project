@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03367
+Result: PASS
+Details: Partner face teach change force.

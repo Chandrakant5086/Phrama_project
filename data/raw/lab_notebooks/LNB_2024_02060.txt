@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02060
+Scientist: Researcher_B
+Date: 2023-06-13
+Molecule ID: MOL03227
+
+Objective:
+Assess reaction temperature sensitivity for MOL03227.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00604
+Result: PASS
+Details: Picture draw contain rule campaign consumer.

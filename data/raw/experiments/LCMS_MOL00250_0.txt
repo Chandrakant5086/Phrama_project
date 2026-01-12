@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00250
+Result: PASS
+Details: From necessary since fly.

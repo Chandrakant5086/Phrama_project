@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00547
+Result: PASS
+Details: Interest tend beat act.

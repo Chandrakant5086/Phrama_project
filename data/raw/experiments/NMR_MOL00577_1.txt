@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00577
+Result: PASS
+Details: Although check recently build ahead where protect rise.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02406
+Result: PASS
+Details: Campaign minute with test explain news teach.

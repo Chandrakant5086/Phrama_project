@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02524
+Result: PASS
+Details: Goal write above score data floor.

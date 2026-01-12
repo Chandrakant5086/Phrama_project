@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04516
+Result: PASS
+Details: Camera test plant.

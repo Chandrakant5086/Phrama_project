@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03216
+Result: PASS
+Details: Tell affect part camera throw owner move.

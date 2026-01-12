@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03050
+Result: PASS
+Details: Find TV state image majority.

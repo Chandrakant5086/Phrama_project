@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02451
+Result: PASS
+Details: Main bring change whether exactly common prove.

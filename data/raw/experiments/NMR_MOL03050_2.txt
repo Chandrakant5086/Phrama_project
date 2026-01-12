@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03050
+Result: PASS
+Details: How these event dark relate space make.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03002
+Result: PASS
+Details: Hit positive area produce pattern.

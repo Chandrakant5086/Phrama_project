@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04360
+Result: PASS
+Details: Reflect prevent front position.

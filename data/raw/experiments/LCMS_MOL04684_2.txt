@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04684
+Result: PASS
+Details: Edge per prepare accept.

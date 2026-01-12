@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04827
+Result: PASS
+Details: War cultural house.

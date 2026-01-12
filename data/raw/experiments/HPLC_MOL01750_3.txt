@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01750
+Result: PASS
+Details: Particularly modern rock size.

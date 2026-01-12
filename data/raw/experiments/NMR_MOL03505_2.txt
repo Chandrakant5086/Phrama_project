@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03505
+Result: PASS
+Details: Paper season friend station green.

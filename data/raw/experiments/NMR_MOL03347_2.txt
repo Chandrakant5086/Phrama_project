@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03347
+Result: PASS
+Details: Student glass a both social only product.

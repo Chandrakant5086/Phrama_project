@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03294
+Result: PASS
+Details: Still dog focus finally.

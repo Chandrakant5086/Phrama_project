@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00702
+Result: PASS
+Details: Standard finally run old chair as.

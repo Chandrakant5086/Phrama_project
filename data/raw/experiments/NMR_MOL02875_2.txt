@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02875
+Result: PASS
+Details: Blue than second short ago.

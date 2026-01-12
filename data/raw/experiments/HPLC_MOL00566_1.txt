@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00566
+Result: PASS
+Details: Increase record history goal total.

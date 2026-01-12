@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01841
+Result: PASS
+Details: Your training power open.

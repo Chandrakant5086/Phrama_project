@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00555
+Scientist: PostDoc_2
+Date: 2023-05-16
+Molecule ID: MOL04217
+
+Objective:
+Investigate impurity formation for MOL04217.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

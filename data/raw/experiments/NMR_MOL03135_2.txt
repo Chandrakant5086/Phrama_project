@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03135
+Result: PASS
+Details: Seven own against reality.

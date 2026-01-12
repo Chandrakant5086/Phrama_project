@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01016
+Scientist: Researcher_A
+Date: 2023-05-09
+Molecule ID: MOL00685
+
+Objective:
+Assess reaction temperature sensitivity for MOL00685.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

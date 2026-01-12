@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03201
+Result: PASS
+Details: Public computer bag process quality month.

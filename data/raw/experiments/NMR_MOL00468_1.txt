@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00468
+Result: PASS
+Details: Decision own foreign future not first sign really.

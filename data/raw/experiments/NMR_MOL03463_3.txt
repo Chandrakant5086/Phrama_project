@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03463
+Result: PASS
+Details: Industry time subject.

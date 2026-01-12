@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02143
+Result: PASS
+Details: Skill operation travel not table.

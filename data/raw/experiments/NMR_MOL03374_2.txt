@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03374
+Result: PASS
+Details: Anything member capital stay material and administration stay.

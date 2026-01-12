@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00644
+Scientist: Researcher_A
+Date: 2023-12-11
+Molecule ID: MOL00280
+
+Objective:
+Test solvent impact on yield for MOL00280.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

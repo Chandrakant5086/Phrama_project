@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03053
+Result: PASS
+Details: Statement check budget experience up.

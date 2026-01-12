@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01659
+Result: PASS
+Details: Structure start material short.

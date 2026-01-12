@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02037
+Result: PASS
+Details: Learn power same my.

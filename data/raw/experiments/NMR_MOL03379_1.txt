@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03379
+Result: PASS
+Details: Though some central deal property.

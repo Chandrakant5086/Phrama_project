@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02229
+Result: PASS
+Details: Arrive report hundred strong gas moment.

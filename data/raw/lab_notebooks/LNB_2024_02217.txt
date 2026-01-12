@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02217
+Scientist: Researcher_B
+Date: 2023-05-26
+Molecule ID: MOL02297
+
+Objective:
+Investigate impurity formation for MOL02297.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

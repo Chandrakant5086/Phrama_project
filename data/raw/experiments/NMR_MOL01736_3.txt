@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01736
+Result: PASS
+Details: Government spring product mother a.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03604
+Result: PASS
+Details: Follow both executive far.

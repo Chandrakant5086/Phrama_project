@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04169
+Result: PASS
+Details: Quickly give indicate note explain us its under.

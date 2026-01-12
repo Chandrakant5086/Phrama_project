@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04711
+Result: PASS
+Details: The serve speech.

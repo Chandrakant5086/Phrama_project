@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00317
+Result: PASS
+Details: Take admit goal nor event data control.

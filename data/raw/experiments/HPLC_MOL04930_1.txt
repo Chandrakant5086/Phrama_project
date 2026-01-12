@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04930
+Result: PASS
+Details: Bank artist discussion least.

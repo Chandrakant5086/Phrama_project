@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00957
+Scientist: Researcher_B
+Date: 2023-11-10
+Molecule ID: MOL03787
+
+Objective:
+Explore alternate synthesis route for MOL03787.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

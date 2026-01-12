@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03526
+Result: PASS
+Details: Else up public cell.

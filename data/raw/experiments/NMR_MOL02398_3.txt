@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02398
+Result: PASS
+Details: Center stage history management many mention fast.

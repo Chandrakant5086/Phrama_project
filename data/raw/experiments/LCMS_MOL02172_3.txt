@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02172
+Result: PASS
+Details: Democratic include rate blue.

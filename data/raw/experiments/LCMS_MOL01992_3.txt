@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01992
+Result: PASS
+Details: Role theory style large movement.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02263
+Result: PASS
+Details: Daughter unit tell window list should more.

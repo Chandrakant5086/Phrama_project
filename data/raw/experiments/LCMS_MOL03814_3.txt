@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03814
+Result: PASS
+Details: Pass environmental decision election.

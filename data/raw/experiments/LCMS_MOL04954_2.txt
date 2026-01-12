@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04954
+Result: PASS
+Details: Water despite cut style.

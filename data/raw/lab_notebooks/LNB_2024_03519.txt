@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03519
+Scientist: Researcher_C
+Date: 2023-06-13
+Molecule ID: MOL02603
+
+Objective:
+Test solvent impact on yield for MOL02603.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

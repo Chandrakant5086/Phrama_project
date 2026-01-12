@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00807
+Result: PASS
+Details: State available something pass probably.

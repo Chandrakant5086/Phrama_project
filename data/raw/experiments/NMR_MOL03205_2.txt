@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03205
+Result: PASS
+Details: Important pick budget cut himself some.

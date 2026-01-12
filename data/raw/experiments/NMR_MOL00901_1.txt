@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00901
+Result: PASS
+Details: Issue raise answer tell.

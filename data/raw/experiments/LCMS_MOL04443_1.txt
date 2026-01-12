@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04443
+Result: PASS
+Details: Off camera figure foreign amount process trip.

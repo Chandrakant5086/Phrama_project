@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00619
+Result: PASS
+Details: Reason series production wind similar sense assume red.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02352
+Result: PASS
+Details: Admit room consumer itself performance decide.

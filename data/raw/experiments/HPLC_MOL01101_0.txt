@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01101
+Result: PASS
+Details: Series under past radio traditional bad.

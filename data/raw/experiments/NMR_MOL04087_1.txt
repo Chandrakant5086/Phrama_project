@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04087
+Result: PASS
+Details: Still and sort as yeah.

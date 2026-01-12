@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03060
+Scientist: PostDoc_2
+Date: 2024-03-21
+Molecule ID: MOL03932
+
+Objective:
+Assess reaction temperature sensitivity for MOL03932.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

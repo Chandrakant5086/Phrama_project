@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01728
+Result: PASS
+Details: Add middle other allow risk raise.

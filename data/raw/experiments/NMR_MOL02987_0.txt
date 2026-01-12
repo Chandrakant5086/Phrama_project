@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02987
+Result: PASS
+Details: Score finally this never exist.

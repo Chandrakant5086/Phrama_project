@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02306
+Result: PASS
+Details: Organization eight garden child.

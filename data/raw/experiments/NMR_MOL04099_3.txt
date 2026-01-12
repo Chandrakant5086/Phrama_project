@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04099
+Result: PASS
+Details: Home analysis though Mrs customer test.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04610
+Result: PASS
+Details: Require particularly much base reveal six campaign.

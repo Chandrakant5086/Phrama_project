@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03110
+Scientist: Researcher_B
+Date: 2023-12-24
+Molecule ID: MOL00494
+
+Objective:
+Validate preliminary reaction conditions for MOL00494.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00654
+Result: PASS
+Details: Middle effect show generation.

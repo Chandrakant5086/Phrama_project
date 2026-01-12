@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04202
+Result: PASS
+Details: Build mission community glass white.

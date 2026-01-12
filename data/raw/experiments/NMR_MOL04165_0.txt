@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04165
+Result: PASS
+Details: Four us shake.

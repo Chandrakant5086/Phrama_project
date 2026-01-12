@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02830
+Result: PASS
+Details: Affect region magazine join view before.

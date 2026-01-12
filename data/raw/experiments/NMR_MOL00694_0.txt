@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00694
+Result: PASS
+Details: Management tax range event race.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04052
+Result: PASS
+Details: Prepare wish assume avoid.

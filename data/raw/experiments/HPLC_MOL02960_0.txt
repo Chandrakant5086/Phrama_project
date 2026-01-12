@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02960
+Result: PASS
+Details: Traditional oil finish large sometimes agent claim data.

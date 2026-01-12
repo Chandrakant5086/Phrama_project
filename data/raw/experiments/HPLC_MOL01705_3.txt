@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01705
+Result: PASS
+Details: In program field article whether machine candidate.

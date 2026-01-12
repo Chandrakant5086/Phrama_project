@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04537
+Result: PASS
+Details: Require director including trip data local.

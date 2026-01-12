@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03578
+Scientist: Researcher_A
+Date: 2024-05-09
+Molecule ID: MOL02442
+
+Objective:
+Investigate impurity formation for MOL02442.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

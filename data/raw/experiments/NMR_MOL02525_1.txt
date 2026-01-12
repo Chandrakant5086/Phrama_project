@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02525
+Result: PASS
+Details: Word brother garden reality result.

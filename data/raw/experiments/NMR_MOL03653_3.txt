@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03653
+Result: PASS
+Details: Window these agency enter.

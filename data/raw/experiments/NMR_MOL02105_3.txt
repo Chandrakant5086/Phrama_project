@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02105
+Result: PASS
+Details: Hand wonder foot end newspaper.

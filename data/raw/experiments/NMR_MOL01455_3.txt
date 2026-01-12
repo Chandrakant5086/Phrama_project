@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01455
+Result: PASS
+Details: Miss marriage single maybe.

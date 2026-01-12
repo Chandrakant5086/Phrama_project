@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02975
+Result: PASS
+Details: Game above weight indeed.

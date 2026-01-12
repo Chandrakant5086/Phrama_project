@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02134
+Result: PASS
+Details: Claim environmental production federal.

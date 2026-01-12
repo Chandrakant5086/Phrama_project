@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00300
+Result: PASS
+Details: Parent seven pattern.

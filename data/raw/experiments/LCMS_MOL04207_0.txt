@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04207
+Result: PASS
+Details: None always operation.

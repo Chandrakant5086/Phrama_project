@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03786
+Result: PASS
+Details: Real ok raise particularly.

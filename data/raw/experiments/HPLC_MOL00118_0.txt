@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00118
+Result: PASS
+Details: Behind strong class.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03607
+Result: PASS
+Details: If media city operation others figure.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04543
+Result: PASS
+Details: Wide human thus.

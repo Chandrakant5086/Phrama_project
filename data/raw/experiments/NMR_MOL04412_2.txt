@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04412
+Result: PASS
+Details: Rich director chair such in guy single.

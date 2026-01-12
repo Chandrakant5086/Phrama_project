@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03094
+Scientist: PostDoc_2
+Date: 2023-01-05
+Molecule ID: MOL02037
+
+Objective:
+Explore alternate synthesis route for MOL02037.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

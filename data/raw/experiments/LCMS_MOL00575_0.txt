@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00575
+Result: PASS
+Details: Middle apply accept seat.

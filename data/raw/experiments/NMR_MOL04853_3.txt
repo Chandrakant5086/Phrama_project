@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04853
+Result: PASS
+Details: Grow play ever mind.

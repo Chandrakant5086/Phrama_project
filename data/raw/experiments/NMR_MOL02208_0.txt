@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02208
+Result: PASS
+Details: Argue thus office true.

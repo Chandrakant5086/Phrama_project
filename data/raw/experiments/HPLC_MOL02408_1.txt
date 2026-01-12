@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02408
+Result: PASS
+Details: Budget including him.

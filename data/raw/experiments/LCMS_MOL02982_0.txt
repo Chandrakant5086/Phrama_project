@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02982
+Result: PASS
+Details: Guy much hard energy identify.

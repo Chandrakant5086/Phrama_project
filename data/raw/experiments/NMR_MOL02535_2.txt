@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02535
+Result: PASS
+Details: Network wait machine rise concern soon.

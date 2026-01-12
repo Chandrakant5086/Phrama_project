@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04820
+Result: PASS
+Details: Never at person leader.

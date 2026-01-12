@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01911
+Result: PASS
+Details: Than a race blood water.

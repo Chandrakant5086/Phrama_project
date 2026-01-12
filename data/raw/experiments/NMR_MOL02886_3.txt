@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02886
+Result: PASS
+Details: Choose bad role create describe option trial thus.

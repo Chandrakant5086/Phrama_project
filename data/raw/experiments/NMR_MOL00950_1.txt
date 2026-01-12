@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00950
+Result: PASS
+Details: Organization general even section.

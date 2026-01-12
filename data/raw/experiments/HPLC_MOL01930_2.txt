@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01930
+Result: PASS
+Details: Former often still type.

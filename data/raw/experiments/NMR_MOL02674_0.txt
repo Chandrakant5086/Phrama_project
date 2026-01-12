@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02674
+Result: PASS
+Details: Apply must relate share investment.

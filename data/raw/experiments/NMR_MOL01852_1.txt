@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01852
+Result: PASS
+Details: Treat watch series language by beyond.

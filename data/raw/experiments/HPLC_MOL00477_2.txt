@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00477
+Result: PASS
+Details: Society role pull college.

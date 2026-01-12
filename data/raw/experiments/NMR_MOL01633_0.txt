@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01633
+Result: PASS
+Details: Staff term culture shake.

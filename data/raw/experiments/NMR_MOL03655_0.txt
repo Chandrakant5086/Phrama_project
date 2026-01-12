@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03655
+Result: PASS
+Details: Dark onto region vote inside speak unit.

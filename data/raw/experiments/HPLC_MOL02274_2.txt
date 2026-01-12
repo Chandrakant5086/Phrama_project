@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02274
+Result: PASS
+Details: Kitchen current go edge begin.

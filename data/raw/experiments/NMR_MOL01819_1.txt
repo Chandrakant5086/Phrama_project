@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01819
+Result: PASS
+Details: Play stop push open industry memory.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04453
+Result: PASS
+Details: Manage near think at use sort yard.

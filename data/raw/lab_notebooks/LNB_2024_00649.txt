@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00649
+Scientist: Senior_Scientist_1
+Date: 2023-05-09
+Molecule ID: MOL00308
+
+Objective:
+Test solvent impact on yield for MOL00308.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

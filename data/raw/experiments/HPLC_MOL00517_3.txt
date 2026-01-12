@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00517
+Result: PASS
+Details: Half test technology sort this.

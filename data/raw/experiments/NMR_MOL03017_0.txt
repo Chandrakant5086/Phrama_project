@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03017
+Result: PASS
+Details: Seek role during tell team big size.

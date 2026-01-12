@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03610
+Result: PASS
+Details: Camera through big plan power.

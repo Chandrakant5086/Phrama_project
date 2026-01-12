@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01997
+Scientist: Researcher_A
+Date: 2024-02-17
+Molecule ID: MOL02649
+
+Objective:
+Explore alternate synthesis route for MOL02649.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

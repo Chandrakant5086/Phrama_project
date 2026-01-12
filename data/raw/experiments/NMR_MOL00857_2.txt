@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00857
+Result: PASS
+Details: Agreement source child assume attorney open.

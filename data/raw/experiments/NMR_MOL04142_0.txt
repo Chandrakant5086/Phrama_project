@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04142
+Result: PASS
+Details: Ever best officer answer now.

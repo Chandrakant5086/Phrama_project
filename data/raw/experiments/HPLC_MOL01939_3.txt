@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01939
+Result: PASS
+Details: Resource structure sell few manager.

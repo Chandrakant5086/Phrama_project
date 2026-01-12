@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02465
+Result: PASS
+Details: System cell rule participant blue reflect.

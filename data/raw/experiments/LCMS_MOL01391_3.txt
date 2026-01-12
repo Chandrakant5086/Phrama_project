@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01391
+Result: PASS
+Details: Mouth weight report expect.

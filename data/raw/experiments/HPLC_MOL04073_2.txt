@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04073
+Result: PASS
+Details: Kind up technology various where.

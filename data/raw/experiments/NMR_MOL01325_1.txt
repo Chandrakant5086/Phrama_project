@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01325
+Result: PASS
+Details: Focus management last.

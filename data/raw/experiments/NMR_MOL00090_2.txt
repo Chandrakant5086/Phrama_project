@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00090
+Result: PASS
+Details: Surface interview leave site sea.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02083
+Result: PASS
+Details: Less learn left kind.

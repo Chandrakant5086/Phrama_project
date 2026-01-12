@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04054
+Result: PASS
+Details: Report follow look resource music require.

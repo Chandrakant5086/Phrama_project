@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00701
+Result: PASS
+Details: Study eat future only fight wall.

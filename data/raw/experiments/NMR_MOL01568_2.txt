@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01568
+Result: PASS
+Details: Ready owner worker edge couple help.

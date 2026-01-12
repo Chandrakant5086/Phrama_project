@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04530
+Result: PASS
+Details: Hot by true mean matter side.

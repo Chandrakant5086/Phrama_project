@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01799
+Result: PASS
+Details: Head situation still.

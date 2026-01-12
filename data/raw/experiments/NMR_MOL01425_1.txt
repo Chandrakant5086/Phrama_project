@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01425
+Result: PASS
+Details: Follow child thought season PM close.

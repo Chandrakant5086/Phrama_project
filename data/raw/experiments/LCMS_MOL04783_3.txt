@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04783
+Result: PASS
+Details: Usually set artist economy.

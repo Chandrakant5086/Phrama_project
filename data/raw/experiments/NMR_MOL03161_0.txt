@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03161
+Result: PASS
+Details: Put relate treatment growth outside.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01172
+Scientist: Researcher_B
+Date: 2024-03-21
+Molecule ID: MOL01277
+
+Objective:
+Assess reaction temperature sensitivity for MOL01277.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

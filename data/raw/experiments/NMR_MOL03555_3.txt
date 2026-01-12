@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03555
+Result: PASS
+Details: Different wear worker as.

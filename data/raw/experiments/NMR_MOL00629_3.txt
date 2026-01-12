@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00629
+Result: PASS
+Details: Face animal lose dog.

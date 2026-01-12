@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03805
+Result: PASS
+Details: Stay same back exactly.

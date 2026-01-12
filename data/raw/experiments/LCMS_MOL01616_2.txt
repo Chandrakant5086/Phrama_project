@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01616
+Result: PASS
+Details: Beat play break change should race team rich.

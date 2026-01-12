@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02923
+Result: PASS
+Details: Within final bad pressure east what.

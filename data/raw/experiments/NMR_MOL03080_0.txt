@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03080
+Result: PASS
+Details: Method bank join always perform.

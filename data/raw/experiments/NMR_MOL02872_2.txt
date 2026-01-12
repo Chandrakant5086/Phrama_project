@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02872
+Result: PASS
+Details: Explain collection individual turn.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01536
+Result: PASS
+Details: Need recent either weight group many.

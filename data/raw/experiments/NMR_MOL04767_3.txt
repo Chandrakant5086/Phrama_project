@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04767
+Result: PASS
+Details: Similar ball last tend reality.

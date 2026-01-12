@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00650
+Result: PASS
+Details: Begin beat ability issue control.

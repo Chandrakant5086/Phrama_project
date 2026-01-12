@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02414
+Result: PASS
+Details: Move already behind such.

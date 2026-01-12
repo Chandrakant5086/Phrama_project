@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00699
+Result: PASS
+Details: Arm base long way what.

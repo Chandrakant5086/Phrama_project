@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02603
+Result: PASS
+Details: Through job say environment.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02601
+Scientist: Researcher_A
+Date: 2024-01-20
+Molecule ID: MOL02247
+
+Objective:
+Explore alternate synthesis route for MOL02247.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

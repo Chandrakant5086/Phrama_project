@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02994
+Result: PASS
+Details: Tv explain cut plan mention southern miss.

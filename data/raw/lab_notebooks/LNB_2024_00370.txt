@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00370
+Scientist: Researcher_C
+Date: 2023-07-14
+Molecule ID: MOL04165
+
+Objective:
+Test solvent impact on yield for MOL04165.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

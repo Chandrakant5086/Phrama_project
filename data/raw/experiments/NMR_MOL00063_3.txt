@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00063
+Result: PASS
+Details: Month staff response message reach last.

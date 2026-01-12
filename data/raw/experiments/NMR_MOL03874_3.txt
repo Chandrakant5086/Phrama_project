@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03874
+Result: PASS
+Details: Measure answer ground wide those.

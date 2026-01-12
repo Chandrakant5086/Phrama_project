@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01808
+Result: PASS
+Details: Own movie conference notice.

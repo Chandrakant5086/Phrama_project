@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02065
+Result: PASS
+Details: Military travel mention style now full fine.

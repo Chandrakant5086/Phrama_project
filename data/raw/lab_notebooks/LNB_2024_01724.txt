@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01724
+Scientist: Researcher_A
+Date: 2024-02-24
+Molecule ID: MOL00437
+
+Objective:
+Test solvent impact on yield for MOL00437.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

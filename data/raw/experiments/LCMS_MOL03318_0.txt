@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03318
+Result: PASS
+Details: Event economic mean.

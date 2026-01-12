@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01590
+Result: PASS
+Details: Vote deep perhaps medical role relationship.

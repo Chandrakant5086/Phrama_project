@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04217
+Result: PASS
+Details: Information claim cover break group.

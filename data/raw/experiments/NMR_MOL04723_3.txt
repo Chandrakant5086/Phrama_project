@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04723
+Result: PASS
+Details: Decade race foot.

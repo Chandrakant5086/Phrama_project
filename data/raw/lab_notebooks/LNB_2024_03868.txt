@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03868
+Scientist: Researcher_C
+Date: 2023-05-22
+Molecule ID: MOL02400
+
+Objective:
+Explore alternate synthesis route for MOL02400.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

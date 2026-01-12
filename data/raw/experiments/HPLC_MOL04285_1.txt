@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04285
+Result: PASS
+Details: Establish arrive whom property.

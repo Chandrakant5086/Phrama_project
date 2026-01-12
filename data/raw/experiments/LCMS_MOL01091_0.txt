@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01091
+Result: PASS
+Details: Go feel inside try part.

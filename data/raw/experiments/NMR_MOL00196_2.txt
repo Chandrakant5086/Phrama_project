@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00196
+Result: PASS
+Details: Wrong want many among.

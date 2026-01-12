@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03376
+Result: PASS
+Details: Before quality cultural big.

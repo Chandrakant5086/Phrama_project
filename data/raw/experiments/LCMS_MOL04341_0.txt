@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04341
+Result: PASS
+Details: Think car carry each.

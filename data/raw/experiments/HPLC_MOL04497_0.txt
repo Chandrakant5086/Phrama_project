@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04497
+Result: PASS
+Details: Food cold push example produce glass change.

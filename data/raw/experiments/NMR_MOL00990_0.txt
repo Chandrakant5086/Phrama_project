@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00990
+Result: PASS
+Details: Call green maintain should rise ago.

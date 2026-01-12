@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04582
+Result: PASS
+Details: Design fly last court threat.

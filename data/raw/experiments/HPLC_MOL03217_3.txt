@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03217
+Result: PASS
+Details: Price notice dark shoulder direction southern.

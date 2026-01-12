@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03812
+Result: PASS
+Details: Anything reveal plan defense.

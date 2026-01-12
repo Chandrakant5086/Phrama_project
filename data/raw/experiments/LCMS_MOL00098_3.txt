@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00098
+Result: PASS
+Details: Personal board lay management suddenly show open.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02033
+Scientist: Senior_Scientist_1
+Date: 2023-01-27
+Molecule ID: MOL03278
+
+Objective:
+Explore alternate synthesis route for MOL03278.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03551
+Result: PASS
+Details: Minute goal across.

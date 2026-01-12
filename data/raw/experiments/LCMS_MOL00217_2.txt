@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00217
+Result: PASS
+Details: Name turn east accept character information same.

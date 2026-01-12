@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02961
+Result: PASS
+Details: Next improve seven hit rather remember pattern.

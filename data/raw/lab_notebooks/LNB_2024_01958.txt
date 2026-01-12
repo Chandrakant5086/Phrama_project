@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01958
+Scientist: PostDoc_2
+Date: 2024-04-22
+Molecule ID: MOL01768
+
+Objective:
+Test solvent impact on yield for MOL01768.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

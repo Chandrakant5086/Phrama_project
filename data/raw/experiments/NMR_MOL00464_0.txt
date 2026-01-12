@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00464
+Result: PASS
+Details: Six born Mr.

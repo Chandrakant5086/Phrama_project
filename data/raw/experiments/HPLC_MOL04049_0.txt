@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04049
+Result: PASS
+Details: Old never dark thought.

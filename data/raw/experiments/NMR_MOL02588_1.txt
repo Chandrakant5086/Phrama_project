@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02588
+Result: PASS
+Details: Key authority investment stay.

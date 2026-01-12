@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04675
+Result: PASS
+Details: Outside table various four stock line throw.

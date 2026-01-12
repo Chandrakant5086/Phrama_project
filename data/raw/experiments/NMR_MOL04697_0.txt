@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04697
+Result: PASS
+Details: Commercial serious product general.

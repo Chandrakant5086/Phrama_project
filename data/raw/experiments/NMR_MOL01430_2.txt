@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01430
+Result: PASS
+Details: Low sign floor very tend table the.

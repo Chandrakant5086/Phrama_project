@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02908
+Result: PASS
+Details: Local development center determine.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01364
+Result: PASS
+Details: Use central kind still.

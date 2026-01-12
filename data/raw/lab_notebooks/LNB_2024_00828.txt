@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00828
+Scientist: Researcher_C
+Date: 2023-07-08
+Molecule ID: MOL01599
+
+Objective:
+Investigate impurity formation for MOL01599.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

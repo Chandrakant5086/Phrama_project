@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00276
+Result: PASS
+Details: Prepare within lead next own four.

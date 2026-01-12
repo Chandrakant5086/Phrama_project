@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04037
+Result: PASS
+Details: Identify sit by.

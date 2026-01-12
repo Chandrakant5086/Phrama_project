@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04026
+Result: PASS
+Details: End sometimes camera Mr improve.

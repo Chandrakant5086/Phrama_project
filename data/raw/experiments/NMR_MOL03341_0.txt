@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03341
+Result: PASS
+Details: Majority over shoulder establish.

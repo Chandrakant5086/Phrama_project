@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03591
+Scientist: Researcher_C
+Date: 2024-01-19
+Molecule ID: MOL03361
+
+Objective:
+Assess reaction temperature sensitivity for MOL03361.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

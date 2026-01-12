@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02507
+Scientist: Senior_Scientist_1
+Date: 2024-05-08
+Molecule ID: MOL03453
+
+Objective:
+Explore alternate synthesis route for MOL03453.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

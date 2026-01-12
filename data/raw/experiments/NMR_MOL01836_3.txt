@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01836
+Result: PASS
+Details: Rather interview production low.

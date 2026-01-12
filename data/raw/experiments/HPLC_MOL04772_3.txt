@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04772
+Result: PASS
+Details: Look theory majority step half life figure.

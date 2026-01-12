@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03861
+Result: PASS
+Details: Statement doctor almost.

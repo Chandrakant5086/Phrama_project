@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01990
+Result: PASS
+Details: Pretty keep short around production sometimes.

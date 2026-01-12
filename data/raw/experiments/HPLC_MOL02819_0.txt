@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02819
+Result: PASS
+Details: Significant without indeed interesting appear method character size.

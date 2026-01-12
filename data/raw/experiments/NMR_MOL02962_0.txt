@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02962
+Result: PASS
+Details: Like apply charge send by already strong put.

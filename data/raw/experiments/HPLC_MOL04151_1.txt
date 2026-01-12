@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04151
+Result: PASS
+Details: Growth force affect fast.

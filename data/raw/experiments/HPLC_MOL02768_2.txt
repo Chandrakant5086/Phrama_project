@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02768
+Result: PASS
+Details: Strategy end certainly even million character tree.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03836
+Scientist: Researcher_B
+Date: 2023-02-05
+Molecule ID: MOL00086
+
+Objective:
+Explore alternate synthesis route for MOL00086.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

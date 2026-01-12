@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00036
+Scientist: Senior_Scientist_1
+Date: 2023-11-29
+Molecule ID: MOL04509
+
+Objective:
+Validate preliminary reaction conditions for MOL04509.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

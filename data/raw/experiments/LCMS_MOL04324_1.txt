@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04324
+Result: PASS
+Details: From where director effect.

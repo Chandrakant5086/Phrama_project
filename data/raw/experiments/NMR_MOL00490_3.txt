@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00490
+Result: PASS
+Details: Process lay agent include.

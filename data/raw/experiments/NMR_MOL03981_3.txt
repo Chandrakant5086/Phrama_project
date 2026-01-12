@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03981
+Result: PASS
+Details: Cultural decision president future message.

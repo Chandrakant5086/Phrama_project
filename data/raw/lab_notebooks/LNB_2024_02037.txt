@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02037
+Scientist: Researcher_C
+Date: 2023-12-16
+Molecule ID: MOL02523
+
+Objective:
+Investigate impurity formation for MOL02523.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

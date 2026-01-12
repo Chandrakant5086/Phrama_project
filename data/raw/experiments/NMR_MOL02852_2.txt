@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02852
+Result: PASS
+Details: Record include father choose help.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03292
+Result: PASS
+Details: Yard more case according inside yes.

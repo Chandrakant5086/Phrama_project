@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03807
+Result: PASS
+Details: Letter none tell campaign send.

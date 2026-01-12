@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04921
+Result: PASS
+Details: Like develop record culture method sing.

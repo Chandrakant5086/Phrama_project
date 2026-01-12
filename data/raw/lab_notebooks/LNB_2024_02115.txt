@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02115
+Scientist: Researcher_C
+Date: 2023-05-02
+Molecule ID: MOL01121
+
+Objective:
+Explore alternate synthesis route for MOL01121.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

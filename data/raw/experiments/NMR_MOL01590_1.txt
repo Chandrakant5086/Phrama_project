@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01590
+Result: PASS
+Details: Unit test Mr according believe key indeed decade.

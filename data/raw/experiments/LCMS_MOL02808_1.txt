@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02808
+Result: PASS
+Details: Perform full imagine even if just easy open.

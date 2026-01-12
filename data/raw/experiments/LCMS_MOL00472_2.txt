@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00472
+Result: PASS
+Details: Protect lead part usually total.

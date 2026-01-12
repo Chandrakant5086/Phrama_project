@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02171
+Result: PASS
+Details: Board outside sing read ready.

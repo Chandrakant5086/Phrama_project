@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02137
+Scientist: Researcher_A
+Date: 2024-04-27
+Molecule ID: MOL00351
+
+Objective:
+Explore alternate synthesis route for MOL00351.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

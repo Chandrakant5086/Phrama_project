@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00314
+Result: PASS
+Details: Performance writer foot site cause full again.

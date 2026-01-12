@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02743
+Result: PASS
+Details: Allow significant traditional.

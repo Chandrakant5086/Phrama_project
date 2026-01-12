@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01601
+Result: PASS
+Details: Look once out hold large fast.

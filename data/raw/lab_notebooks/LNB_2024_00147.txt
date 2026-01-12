@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00147
+Scientist: Researcher_A
+Date: 2023-05-27
+Molecule ID: MOL00881
+
+Objective:
+Explore alternate synthesis route for MOL00881.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

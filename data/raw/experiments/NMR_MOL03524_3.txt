@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03524
+Result: PASS
+Details: Else determine travel goal gun result record check.

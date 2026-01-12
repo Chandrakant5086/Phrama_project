@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03540
+Result: PASS
+Details: Shake result pressure during.

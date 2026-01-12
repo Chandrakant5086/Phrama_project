@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02072
+Result: PASS
+Details: Citizen area idea.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00144
+Result: PASS
+Details: Tend kind ok new in.

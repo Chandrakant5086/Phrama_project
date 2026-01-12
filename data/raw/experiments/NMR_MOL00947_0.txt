@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00947
+Result: PASS
+Details: Style fire positive eat onto send subject.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03913
+Result: PASS
+Details: Economy increase century include.

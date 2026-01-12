@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02431
+Result: PASS
+Details: Animal which identify memory suffer by south.

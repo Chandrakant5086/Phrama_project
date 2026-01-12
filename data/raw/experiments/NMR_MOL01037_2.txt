@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01037
+Result: PASS
+Details: Chance fact central current system huge.

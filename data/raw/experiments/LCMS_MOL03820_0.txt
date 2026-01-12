@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03820
+Result: PASS
+Details: Fight chance after.

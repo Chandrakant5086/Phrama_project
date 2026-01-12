@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04535
+Result: PASS
+Details: Industry push science cover.

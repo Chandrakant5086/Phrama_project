@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04484
+Result: PASS
+Details: Majority save each cost.

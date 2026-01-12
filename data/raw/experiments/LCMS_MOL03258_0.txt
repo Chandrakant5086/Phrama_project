@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03258
+Result: PASS
+Details: Know apply but score argue.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02217
+Result: PASS
+Details: Military rich late very animal drug.

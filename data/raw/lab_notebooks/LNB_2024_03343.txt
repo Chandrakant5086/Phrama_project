@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03343
+Scientist: Researcher_B
+Date: 2023-07-09
+Molecule ID: MOL04592
+
+Objective:
+Investigate impurity formation for MOL04592.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

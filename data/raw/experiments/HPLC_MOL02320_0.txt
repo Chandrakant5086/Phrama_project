@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02320
+Result: PASS
+Details: Item state bank weight when.

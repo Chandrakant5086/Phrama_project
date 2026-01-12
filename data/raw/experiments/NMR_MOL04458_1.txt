@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04458
+Result: PASS
+Details: Others her pattern last admit true.

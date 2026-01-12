@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04000
+Result: PASS
+Details: Animal have including then weight.

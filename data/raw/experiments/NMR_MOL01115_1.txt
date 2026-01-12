@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01115
+Result: PASS
+Details: Plan hot painting listen cover.

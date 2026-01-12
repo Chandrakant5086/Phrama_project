@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03070
+Result: PASS
+Details: Write open long spend offer state.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00142
+Result: PASS
+Details: Green national too position must fast leg.

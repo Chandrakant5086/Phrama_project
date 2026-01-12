@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02933
+Result: PASS
+Details: Production focus fund number.

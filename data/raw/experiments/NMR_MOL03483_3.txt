@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03483
+Result: PASS
+Details: Think around wrong theory.

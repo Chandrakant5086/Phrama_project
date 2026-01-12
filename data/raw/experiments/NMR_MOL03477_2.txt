@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03477
+Result: PASS
+Details: Behind prevent so.

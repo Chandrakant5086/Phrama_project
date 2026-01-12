@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04188
+Result: PASS
+Details: Skill body military population.

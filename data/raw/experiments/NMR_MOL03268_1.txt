@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03268
+Result: PASS
+Details: Hour determine pressure plant suffer.

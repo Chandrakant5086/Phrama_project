@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02605
+Result: PASS
+Details: Study oil rate or by work impact.

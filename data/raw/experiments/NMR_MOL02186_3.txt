@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02186
+Result: PASS
+Details: Write whole theory some matter mission official.

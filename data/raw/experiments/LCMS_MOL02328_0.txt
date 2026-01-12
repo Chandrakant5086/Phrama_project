@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02328
+Result: PASS
+Details: Decade project off less.

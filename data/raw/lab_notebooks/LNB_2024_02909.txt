@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02909
+Scientist: Researcher_C
+Date: 2023-09-14
+Molecule ID: MOL00621
+
+Objective:
+Investigate impurity formation for MOL00621.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

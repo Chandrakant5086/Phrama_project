@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04406
+Result: PASS
+Details: Floor require health.

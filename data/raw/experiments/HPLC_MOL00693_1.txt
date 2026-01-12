@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00693
+Result: PASS
+Details: Local me story local.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04233
+Result: PASS
+Details: Nor management report clearly a final.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00878
+Scientist: Researcher_A
+Date: 2024-05-08
+Molecule ID: MOL00718
+
+Objective:
+Explore alternate synthesis route for MOL00718.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

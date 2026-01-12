@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02289
+Result: PASS
+Details: Note whole carry should indicate budget.

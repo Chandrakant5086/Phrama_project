@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04296
+Result: PASS
+Details: Value million voice affect.

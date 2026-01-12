@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01913
+Result: PASS
+Details: Writer trade design possible.

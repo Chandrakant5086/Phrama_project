@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01423
+Result: PASS
+Details: Number which gas interesting per various of.

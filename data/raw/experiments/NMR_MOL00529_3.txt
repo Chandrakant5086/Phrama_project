@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00529
+Result: PASS
+Details: Themselves third town surface class.

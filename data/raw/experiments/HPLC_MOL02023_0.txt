@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02023
+Result: PASS
+Details: Catch past loss any down wear rock.

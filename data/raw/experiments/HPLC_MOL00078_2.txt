@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00078
+Result: PASS
+Details: Like issue nor final reduce morning.

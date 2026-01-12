@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04109
+Result: PASS
+Details: Support such rule by.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01139
+Result: PASS
+Details: Economic name off adult lay.

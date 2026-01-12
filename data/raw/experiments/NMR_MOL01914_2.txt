@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01914
+Result: PASS
+Details: Suddenly different new.

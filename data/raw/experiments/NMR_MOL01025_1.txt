@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01025
+Result: PASS
+Details: Special above allow key all her.

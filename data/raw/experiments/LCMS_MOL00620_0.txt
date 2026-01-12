@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00620
+Result: PASS
+Details: Congress those consider a analysis ready.

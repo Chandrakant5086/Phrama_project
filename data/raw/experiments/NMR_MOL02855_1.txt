@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02855
+Result: PASS
+Details: Phone her green type.

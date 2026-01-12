@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03531
+Result: PASS
+Details: Step series thing get.

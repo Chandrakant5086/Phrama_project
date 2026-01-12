@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02496
+Result: PASS
+Details: Second wide government paper space ready.

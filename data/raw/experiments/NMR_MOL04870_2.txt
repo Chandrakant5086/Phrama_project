@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04870
+Result: PASS
+Details: Move partner speak without raise.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02473
+Result: PASS
+Details: Know network ok on whole player.

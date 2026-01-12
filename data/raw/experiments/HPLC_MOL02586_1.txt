@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02586
+Result: PASS
+Details: Drug billion lead size court.

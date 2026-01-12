@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03734
+Result: PASS
+Details: Another quality process candidate local ball field.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00993
+Scientist: Senior_Scientist_1
+Date: 2023-02-25
+Molecule ID: MOL03977
+
+Objective:
+Assess reaction temperature sensitivity for MOL03977.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

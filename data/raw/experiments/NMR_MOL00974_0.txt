@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00974
+Result: PASS
+Details: Major prepare group reality respond growth side.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01575
+Result: PASS
+Details: Population attack push ten surface majority most.

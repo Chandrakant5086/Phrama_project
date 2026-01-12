@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01918
+Result: PASS
+Details: Throw particularly common draw.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01944
+Result: PASS
+Details: Majority that watch top serve begin.

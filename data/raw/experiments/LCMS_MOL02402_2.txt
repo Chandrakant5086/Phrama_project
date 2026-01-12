@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02402
+Result: PASS
+Details: Analysis situation ability data build.

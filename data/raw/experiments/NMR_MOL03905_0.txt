@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03905
+Result: PASS
+Details: Memory action sense few news oil step.

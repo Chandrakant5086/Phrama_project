@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01412
+Result: PASS
+Details: Nation example organization bed hard.

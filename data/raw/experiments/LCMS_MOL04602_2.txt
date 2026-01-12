@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04602
+Result: PASS
+Details: Government day effort mean set.

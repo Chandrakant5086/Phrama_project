@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00428
+Result: PASS
+Details: Hot apply structure society.

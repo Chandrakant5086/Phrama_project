@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02424
+Scientist: Researcher_C
+Date: 2024-03-25
+Molecule ID: MOL00473
+
+Objective:
+Test solvent impact on yield for MOL00473.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

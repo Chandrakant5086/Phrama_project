@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00042
+Result: PASS
+Details: Mouth read direction election down true you.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02474
+Result: PASS
+Details: Letter production blood event another.

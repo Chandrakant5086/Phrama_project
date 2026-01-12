@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02055
+Result: PASS
+Details: Half product father strong mean event.

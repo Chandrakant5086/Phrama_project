@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04771
+Result: PASS
+Details: Less help box moment.

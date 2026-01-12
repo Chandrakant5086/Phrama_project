@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02823
+Scientist: Researcher_B
+Date: 2023-12-08
+Molecule ID: MOL04128
+
+Objective:
+Explore alternate synthesis route for MOL04128.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

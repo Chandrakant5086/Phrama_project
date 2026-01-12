@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01595
+Result: PASS
+Details: Stuff guess establish boy always machine return.

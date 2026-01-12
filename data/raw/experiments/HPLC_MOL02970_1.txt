@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02970
+Result: PASS
+Details: When when worry us.

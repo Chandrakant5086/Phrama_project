@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01123
+Scientist: Researcher_A
+Date: 2024-01-31
+Molecule ID: MOL01527
+
+Objective:
+Explore alternate synthesis route for MOL01527.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

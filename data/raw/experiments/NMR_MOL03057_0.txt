@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03057
+Result: PASS
+Details: Rule find save television.

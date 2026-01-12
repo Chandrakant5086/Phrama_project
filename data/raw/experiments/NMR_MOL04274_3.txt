@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04274
+Result: PASS
+Details: Lose bring local next senior.

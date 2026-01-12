@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01149
+Result: PASS
+Details: Possible fine energy must.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03365
+Result: PASS
+Details: Country standard sound operation industry hard.

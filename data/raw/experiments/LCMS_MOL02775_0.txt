@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02775
+Result: PASS
+Details: Type rule cup run.

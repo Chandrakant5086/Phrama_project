@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04032
+Result: PASS
+Details: Official build stuff majority follow number.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03703
+Result: PASS
+Details: Mind together pattern upon draw.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01269
+Result: PASS
+Details: Build fact other race age throughout.

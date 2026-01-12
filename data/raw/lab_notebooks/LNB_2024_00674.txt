@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00674
+Scientist: Senior_Scientist_1
+Date: 2024-02-21
+Molecule ID: MOL04056
+
+Objective:
+Assess reaction temperature sensitivity for MOL04056.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

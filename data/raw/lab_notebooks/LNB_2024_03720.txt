@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03720
+Scientist: Researcher_A
+Date: 2024-01-07
+Molecule ID: MOL00689
+
+Objective:
+Investigate impurity formation for MOL00689.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

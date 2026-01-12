@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02104
+Result: PASS
+Details: Loss heart cause type.

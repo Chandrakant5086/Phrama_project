@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01738
+Result: PASS
+Details: Join source modern option event.

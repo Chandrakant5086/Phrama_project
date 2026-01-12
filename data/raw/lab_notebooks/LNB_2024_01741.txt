@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01741
+Scientist: Senior_Scientist_1
+Date: 2023-05-01
+Molecule ID: MOL02881
+
+Objective:
+Investigate impurity formation for MOL02881.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

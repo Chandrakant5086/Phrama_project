@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04216
+Result: PASS
+Details: With science social.

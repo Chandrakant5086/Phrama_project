@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04472
+Result: PASS
+Details: Network plant determine leader top.

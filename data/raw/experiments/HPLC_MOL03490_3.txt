@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03490
+Result: PASS
+Details: Page according detail charge Mr.

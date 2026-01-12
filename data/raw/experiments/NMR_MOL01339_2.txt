@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01339
+Result: PASS
+Details: Stop determine situation along.

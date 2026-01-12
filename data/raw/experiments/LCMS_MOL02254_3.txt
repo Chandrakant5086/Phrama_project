@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02254
+Result: PASS
+Details: Recognize white return network really.

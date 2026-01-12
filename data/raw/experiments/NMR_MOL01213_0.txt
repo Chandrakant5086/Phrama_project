@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01213
+Result: PASS
+Details: Buy ground attack strategy add try moment.

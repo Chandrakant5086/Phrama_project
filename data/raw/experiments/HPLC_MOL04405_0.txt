@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04405
+Result: PASS
+Details: Blood film than wall difficult painting.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04308
+Result: PASS
+Details: Sister technology four.

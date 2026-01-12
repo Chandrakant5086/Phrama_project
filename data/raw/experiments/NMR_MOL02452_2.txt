@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02452
+Result: PASS
+Details: However out little brother.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00888
+Result: PASS
+Details: Recognize mind less mean.

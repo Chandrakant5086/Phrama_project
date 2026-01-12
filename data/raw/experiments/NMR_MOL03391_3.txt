@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03391
+Result: PASS
+Details: Both must process thought.

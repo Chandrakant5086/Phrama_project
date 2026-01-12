@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03420
+Result: PASS
+Details: Kind public machine little.

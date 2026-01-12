@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02554
+Result: PASS
+Details: Hospital staff hold American.

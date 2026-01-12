@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03966
+Result: PASS
+Details: Age letter way measure.

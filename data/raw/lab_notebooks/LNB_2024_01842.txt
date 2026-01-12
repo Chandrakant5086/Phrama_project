@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01842
+Scientist: Researcher_C
+Date: 2023-11-15
+Molecule ID: MOL03663
+
+Objective:
+Test solvent impact on yield for MOL03663.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

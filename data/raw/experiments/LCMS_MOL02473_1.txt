@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02473
+Result: PASS
+Details: Strong wall series indeed.

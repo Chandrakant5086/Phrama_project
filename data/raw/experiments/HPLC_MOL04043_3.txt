@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04043
+Result: PASS
+Details: Drug foreign matter mother member particularly less.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03358
+Result: PASS
+Details: Store floor on wish mouth it test.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02893
+Scientist: Researcher_B
+Date: 2024-04-28
+Molecule ID: MOL03278
+
+Objective:
+Assess reaction temperature sensitivity for MOL03278.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

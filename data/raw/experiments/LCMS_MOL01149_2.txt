@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01149
+Result: PASS
+Details: Drop reflect use miss.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03838
+Result: PASS
+Details: Edge stand enjoy we.

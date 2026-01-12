@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03855
+Scientist: Senior_Scientist_1
+Date: 2024-03-29
+Molecule ID: MOL01436
+
+Objective:
+Assess reaction temperature sensitivity for MOL01436.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

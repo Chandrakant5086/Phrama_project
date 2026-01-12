@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02524
+Result: PASS
+Details: Series manager event single trade design either city.

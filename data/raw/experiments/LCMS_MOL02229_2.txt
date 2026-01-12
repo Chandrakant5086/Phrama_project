@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02229
+Result: PASS
+Details: Wall data light stop surface.

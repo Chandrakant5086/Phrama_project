@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02759
+Result: PASS
+Details: Food various stay spring member.

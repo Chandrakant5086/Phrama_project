@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01576
+Result: PASS
+Details: They have total realize spring why.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04830
+Result: PASS
+Details: Thought answer among exactly.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04531
+Result: PASS
+Details: Dog new civil.

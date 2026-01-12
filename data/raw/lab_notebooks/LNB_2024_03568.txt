@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03568
+Scientist: Researcher_B
+Date: 2024-05-02
+Molecule ID: MOL04399
+
+Objective:
+Investigate impurity formation for MOL04399.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

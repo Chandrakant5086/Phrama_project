@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02007
+Result: PASS
+Details: Similar improve minute life.

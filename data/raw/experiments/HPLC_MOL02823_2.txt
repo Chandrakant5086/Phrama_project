@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02823
+Result: PASS
+Details: Century long cover cell inside but various.

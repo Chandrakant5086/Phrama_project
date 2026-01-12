@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03024
+Result: PASS
+Details: Born administration by reveal.

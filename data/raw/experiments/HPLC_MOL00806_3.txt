@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00806
+Result: PASS
+Details: Strategy clear agency other.

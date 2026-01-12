@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04512
+Result: PASS
+Details: Another garden serious information bring serious garden.

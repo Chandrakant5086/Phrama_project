@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02926
+Result: PASS
+Details: Realize fill maybe difference of.

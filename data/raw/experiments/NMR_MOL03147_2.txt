@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03147
+Result: PASS
+Details: Attack realize interest research example size.

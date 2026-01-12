@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04294
+Result: PASS
+Details: Manager subject hair score.

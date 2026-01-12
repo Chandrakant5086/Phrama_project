@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02325
+Result: PASS
+Details: Work while avoid five.

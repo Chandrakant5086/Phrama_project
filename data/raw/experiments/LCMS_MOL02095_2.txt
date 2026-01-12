@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02095
+Result: PASS
+Details: Just organization rich.

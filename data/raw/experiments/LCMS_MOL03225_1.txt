@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03225
+Result: PASS
+Details: Might gas around.

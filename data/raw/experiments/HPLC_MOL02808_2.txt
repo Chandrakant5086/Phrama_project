@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02808
+Result: PASS
+Details: Finally computer instead hope yeah.

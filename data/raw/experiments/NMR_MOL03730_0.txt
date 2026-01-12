@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03730
+Result: PASS
+Details: Reason rate into drug popular price.

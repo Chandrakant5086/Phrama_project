@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02683
+Result: PASS
+Details: Congress direction growth with day.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00441
+Result: PASS
+Details: Final model way still eye international.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02049
+Result: PASS
+Details: Class could catch many budget exactly.

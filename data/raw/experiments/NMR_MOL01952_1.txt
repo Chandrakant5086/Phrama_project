@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01952
+Result: PASS
+Details: Around cover truth smile.

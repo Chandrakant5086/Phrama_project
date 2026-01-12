@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03187
+Result: PASS
+Details: Instead degree partner line PM.

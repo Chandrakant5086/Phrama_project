@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01370
+Result: PASS
+Details: Score small including.

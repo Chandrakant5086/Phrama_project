@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01436
+Result: PASS
+Details: Garden of believe your scientist finish.

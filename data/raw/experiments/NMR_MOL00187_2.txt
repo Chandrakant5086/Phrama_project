@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00187
+Result: PASS
+Details: Full assume take.

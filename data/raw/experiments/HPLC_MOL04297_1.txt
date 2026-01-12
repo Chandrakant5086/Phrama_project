@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04297
+Result: PASS
+Details: Leave Congress degree for.

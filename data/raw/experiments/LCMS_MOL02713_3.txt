@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02713
+Result: PASS
+Details: Hit weight game question this.

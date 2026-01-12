@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02325
+Result: PASS
+Details: However energy box goal.

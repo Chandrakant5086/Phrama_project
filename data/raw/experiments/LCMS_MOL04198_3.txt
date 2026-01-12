@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04198
+Result: PASS
+Details: Fact economic structure create region.

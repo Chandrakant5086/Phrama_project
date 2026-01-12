@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02948
+Result: PASS
+Details: Back speech program cost.

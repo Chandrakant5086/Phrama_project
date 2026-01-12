@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01991
+Scientist: Senior_Scientist_1
+Date: 2024-01-02
+Molecule ID: MOL03293
+
+Objective:
+Explore alternate synthesis route for MOL03293.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

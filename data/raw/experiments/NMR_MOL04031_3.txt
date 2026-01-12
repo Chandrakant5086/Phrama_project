@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04031
+Result: PASS
+Details: Head become key alone these yeah.

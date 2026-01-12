@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02772
+Result: PASS
+Details: Anything yet member all line production.

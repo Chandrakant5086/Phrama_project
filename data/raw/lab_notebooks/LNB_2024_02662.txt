@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02662
+Scientist: Researcher_A
+Date: 2024-03-18
+Molecule ID: MOL00265
+
+Objective:
+Explore alternate synthesis route for MOL00265.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

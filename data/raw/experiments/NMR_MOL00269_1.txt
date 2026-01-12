@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00269
+Result: PASS
+Details: Leg painting town family.

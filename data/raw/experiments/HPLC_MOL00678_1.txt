@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00678
+Result: PASS
+Details: Among north under standard represent.

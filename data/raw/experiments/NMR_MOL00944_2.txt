@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00944
+Result: PASS
+Details: Necessary animal detail article nature.

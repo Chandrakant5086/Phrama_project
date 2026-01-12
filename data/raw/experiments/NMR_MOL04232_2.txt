@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04232
+Result: PASS
+Details: Agreement thought street.

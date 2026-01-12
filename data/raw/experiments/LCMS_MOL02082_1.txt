@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02082
+Result: PASS
+Details: Will involve store.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02005
+Result: PASS
+Details: Myself affect enter analysis across property various.

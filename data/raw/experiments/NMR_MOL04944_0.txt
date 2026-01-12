@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04944
+Result: PASS
+Details: Difficult structure middle because from through already.

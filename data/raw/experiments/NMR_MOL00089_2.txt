@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00089
+Result: PASS
+Details: Take eat individual inside.

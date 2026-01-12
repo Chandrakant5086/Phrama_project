@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03730
+Result: PASS
+Details: Energy material play prepare center.

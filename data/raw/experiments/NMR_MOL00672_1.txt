@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00672
+Result: PASS
+Details: Paper ground raise season debate.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00338
+Result: PASS
+Details: The course director get country inside.

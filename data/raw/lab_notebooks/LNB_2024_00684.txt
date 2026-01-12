@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00684
+Scientist: PostDoc_2
+Date: 2023-06-28
+Molecule ID: MOL03340
+
+Objective:
+Assess reaction temperature sensitivity for MOL03340.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

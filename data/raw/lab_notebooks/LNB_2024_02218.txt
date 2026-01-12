@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02218
+Scientist: Researcher_B
+Date: 2023-01-22
+Molecule ID: MOL02564
+
+Objective:
+Investigate impurity formation for MOL02564.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01900
+Result: PASS
+Details: Actually lawyer level create.

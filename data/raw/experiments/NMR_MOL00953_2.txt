@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00953
+Result: PASS
+Details: Perform another push cold.

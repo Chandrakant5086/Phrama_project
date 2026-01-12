@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01720
+Scientist: Researcher_A
+Date: 2024-02-21
+Molecule ID: MOL02135
+
+Objective:
+Assess reaction temperature sensitivity for MOL02135.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

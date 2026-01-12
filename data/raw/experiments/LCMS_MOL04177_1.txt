@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04177
+Result: PASS
+Details: Edge hit election kitchen.

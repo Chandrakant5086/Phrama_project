@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00508
+Result: PASS
+Details: Investment until serve term beyond.

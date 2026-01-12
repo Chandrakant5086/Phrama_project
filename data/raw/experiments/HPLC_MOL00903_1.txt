@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00903
+Result: PASS
+Details: Move people organization work operation blood ok.

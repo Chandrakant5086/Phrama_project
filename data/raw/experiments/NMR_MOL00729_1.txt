@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00729
+Result: PASS
+Details: Successful vote specific approach impact accept day safe.

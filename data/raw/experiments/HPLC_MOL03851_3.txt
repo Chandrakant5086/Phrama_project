@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03851
+Result: PASS
+Details: Draw then pick team commercial.

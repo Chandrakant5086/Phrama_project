@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00929
+Result: PASS
+Details: Leader fly bit order forward.

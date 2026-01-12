@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01351
+Result: PASS
+Details: Medical leader sister surface.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03772
+Scientist: Senior_Scientist_1
+Date: 2024-04-19
+Molecule ID: MOL01646
+
+Objective:
+Assess reaction temperature sensitivity for MOL01646.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

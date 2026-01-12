@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01066
+Result: PASS
+Details: Car accept skill movement never base door.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02245
+Result: PASS
+Details: Report provide number view decade spend.

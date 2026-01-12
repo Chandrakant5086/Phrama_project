@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02716
+Result: PASS
+Details: Return rather poor every.

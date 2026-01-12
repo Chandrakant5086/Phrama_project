@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02977
+Result: PASS
+Details: Garden leader simple else.

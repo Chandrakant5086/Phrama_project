@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03025
+Result: PASS
+Details: Fast stock single some level eye about act.

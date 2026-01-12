@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02071
+Scientist: Researcher_B
+Date: 2024-04-13
+Molecule ID: MOL02468
+
+Objective:
+Investigate impurity formation for MOL02468.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

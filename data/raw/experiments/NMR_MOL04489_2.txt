@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04489
+Result: PASS
+Details: Child small media part community.

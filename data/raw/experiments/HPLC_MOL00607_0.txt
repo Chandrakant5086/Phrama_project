@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00607
+Result: PASS
+Details: Appear only hand.

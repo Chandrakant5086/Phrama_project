@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04973
+Result: PASS
+Details: Car treatment require cost ten I.

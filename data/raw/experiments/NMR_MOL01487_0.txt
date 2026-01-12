@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01487
+Result: PASS
+Details: Civil indeed expect see stop always.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02227
+Result: PASS
+Details: Forget whether ok cost strong put.

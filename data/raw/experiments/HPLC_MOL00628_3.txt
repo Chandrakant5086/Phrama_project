@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00628
+Result: PASS
+Details: Fine behind my expect more.

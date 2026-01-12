@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01002
+Result: PASS
+Details: Event much include part fund peace.

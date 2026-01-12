@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02249
+Scientist: Researcher_B
+Date: 2023-04-10
+Molecule ID: MOL00920
+
+Objective:
+Investigate impurity formation for MOL00920.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04083
+Result: PASS
+Details: Option box something loss billion.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03438
+Result: PASS
+Details: Feeling entire ball arrive instead provide site.

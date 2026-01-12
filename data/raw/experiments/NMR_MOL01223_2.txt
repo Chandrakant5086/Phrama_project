@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01223
+Result: PASS
+Details: My image middle including think.

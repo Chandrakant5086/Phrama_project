@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02085
+Result: PASS
+Details: Sure energy computer or course.

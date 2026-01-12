@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03286
+Result: PASS
+Details: Lose only sometimes weight least although quality when.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02227
+Result: PASS
+Details: Performance himself month decision.

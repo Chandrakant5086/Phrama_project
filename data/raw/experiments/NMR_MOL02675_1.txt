@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02675
+Result: PASS
+Details: Fine daughter win day single center.

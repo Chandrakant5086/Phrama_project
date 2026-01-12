@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01844
+Result: PASS
+Details: Child history activity candidate building.

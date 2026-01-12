@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02972
+Result: PASS
+Details: Way speak house care.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03185
+Scientist: Senior_Scientist_1
+Date: 2024-02-15
+Molecule ID: MOL01500
+
+Objective:
+Test solvent impact on yield for MOL01500.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

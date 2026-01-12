@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03149
+Result: PASS
+Details: Just information forget model TV inside.

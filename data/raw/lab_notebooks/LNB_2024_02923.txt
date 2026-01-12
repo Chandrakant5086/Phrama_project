@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02923
+Scientist: Researcher_C
+Date: 2024-03-21
+Molecule ID: MOL02144
+
+Objective:
+Test solvent impact on yield for MOL02144.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

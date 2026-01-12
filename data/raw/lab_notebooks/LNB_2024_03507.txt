@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03507
+Scientist: Researcher_C
+Date: 2023-09-22
+Molecule ID: MOL01449
+
+Objective:
+Test solvent impact on yield for MOL01449.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

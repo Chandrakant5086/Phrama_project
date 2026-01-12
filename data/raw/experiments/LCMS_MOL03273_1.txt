@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03273
+Result: PASS
+Details: Pay style like sometimes.

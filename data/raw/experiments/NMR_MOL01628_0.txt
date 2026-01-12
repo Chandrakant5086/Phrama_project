@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01628
+Result: PASS
+Details: Bad able identify range goal effect nice source.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03558
+Result: PASS
+Details: Training include wrong one letter will head.

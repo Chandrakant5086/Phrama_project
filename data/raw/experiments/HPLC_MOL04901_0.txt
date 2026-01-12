@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04901
+Result: PASS
+Details: Unit guy training mention near happy.

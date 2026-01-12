@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01155
+Scientist: Researcher_A
+Date: 2024-04-25
+Molecule ID: MOL01856
+
+Objective:
+Test solvent impact on yield for MOL01856.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

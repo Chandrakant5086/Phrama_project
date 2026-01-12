@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04076
+Result: PASS
+Details: Card hard rise late effort.

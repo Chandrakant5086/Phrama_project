@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02106
+Result: PASS
+Details: Really study no way account.

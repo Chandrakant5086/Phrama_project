@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03477
+Result: PASS
+Details: East reduce read entire.

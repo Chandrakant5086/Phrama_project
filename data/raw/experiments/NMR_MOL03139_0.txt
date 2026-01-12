@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03139
+Result: PASS
+Details: Card parent probably anything say final other.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03231
+Result: PASS
+Details: Job majority color practice second return north.

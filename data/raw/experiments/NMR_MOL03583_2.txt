@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03583
+Result: PASS
+Details: North try produce apply staff.

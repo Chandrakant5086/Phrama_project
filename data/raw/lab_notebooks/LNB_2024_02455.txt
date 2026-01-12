@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02455
+Scientist: PostDoc_2
+Date: 2023-08-31
+Molecule ID: MOL02761
+
+Objective:
+Investigate impurity formation for MOL02761.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

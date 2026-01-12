@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00907
+Result: PASS
+Details: Animal exist various everything.

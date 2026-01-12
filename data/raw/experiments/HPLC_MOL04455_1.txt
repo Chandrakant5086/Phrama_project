@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04455
+Result: PASS
+Details: Upon either later blood example.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00136
+Result: PASS
+Details: Else walk station although bar amount finally.

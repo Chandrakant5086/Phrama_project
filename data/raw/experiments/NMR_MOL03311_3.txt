@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03311
+Result: PASS
+Details: Whatever explain story name maintain clearly.

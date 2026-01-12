@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04192
+Result: PASS
+Details: History more tough.

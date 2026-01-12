@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00603
+Result: PASS
+Details: Allow remain several series manager.

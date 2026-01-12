@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02588
+Result: PASS
+Details: Task large final black become.

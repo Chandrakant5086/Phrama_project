@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04636
+Result: PASS
+Details: Impact staff sense current by chance.

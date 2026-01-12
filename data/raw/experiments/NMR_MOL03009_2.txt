@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03009
+Result: PASS
+Details: Weight collection listen rest size market job represent.

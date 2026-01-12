@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03222
+Result: PASS
+Details: Grow green step prepare the draw.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04016
+Result: PASS
+Details: Push determine policy whole type guy.

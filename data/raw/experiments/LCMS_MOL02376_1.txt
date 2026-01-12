@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02376
+Result: PASS
+Details: Industry loss far pull service today.

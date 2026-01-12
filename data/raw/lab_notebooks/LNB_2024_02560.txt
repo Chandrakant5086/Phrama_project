@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02560
+Scientist: Researcher_A
+Date: 2023-05-17
+Molecule ID: MOL03794
+
+Objective:
+Test solvent impact on yield for MOL03794.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

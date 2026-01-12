@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01063
+Result: PASS
+Details: Team decide hospital authority point.

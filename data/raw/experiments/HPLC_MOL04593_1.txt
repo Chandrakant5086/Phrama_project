@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04593
+Result: PASS
+Details: Check bad ok discuss.

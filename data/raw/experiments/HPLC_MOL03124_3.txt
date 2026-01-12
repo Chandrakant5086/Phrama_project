@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03124
+Result: PASS
+Details: Positive same party degree eight lay.

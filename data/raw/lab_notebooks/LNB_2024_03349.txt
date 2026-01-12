@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03349
+Scientist: Researcher_B
+Date: 2023-07-21
+Molecule ID: MOL04006
+
+Objective:
+Investigate impurity formation for MOL04006.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

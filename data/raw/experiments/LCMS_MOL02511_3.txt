@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02511
+Result: PASS
+Details: Guy heavy heavy approach approach second.

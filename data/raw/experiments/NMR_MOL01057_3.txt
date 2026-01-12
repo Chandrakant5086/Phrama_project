@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01057
+Result: PASS
+Details: Once stay service.

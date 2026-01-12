@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03476
+Result: PASS
+Details: Well establish star majority age room.

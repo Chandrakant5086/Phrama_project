@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01199
+Scientist: Researcher_B
+Date: 2023-04-05
+Molecule ID: MOL00739
+
+Objective:
+Assess reaction temperature sensitivity for MOL00739.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

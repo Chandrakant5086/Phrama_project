@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04378
+Result: PASS
+Details: Several ball those meeting other.

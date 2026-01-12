@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04763
+Result: PASS
+Details: Push ask yes fact report.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02383
+Result: PASS
+Details: Gas build east similar.

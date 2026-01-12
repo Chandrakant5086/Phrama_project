@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01731
+Result: PASS
+Details: East of short main president situation.

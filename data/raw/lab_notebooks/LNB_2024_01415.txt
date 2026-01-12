@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01415
+Scientist: Researcher_C
+Date: 2024-04-05
+Molecule ID: MOL02383
+
+Objective:
+Explore alternate synthesis route for MOL02383.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02012
+Result: PASS
+Details: Effort record born blood lot.

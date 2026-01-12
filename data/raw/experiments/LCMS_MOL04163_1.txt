@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04163
+Result: PASS
+Details: Side right game.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00357
+Result: PASS
+Details: Trade whether institution meeting behavior public.

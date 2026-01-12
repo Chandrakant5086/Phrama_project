@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02954
+Result: PASS
+Details: Standard group send final bank strategy challenge.

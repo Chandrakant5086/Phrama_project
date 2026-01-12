@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03606
+Result: PASS
+Details: Hand source as floor case.

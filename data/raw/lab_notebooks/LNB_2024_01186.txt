@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01186
+Scientist: Researcher_C
+Date: 2023-04-06
+Molecule ID: MOL00387
+
+Objective:
+Assess reaction temperature sensitivity for MOL00387.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

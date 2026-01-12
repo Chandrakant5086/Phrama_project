@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03124
+Result: PASS
+Details: Better drop information data ago follow information.

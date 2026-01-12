@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00850
+Result: PASS
+Details: Less service above government.

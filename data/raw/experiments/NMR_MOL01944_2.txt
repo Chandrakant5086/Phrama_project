@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01944
+Result: PASS
+Details: Beyond wonder ready month green.

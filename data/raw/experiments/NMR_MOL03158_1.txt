@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03158
+Result: PASS
+Details: Success cost nor.

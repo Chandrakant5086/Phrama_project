@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00454
+Result: PASS
+Details: Walk mention fund learn case.

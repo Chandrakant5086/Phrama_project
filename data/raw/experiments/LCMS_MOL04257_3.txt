@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04257
+Result: PASS
+Details: Car behind carry final kind rule low.

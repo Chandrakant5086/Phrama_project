@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02540
+Result: PASS
+Details: Natural poor pattern report.

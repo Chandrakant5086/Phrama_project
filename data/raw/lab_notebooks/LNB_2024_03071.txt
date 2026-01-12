@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03071
+Scientist: Researcher_C
+Date: 2023-09-18
+Molecule ID: MOL01968
+
+Objective:
+Explore alternate synthesis route for MOL01968.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

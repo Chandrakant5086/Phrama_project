@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04905
+Result: PASS
+Details: Perform benefit cell camera even poor.

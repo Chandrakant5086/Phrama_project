@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03141
+Result: PASS
+Details: Food difference stage late operation PM.

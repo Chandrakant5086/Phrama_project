@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04072
+Result: PASS
+Details: Baby budget consider attention positive drug.

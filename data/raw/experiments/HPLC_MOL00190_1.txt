@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00190
+Result: PASS
+Details: Second daughter public on administration bar room public.

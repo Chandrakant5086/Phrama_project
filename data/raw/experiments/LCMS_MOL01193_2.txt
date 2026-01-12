@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01193
+Result: PASS
+Details: Follow whatever really last movement group relationship.

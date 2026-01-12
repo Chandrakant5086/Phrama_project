@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01281
+Result: PASS
+Details: Weight rather brother ten.

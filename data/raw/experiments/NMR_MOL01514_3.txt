@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01514
+Result: PASS
+Details: Station service consider risk this close.

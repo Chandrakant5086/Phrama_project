@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02702
+Result: PASS
+Details: Which weight it service.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04213
+Result: PASS
+Details: Machine task create which pressure seven.

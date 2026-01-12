@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04274
+Result: PASS
+Details: Already force term true six bank picture.

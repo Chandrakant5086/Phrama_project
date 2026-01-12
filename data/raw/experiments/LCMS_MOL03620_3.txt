@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03620
+Result: PASS
+Details: Western soldier senior church.

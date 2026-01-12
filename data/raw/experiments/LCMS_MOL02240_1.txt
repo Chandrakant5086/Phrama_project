@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02240
+Result: PASS
+Details: Eye local blood technology.

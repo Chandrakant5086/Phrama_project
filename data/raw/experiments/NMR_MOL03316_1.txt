@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03316
+Result: PASS
+Details: Continue maybe tend wind edge none.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03529
+Result: PASS
+Details: Product charge reality see summer training.

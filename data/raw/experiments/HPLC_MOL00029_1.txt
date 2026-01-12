@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00029
+Result: PASS
+Details: Safe camera believe create stock.

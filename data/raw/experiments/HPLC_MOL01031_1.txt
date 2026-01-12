@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01031
+Result: PASS
+Details: Throw food lot culture stuff fund lot.

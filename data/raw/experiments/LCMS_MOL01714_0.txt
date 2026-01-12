@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01714
+Result: PASS
+Details: Drop present discussion factor along source admit once.

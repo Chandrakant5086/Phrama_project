@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04268
+Result: PASS
+Details: System meeting section.

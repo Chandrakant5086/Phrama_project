@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02297
+Result: PASS
+Details: Full throughout order bring.

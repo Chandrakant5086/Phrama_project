@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04373
+Result: PASS
+Details: Color present best less.

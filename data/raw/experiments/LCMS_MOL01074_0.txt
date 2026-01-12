@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01074
+Result: PASS
+Details: Follow might hit wear heavy sometimes use.

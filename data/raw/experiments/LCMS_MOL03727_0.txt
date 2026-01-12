@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03727
+Result: PASS
+Details: Day successful yes customer.

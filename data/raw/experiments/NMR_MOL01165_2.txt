@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01165
+Result: PASS
+Details: Free with piece gas debate son even.

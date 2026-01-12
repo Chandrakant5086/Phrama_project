@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00207
+Result: PASS
+Details: Information gas second report effect.

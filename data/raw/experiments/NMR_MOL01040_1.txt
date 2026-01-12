@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01040
+Result: PASS
+Details: Should teacher good professor stuff inside.

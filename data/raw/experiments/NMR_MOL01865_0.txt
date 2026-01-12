@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01865
+Result: PASS
+Details: Sing century start player.

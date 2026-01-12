@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03829
+Result: PASS
+Details: Finish bring wear skill to pretty statement.

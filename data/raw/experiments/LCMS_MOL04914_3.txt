@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04914
+Result: PASS
+Details: Statement environment writer yard easy.

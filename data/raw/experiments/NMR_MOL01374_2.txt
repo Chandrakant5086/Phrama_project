@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01374
+Result: PASS
+Details: Happen ago billion add.

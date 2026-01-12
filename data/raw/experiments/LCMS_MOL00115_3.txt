@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00115
+Result: PASS
+Details: Short campaign tell.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04512
+Result: PASS
+Details: Public this training.

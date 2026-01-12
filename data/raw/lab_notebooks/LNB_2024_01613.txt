@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01613
+Scientist: PostDoc_2
+Date: 2023-04-22
+Molecule ID: MOL04274
+
+Objective:
+Investigate impurity formation for MOL04274.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

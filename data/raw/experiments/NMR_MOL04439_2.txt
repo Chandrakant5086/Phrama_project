@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04439
+Result: PASS
+Details: Example product maybe or red.

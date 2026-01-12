@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04500
+Result: PASS
+Details: Nature perhaps how here.

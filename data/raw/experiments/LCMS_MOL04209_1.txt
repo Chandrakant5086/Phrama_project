@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04209
+Result: PASS
+Details: Possible resource place receive tell.

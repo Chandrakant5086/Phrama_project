@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00924
+Scientist: Senior_Scientist_1
+Date: 2024-01-30
+Molecule ID: MOL00251
+
+Objective:
+Investigate impurity formation for MOL00251.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

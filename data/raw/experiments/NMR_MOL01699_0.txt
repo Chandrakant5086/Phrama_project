@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01699
+Result: PASS
+Details: Owner well forget adult.

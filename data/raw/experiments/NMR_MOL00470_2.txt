@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00470
+Result: PASS
+Details: Seat couple nearly reach door goal.

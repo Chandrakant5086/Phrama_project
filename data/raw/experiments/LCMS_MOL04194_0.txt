@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04194
+Result: PASS
+Details: Protect thank we available.

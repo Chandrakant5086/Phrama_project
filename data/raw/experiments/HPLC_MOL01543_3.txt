@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01543
+Result: PASS
+Details: Sister commercial hold able.

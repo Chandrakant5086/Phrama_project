@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03705
+Result: PASS
+Details: Mother address white have culture light.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03561
+Result: PASS
+Details: Strong analysis good include hand factor commercial network.

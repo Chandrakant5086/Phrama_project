@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01594
+Result: PASS
+Details: Light and quickly local decision address west.

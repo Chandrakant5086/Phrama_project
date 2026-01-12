@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02526
+Result: PASS
+Details: Among according bar responsibility meeting.

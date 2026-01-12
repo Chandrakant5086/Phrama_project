@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02368
+Result: PASS
+Details: Third service dark much factor.

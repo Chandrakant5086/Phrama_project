@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03988
+Result: PASS
+Details: Discussion check natural two.

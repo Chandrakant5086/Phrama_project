@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03862
+Result: PASS
+Details: Job page enter room.

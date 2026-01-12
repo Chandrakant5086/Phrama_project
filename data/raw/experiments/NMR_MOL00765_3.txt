@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00765
+Result: PASS
+Details: Rise poor end at scene identify.

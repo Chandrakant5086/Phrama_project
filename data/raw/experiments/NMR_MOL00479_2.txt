@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00479
+Result: PASS
+Details: Message little now.

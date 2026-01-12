@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02693
+Result: PASS
+Details: Structure gas them process.

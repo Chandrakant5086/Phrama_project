@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02038
+Result: PASS
+Details: Teach us case specific pretty.

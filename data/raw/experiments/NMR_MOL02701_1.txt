@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02701
+Result: PASS
+Details: Prepare wall build always however beautiful begin.

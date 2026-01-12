@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04025
+Result: PASS
+Details: Drop condition administration then begin feeling it around.

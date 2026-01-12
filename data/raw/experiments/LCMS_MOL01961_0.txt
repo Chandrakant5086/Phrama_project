@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01961
+Result: PASS
+Details: Information sell exist policy represent.

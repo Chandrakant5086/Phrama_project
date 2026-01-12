@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03411
+Result: PASS
+Details: Sell enough alone.

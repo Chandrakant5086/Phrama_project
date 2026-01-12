@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02861
+Result: PASS
+Details: Food assume too play rise consumer value.

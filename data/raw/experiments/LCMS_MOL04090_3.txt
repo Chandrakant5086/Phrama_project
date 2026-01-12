@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04090
+Result: PASS
+Details: Team or high garden student.

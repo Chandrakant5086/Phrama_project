@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03869
+Result: PASS
+Details: Prepare away western air store.

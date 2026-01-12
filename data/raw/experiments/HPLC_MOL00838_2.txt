@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00838
+Result: PASS
+Details: Morning indeed party business.

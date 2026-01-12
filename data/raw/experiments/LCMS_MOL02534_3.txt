@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02534
+Result: PASS
+Details: Tonight ground everything media.

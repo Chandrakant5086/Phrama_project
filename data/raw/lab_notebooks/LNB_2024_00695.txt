@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00695
+Scientist: Researcher_C
+Date: 2023-12-14
+Molecule ID: MOL04486
+
+Objective:
+Test solvent impact on yield for MOL04486.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

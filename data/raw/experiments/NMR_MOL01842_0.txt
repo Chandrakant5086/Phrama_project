@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01842
+Result: PASS
+Details: Region professor standard trouble might.

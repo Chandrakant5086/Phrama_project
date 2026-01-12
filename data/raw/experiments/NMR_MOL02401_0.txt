@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02401
+Result: PASS
+Details: Reveal central difficult let.

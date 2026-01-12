@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02048
+Result: PASS
+Details: Sign bag but nor.

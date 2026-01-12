@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00625
+Result: PASS
+Details: Program local heavy section top foot travel.

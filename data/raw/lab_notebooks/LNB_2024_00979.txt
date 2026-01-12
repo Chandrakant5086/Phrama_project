@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00979
+Scientist: Researcher_C
+Date: 2023-07-20
+Molecule ID: MOL02599
+
+Objective:
+Test solvent impact on yield for MOL02599.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

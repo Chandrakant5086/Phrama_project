@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00959
+Result: PASS
+Details: Meet arm service test idea.

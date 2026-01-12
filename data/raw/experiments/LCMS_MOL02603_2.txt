@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02603
+Result: PASS
+Details: Major with pressure color final put prepare.

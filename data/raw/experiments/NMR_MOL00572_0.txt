@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00572
+Result: PASS
+Details: Action including nearly democratic.

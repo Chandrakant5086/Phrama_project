@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04661
+Result: PASS
+Details: Person bag sound.

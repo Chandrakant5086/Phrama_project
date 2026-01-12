@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02037
+Result: PASS
+Details: Clearly get term up.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01031
+Result: PASS
+Details: Prove send truth study early writer ask.

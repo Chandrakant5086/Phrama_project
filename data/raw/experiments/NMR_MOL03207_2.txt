@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03207
+Result: PASS
+Details: Local sport common loss main.

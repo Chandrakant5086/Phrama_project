@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03743
+Result: PASS
+Details: During best compare well.

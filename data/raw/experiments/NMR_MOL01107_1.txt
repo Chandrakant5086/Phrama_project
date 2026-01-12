@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01107
+Result: PASS
+Details: Even local show audience exist building themselves.

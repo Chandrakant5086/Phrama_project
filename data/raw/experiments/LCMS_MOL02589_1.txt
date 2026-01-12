@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02589
+Result: PASS
+Details: Write paper pattern.

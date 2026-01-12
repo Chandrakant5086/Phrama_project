@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00393
+Result: PASS
+Details: Difference wind station.

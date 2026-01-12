@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03268
+Result: PASS
+Details: Section real visit month both your my.

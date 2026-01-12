@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00739
+Result: PASS
+Details: Now trouble bar some staff.

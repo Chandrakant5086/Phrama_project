@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03833
+Scientist: Researcher_B
+Date: 2023-01-13
+Molecule ID: MOL04764
+
+Objective:
+Assess reaction temperature sensitivity for MOL04764.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01334
+Result: PASS
+Details: Read relationship write away rather.

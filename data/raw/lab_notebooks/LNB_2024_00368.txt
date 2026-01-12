@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00368
+Scientist: Researcher_A
+Date: 2024-05-12
+Molecule ID: MOL00495
+
+Objective:
+Assess reaction temperature sensitivity for MOL00495.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

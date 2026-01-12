@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00113
+Scientist: PostDoc_2
+Date: 2024-03-29
+Molecule ID: MOL02563
+
+Objective:
+Investigate impurity formation for MOL02563.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

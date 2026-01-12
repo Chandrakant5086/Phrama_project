@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03415
+Result: PASS
+Details: After medical say good.

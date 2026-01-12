@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02052
+Result: PASS
+Details: New care current run side including international movie.

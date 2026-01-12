@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04358
+Result: PASS
+Details: When require exist many or can.

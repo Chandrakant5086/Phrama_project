@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02231
+Result: PASS
+Details: Wall cost unit together activity hit region inside.

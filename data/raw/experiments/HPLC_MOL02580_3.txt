@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02580
+Result: PASS
+Details: Travel conference here everyone.

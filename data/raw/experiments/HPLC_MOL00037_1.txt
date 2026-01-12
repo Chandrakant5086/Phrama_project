@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00037
+Result: PASS
+Details: Baby truth nice test there partner.

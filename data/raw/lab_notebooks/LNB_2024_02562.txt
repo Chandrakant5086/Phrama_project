@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02562
+Scientist: Researcher_B
+Date: 2023-11-27
+Molecule ID: MOL03598
+
+Objective:
+Assess reaction temperature sensitivity for MOL03598.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

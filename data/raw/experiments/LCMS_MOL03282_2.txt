@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03282
+Result: PASS
+Details: Story training financial past.

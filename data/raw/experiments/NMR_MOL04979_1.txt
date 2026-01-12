@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04979
+Result: PASS
+Details: Traditional want unit we adult ok.

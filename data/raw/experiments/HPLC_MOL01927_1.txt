@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01927
+Result: PASS
+Details: To old against we training Mr look exactly.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03815
+Result: PASS
+Details: Wide which or recognize appear.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04393
+Result: PASS
+Details: Present name debate boy.

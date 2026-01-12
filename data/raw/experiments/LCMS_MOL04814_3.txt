@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04814
+Result: PASS
+Details: Less reduce strategy its decide article.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04549
+Result: PASS
+Details: Deep serve specific sell.

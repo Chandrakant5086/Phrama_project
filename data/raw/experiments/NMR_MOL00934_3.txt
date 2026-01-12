@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00934
+Result: PASS
+Details: System where book day continue.

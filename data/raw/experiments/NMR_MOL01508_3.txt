@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01508
+Result: PASS
+Details: Machine full think.

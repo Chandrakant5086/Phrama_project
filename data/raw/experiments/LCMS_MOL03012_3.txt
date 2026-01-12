@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03012
+Result: PASS
+Details: Tax generation watch couple them low.

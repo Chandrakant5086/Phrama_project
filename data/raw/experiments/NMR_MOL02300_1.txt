@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02300
+Result: PASS
+Details: Traditional start lot factor still responsibility issue less.

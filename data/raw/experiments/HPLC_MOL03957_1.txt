@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03957
+Result: PASS
+Details: Stage political front I lot.

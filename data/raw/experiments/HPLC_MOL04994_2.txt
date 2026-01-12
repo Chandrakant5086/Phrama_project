@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04994
+Result: PASS
+Details: Point figure generation side.

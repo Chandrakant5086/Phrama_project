@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01696
+Result: PASS
+Details: Decision into side open agent do think.

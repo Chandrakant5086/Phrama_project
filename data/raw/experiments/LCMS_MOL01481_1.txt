@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01481
+Result: PASS
+Details: Level house movement pick.

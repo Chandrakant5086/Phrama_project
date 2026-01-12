@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03523
+Scientist: Researcher_B
+Date: 2023-08-17
+Molecule ID: MOL02431
+
+Objective:
+Investigate impurity formation for MOL02431.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

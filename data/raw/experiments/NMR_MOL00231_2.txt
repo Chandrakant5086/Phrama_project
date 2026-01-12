@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00231
+Result: PASS
+Details: Paper different bed more source response also.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00077
+Result: PASS
+Details: Real fill daughter statement manage determine.

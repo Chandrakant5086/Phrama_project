@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02501
+Scientist: PostDoc_2
+Date: 2023-07-26
+Molecule ID: MOL04336
+
+Objective:
+Test solvent impact on yield for MOL04336.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

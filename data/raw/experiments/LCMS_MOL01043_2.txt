@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01043
+Result: PASS
+Details: Child work body learn claim not final.

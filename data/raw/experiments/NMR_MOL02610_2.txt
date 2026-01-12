@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02610
+Result: PASS
+Details: Save left can skill other.

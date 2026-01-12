@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00912
+Scientist: Senior_Scientist_1
+Date: 2024-02-06
+Molecule ID: MOL00547
+
+Objective:
+Explore alternate synthesis route for MOL00547.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

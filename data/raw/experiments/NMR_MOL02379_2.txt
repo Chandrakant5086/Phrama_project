@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02379
+Result: PASS
+Details: Let already various current.

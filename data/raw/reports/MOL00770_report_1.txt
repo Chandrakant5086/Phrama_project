@@ -1,0 +1,15 @@
+
+Molecule ID: MOL00770
+Therapeutic Area: Immunology
+
+Synthesis Summary:
+The molecule was synthesized using esterification followed by purification.
+
+LCMS Results:
+Observed m/z peak at 512.62 corresponding to expected molecular weight.
+
+NMR Summary:
+Proton NMR confirmed characteristic peaks between 7.0–8.0 ppm.
+
+Conclusion:
+The molecule meets internal analytical validation criteria and is suitable for further evaluation.

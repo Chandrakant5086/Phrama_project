@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00881
+Scientist: PostDoc_2
+Date: 2023-06-27
+Molecule ID: MOL00911
+
+Objective:
+Assess reaction temperature sensitivity for MOL00911.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

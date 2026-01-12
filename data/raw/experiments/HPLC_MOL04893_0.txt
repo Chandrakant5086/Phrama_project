@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04893
+Result: PASS
+Details: Pick reduce total also look.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01285
+Result: PASS
+Details: Institution crime factor pass meet seven.

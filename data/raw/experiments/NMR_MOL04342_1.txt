@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04342
+Result: PASS
+Details: Deep especially loss section.

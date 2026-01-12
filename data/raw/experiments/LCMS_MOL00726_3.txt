@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00726
+Result: PASS
+Details: Itself field toward each increase.

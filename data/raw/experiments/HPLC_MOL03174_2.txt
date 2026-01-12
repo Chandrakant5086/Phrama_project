@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03174
+Result: PASS
+Details: Hot your authority bank.

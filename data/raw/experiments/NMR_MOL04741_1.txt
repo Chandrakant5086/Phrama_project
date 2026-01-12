@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04741
+Result: PASS
+Details: More more read cause suddenly.

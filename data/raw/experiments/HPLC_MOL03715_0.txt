@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03715
+Result: PASS
+Details: Mention nor evidence.

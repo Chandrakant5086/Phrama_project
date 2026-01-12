@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03155
+Scientist: Researcher_C
+Date: 2024-02-20
+Molecule ID: MOL04665
+
+Objective:
+Investigate impurity formation for MOL04665.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

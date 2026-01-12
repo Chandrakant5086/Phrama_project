@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03605
+Result: PASS
+Details: Main born stay growth instead decide language.

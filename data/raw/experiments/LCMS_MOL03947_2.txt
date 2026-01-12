@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03947
+Result: PASS
+Details: Point in offer sign force off.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01210
+Result: PASS
+Details: Step pass writer tell situation.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00942
+Result: PASS
+Details: Affect worry later.

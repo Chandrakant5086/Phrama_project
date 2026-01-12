@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04289
+Result: PASS
+Details: Old create break decide simply against because.

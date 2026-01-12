@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04831
+Result: PASS
+Details: Only teacher article energy each.

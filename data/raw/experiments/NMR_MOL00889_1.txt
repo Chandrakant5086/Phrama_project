@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00889
+Result: PASS
+Details: Then some half enjoy side name.

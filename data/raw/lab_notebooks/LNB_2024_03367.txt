@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03367
+Scientist: Researcher_A
+Date: 2024-04-14
+Molecule ID: MOL01787
+
+Objective:
+Validate preliminary reaction conditions for MOL01787.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03247
+Result: PASS
+Details: Energy often above stand something loss.

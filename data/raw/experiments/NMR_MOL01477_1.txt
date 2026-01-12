@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01477
+Result: PASS
+Details: Wait middle partner road cold.

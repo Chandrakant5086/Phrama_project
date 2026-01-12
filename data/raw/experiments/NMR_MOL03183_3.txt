@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03183
+Result: PASS
+Details: Rock group fine range assume by million.

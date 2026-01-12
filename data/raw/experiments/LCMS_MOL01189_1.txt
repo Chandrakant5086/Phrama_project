@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01189
+Result: PASS
+Details: Bed camera particularly leader difficult pressure.

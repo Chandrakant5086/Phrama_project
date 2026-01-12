@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03018
+Result: PASS
+Details: Stuff memory artist series almost short.

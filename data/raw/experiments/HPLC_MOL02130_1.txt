@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02130
+Result: PASS
+Details: See very card.

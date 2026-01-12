@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00258
+Result: PASS
+Details: Similar window size discover name.

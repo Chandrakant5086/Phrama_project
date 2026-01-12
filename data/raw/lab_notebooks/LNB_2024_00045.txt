@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00045
+Scientist: PostDoc_2
+Date: 2023-07-12
+Molecule ID: MOL01249
+
+Objective:
+Explore alternate synthesis route for MOL01249.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

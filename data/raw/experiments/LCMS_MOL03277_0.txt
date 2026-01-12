@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03277
+Result: PASS
+Details: Day dinner scientist.

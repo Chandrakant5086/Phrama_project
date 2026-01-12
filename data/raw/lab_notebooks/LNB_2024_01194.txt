@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01194
+Scientist: Researcher_A
+Date: 2023-05-13
+Molecule ID: MOL01497
+
+Objective:
+Investigate impurity formation for MOL01497.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

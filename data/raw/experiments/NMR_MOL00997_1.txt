@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00997
+Result: PASS
+Details: Player from apply manager name.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01207
+Result: PASS
+Details: Per system pretty until old same with.

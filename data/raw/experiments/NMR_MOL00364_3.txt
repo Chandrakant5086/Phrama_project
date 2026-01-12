@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00364
+Result: PASS
+Details: College four debate surface threat blue.

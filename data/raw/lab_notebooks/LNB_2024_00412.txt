@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00412
+Scientist: Senior_Scientist_1
+Date: 2024-03-17
+Molecule ID: MOL02669
+
+Objective:
+Explore alternate synthesis route for MOL02669.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

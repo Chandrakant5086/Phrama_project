@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02066
+Result: PASS
+Details: Such former green maybe list.

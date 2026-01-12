@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02344
+Result: PASS
+Details: Often write institution bank candidate.

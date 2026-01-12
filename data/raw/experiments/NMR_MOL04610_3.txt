@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04610
+Result: PASS
+Details: Fight safe three similar.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02442
+Result: PASS
+Details: Prevent return case some mention.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04024
+Result: PASS
+Details: Culture teach actually black field increase.

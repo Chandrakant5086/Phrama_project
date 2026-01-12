@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01730
+Result: PASS
+Details: Scene or foot mind.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03072
+Result: PASS
+Details: Ago cost garden itself.

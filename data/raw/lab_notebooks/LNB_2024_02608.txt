@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02608
+Scientist: Researcher_A
+Date: 2024-04-23
+Molecule ID: MOL02967
+
+Objective:
+Explore alternate synthesis route for MOL02967.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

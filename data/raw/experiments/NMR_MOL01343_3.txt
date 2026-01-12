@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01343
+Result: PASS
+Details: Score time see off good minute.

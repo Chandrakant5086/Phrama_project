@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02491
+Result: PASS
+Details: Source choice building read bed arrive.

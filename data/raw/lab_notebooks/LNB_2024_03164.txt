@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03164
+Scientist: Senior_Scientist_1
+Date: 2024-02-19
+Molecule ID: MOL03528
+
+Objective:
+Explore alternate synthesis route for MOL03528.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

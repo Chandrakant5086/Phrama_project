@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03116
+Result: PASS
+Details: Common yeah family cold.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04473
+Result: PASS
+Details: Ready people that table.

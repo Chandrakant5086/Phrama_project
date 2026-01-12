@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00790
+Result: PASS
+Details: Wind line parent explain picture decade individual.

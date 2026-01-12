@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02987
+Result: PASS
+Details: Kitchen thing instead leave.

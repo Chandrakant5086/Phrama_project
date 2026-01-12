@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03135
+Result: PASS
+Details: Represent bill kind these it ball.

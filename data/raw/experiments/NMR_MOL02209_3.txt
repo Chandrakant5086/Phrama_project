@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02209
+Result: PASS
+Details: Affect call stop even improve pretty.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02336
+Result: PASS
+Details: Body stage financial power.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03431
+Result: PASS
+Details: End mind point pull them sit show.

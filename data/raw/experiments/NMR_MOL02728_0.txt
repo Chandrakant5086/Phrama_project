@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02728
+Result: PASS
+Details: Road skill of design.

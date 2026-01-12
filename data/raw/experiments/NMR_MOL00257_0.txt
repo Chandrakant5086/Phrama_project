@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00257
+Result: PASS
+Details: Ask pattern price run allow all.

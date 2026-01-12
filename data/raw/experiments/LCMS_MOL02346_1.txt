@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02346
+Result: PASS
+Details: Easy so western half probably require.

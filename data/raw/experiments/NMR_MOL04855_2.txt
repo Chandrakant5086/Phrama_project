@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04855
+Result: PASS
+Details: Certain order consumer build include debate because late.

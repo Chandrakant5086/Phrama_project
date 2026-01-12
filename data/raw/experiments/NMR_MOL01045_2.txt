@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01045
+Result: PASS
+Details: Also notice better itself put pass.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02351
+Result: PASS
+Details: Ask front station leave top minute type.

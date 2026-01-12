@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00530
+Result: PASS
+Details: Image think reason which learn.

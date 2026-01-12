@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03646
+Result: PASS
+Details: Effect Congress part.

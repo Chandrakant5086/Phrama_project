@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00844
+Result: PASS
+Details: Key ask up pattern career order.

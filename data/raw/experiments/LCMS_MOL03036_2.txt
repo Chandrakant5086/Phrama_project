@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03036
+Result: PASS
+Details: Mother drive direction.

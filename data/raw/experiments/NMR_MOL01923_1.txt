@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01923
+Result: PASS
+Details: Maintain left hospital else public relationship I.

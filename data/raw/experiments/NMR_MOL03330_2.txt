@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03330
+Result: PASS
+Details: Listen store if box evidence.

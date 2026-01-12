@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01304
+Result: PASS
+Details: Use special detail decade.

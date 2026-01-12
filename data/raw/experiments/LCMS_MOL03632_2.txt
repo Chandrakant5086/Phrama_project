@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03632
+Result: PASS
+Details: Do specific this generation.

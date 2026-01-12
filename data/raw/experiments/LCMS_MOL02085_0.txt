@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02085
+Result: PASS
+Details: Lot read before parent.

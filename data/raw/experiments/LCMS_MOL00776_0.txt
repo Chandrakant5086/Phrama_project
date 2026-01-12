@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00776
+Result: PASS
+Details: Community collection send follow science.

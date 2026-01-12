@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01511
+Result: PASS
+Details: Foreign worker himself indicate into.

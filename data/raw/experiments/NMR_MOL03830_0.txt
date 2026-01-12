@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03830
+Result: PASS
+Details: Strong view best among put bar including organization.

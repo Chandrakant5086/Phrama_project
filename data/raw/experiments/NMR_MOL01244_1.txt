@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01244
+Result: PASS
+Details: Even almost value.

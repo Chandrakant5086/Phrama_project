@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00875
+Result: PASS
+Details: Policy force such century.

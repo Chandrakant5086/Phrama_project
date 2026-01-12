@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04808
+Result: PASS
+Details: Gas rise sort lot institution.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03898
+Result: PASS
+Details: Minute reach on produce hour can explain.

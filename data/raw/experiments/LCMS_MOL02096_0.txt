@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02096
+Result: PASS
+Details: Catch agent party industry.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02857
+Scientist: Researcher_A
+Date: 2023-05-23
+Molecule ID: MOL01196
+
+Objective:
+Explore alternate synthesis route for MOL01196.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

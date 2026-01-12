@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03776
+Scientist: Senior_Scientist_1
+Date: 2024-03-24
+Molecule ID: MOL00391
+
+Objective:
+Test solvent impact on yield for MOL00391.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

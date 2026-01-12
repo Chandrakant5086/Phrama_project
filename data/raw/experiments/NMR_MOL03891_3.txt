@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03891
+Result: PASS
+Details: Poor but beautiful choice system ball station success.

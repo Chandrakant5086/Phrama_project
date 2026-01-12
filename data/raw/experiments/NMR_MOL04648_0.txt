@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04648
+Result: PASS
+Details: Plan good take you there door.

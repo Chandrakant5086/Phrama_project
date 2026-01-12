@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02560
+Result: PASS
+Details: Easy interesting cup note study.

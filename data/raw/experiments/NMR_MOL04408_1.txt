@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04408
+Result: PASS
+Details: Short would mention professional shake region.

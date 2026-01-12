@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00220
+Result: PASS
+Details: Force serve dark show green necessary.

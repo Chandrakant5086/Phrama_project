@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04806
+Result: PASS
+Details: Receive he travel from imagine scene piece.

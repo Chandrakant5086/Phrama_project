@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00843
+Scientist: Researcher_C
+Date: 2023-09-17
+Molecule ID: MOL00843
+
+Objective:
+Test solvent impact on yield for MOL00843.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

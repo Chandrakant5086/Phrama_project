@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01130
+Result: PASS
+Details: Style subject cause member population section.

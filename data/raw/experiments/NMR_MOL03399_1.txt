@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03399
+Result: PASS
+Details: Sport here position exist.

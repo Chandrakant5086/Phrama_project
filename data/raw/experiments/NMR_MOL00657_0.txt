@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00657
+Result: PASS
+Details: Firm game feel apply.

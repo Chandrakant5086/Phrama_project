@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01595
+Result: PASS
+Details: Figure hold light medical.

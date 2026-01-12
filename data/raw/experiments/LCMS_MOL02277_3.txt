@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02277
+Result: PASS
+Details: In bill alone green nor area.

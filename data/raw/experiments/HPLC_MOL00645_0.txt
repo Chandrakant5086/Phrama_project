@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00645
+Result: PASS
+Details: Later bad prepare Congress strategy.

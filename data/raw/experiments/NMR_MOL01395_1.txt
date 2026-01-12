@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01395
+Result: PASS
+Details: Recently left fire modern bag.

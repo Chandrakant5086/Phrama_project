@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04192
+Result: PASS
+Details: It ago compare pull eat.

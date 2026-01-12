@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02294
+Result: PASS
+Details: Civil figure while.

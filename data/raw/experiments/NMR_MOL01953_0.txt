@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01953
+Result: PASS
+Details: Change fast inside thing unit tell star.

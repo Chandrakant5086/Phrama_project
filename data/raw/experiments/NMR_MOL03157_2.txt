@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03157
+Result: PASS
+Details: Performance control stock condition fall consumer various fire.

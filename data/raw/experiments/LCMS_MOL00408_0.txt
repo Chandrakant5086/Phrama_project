@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00408
+Result: PASS
+Details: Language suggest each camera.

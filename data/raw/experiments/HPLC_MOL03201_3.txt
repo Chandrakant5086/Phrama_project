@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03201
+Result: PASS
+Details: Car number popular amount too data.

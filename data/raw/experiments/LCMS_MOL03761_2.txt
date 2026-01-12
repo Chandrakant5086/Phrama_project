@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03761
+Result: PASS
+Details: Parent bag policy first pay.

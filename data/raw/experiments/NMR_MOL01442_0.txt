@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01442
+Result: PASS
+Details: Garden thought low structure.

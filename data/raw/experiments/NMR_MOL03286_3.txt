@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03286
+Result: PASS
+Details: Manager instead name official sing phone.

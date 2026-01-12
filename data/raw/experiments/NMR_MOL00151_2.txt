@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00151
+Result: PASS
+Details: Side truth both break.

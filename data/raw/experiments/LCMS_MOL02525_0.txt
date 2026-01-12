@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02525
+Result: PASS
+Details: Man stage provide line marriage.

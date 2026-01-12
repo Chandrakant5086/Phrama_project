@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01702
+Result: PASS
+Details: Glass piece many writer.

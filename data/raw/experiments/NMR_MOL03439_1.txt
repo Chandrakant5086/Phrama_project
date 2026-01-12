@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03439
+Result: PASS
+Details: Mission level front.

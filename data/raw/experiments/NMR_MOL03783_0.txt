@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03783
+Result: PASS
+Details: Wide per whom into.

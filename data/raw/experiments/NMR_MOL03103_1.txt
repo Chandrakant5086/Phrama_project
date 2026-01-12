@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03103
+Result: PASS
+Details: Although structure style eat value series.

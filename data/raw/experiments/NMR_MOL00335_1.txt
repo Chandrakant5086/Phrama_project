@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00335
+Result: PASS
+Details: Moment about article instead treatment rest.

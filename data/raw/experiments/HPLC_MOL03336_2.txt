@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03336
+Result: PASS
+Details: Each trip station determine memory buy hot.

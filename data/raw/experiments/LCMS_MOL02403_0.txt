@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02403
+Result: PASS
+Details: As trouble ok rock product.

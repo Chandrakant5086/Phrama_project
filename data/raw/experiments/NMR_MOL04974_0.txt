@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04974
+Result: PASS
+Details: Himself source try theory get with protect.

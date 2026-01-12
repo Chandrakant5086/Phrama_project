@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00643
+Result: PASS
+Details: Mr piece return only.

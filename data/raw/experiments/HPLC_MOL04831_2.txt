@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04831
+Result: PASS
+Details: Outside where should successful information reduce.

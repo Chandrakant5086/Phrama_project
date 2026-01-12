@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02660
+Scientist: Researcher_B
+Date: 2023-07-08
+Molecule ID: MOL03640
+
+Objective:
+Assess reaction temperature sensitivity for MOL03640.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

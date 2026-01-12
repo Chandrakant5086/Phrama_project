@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01421
+Result: PASS
+Details: Course west partner vote power color.

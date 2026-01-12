@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01368
+Result: PASS
+Details: Mrs company level resource.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01490
+Result: PASS
+Details: Speech cost mind action.

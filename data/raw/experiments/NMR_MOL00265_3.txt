@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00265
+Result: PASS
+Details: Table fly economy begin.

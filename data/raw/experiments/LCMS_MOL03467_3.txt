@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03467
+Result: PASS
+Details: Big foot best lead.

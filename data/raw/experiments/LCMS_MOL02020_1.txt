@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02020
+Result: PASS
+Details: Own explain while sing.

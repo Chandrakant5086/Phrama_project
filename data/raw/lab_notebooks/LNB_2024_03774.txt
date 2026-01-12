@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03774
+Scientist: Researcher_A
+Date: 2023-05-25
+Molecule ID: MOL00481
+
+Objective:
+Test solvent impact on yield for MOL00481.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

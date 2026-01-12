@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00653
+Scientist: Researcher_B
+Date: 2023-11-24
+Molecule ID: MOL02595
+
+Objective:
+Assess reaction temperature sensitivity for MOL02595.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

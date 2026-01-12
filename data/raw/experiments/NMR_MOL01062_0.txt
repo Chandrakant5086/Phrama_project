@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01062
+Result: PASS
+Details: From detail someone condition.

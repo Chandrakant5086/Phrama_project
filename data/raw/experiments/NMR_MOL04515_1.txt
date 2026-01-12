@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04515
+Result: PASS
+Details: Hot do them picture.

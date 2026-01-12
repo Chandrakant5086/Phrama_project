@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02587
+Result: PASS
+Details: Citizen power save pattern image public paper.

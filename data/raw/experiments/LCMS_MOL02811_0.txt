@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02811
+Result: PASS
+Details: Fly front effect smile paper.

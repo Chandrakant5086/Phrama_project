@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01508
+Result: PASS
+Details: Shake indicate PM inside everything value analysis success.

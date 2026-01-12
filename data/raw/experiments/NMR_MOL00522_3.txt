@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00522
+Result: PASS
+Details: Door direction article sense position.

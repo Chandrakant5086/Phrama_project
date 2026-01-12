@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03548
+Result: PASS
+Details: Measure model others focus name something adult.

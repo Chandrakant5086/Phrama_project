@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00414
+Result: PASS
+Details: Night dinner meeting first process.

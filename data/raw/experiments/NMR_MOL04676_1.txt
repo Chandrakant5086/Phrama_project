@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04676
+Result: PASS
+Details: Actually push wait different.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03629
+Result: PASS
+Details: Without instead himself card.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03162
+Scientist: Senior_Scientist_1
+Date: 2024-01-08
+Molecule ID: MOL04113
+
+Objective:
+Investigate impurity formation for MOL04113.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

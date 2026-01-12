@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03214
+Result: PASS
+Details: Station large value strategy.

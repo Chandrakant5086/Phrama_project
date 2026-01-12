@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01273
+Result: PASS
+Details: Main source hard.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02650
+Result: PASS
+Details: Bar approach today place food.

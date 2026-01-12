@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04049
+Result: PASS
+Details: Among daughter million whatever over water.

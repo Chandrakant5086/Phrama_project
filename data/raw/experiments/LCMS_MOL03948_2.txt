@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03948
+Result: PASS
+Details: Camera born knowledge wind.

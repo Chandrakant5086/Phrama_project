@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04295
+Result: PASS
+Details: Property might song bag which play visit.

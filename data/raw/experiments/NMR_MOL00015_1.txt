@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00015
+Result: PASS
+Details: Modern record resource experience six apply bar.

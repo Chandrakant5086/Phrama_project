@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01820
+Result: PASS
+Details: Act several cup cup possible environmental.

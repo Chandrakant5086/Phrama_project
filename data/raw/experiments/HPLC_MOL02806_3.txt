@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02806
+Result: PASS
+Details: Series part good as plant.

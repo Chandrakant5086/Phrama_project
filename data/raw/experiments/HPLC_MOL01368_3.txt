@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01368
+Result: PASS
+Details: Cup hour option western bed behind.

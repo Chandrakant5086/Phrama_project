@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03186
+Scientist: Researcher_B
+Date: 2024-01-04
+Molecule ID: MOL02195
+
+Objective:
+Investigate impurity formation for MOL02195.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03951
+Result: PASS
+Details: Job less nation nothing speech.

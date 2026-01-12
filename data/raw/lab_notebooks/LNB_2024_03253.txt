@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03253
+Scientist: PostDoc_2
+Date: 2023-08-05
+Molecule ID: MOL00787
+
+Objective:
+Assess reaction temperature sensitivity for MOL00787.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

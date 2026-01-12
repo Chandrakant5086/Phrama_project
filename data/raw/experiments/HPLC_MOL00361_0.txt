@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00361
+Result: PASS
+Details: Anything about garden citizen two.

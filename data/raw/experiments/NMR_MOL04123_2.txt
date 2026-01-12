@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04123
+Result: PASS
+Details: Fill home successful approach.

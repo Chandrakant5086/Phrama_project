@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03093
+Result: PASS
+Details: Coach garden avoid field.

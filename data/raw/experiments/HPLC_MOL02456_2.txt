@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02456
+Result: PASS
+Details: Enough offer them.

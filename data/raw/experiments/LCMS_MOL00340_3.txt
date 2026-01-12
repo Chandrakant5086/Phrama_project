@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00340
+Result: PASS
+Details: Often analysis check own need.

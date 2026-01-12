@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01570
+Result: PASS
+Details: Election friend recognize far throw.

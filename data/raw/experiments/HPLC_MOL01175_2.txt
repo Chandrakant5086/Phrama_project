@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01175
+Result: PASS
+Details: About base relationship stay player action.

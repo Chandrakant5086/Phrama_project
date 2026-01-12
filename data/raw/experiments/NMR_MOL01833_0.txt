@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01833
+Result: PASS
+Details: Soldier name her today test at trial.

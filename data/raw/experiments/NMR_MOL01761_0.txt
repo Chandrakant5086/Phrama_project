@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01761
+Result: PASS
+Details: Authority forward figure people center save.

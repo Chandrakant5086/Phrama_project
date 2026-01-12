@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04737
+Result: PASS
+Details: Project avoid make window change shake.

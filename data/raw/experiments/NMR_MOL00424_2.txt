@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00424
+Result: PASS
+Details: Economic office concern successful air.

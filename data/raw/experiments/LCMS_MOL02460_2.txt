@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02460
+Result: PASS
+Details: Their audience answer or debate join fine.

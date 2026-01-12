@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04559
+Result: PASS
+Details: Hotel into clear thus present.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00070
+Result: PASS
+Details: Event second training.

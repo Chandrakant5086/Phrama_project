@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00681
+Result: PASS
+Details: Weight car anyone control between.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04799
+Result: PASS
+Details: Study growth clear article set.

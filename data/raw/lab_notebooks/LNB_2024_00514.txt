@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00514
+Scientist: Senior_Scientist_1
+Date: 2023-11-14
+Molecule ID: MOL02842
+
+Objective:
+Assess reaction temperature sensitivity for MOL02842.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

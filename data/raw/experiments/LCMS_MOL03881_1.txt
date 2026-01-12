@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03881
+Result: PASS
+Details: Go mission pay.

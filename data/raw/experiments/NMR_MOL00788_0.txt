@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00788
+Result: PASS
+Details: Usually dinner any loss.

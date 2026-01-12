@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02271
+Result: PASS
+Details: More why game explain.

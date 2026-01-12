@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03819
+Scientist: PostDoc_2
+Date: 2023-07-13
+Molecule ID: MOL02160
+
+Objective:
+Assess reaction temperature sensitivity for MOL02160.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

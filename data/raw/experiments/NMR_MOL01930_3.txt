@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01930
+Result: PASS
+Details: Method cultural hotel green.

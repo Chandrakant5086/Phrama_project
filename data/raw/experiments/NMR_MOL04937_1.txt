@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04937
+Result: PASS
+Details: Relate get benefit gun building.

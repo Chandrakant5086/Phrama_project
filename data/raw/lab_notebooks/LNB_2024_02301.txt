@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02301
+Scientist: Researcher_C
+Date: 2023-10-12
+Molecule ID: MOL01093
+
+Objective:
+Test solvent impact on yield for MOL01093.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

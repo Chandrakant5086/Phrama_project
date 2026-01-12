@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03740
+Result: PASS
+Details: Personal prove word.

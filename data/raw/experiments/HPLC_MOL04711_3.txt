@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04711
+Result: PASS
+Details: Central start grow effort cost strong couple.

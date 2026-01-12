@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04444
+Result: PASS
+Details: Common thank all best lot production.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01633
+Scientist: Researcher_C
+Date: 2023-02-07
+Molecule ID: MOL04440
+
+Objective:
+Explore alternate synthesis route for MOL04440.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

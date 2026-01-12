@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03238
+Result: PASS
+Details: Worker set smile realize account.

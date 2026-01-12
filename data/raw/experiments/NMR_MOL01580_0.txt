@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01580
+Result: PASS
+Details: Investment car plan commercial specific result.

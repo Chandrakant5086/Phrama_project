@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03244
+Result: PASS
+Details: Like collection maybe capital represent program.

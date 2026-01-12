@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00013
+Result: PASS
+Details: Inside election dinner.

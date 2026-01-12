@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00718
+Result: PASS
+Details: Then window maintain now remember second.

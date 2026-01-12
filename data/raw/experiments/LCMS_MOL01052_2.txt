@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01052
+Result: PASS
+Details: No same interesting buy around.

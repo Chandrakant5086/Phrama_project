@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00034
+Scientist: Researcher_B
+Date: 2023-04-11
+Molecule ID: MOL04329
+
+Objective:
+Investigate impurity formation for MOL04329.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

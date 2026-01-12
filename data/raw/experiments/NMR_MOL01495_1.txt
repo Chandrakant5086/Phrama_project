@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01495
+Result: PASS
+Details: Class voice on her remember part.

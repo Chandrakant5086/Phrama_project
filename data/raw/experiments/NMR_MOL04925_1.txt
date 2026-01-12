@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04925
+Result: PASS
+Details: Hour compare itself total stuff couple.

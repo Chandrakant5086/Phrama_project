@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00791
+Result: PASS
+Details: Personal from need left too start.

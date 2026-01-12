@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04818
+Result: PASS
+Details: Indeed mention receive after yet.

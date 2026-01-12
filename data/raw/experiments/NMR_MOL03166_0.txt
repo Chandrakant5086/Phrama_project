@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03166
+Result: PASS
+Details: Consumer total according only.

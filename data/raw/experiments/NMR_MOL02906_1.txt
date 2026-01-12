@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02906
+Result: PASS
+Details: Whatever the force opportunity responsibility trouble wrong.

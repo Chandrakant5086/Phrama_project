@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00563
+Result: PASS
+Details: Because pressure building success realize new.

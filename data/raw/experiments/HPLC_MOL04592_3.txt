@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04592
+Result: PASS
+Details: Adult lay allow.

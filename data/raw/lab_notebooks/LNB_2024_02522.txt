@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02522
+Scientist: Researcher_C
+Date: 2023-06-11
+Molecule ID: MOL00620
+
+Objective:
+Assess reaction temperature sensitivity for MOL00620.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

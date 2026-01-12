@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03016
+Scientist: Researcher_A
+Date: 2023-09-14
+Molecule ID: MOL02065
+
+Objective:
+Investigate impurity formation for MOL02065.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

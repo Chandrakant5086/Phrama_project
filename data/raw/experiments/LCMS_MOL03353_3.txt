@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03353
+Result: PASS
+Details: Similar charge learn.

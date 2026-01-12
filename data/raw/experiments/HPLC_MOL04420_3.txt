@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04420
+Result: PASS
+Details: Near ten shake several.

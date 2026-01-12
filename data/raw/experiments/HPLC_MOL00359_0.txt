@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00359
+Result: PASS
+Details: Expect which reflect walk strategy too expert.

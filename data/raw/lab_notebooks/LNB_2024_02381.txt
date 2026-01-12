@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02381
+Scientist: Researcher_A
+Date: 2023-11-30
+Molecule ID: MOL01263
+
+Objective:
+Assess reaction temperature sensitivity for MOL01263.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

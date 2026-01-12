@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04067
+Result: PASS
+Details: Media guess energy find if paper.

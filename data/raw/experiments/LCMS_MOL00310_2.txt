@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00310
+Result: PASS
+Details: Measure eye fire worker.

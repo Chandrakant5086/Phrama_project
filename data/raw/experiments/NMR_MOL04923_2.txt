@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04923
+Result: PASS
+Details: Local sign follow.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02162
+Result: PASS
+Details: Thing third common field expert.

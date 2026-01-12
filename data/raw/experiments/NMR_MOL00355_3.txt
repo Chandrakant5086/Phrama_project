@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00355
+Result: PASS
+Details: Structure factor cold future score east lead.

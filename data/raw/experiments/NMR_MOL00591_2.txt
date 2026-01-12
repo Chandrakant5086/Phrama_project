@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00591
+Result: PASS
+Details: Same thousand family on.

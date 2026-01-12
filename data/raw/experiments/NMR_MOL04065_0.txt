@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04065
+Result: PASS
+Details: Operation control assume upon.

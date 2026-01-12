@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02909
+Result: PASS
+Details: Can position official fish science side remain.

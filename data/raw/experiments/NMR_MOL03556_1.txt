@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03556
+Result: PASS
+Details: Design value research need rest condition.

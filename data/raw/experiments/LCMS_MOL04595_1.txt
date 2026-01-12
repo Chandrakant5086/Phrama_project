@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04595
+Result: PASS
+Details: Above customer dinner.

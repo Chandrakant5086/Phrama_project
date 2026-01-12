@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04208
+Result: PASS
+Details: Growth soldier stage win design enter room even.

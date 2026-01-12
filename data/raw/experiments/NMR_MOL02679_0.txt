@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02679
+Result: PASS
+Details: Remember put maintain ability long Mr on.

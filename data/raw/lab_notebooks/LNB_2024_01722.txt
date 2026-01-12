@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01722
+Scientist: Researcher_C
+Date: 2023-07-21
+Molecule ID: MOL01111
+
+Objective:
+Investigate impurity formation for MOL01111.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

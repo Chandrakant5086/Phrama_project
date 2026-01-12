@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03702
+Scientist: Researcher_C
+Date: 2024-03-21
+Molecule ID: MOL00264
+
+Objective:
+Explore alternate synthesis route for MOL00264.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

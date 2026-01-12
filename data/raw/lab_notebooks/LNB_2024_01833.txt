@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01833
+Scientist: Researcher_A
+Date: 2024-03-20
+Molecule ID: MOL04911
+
+Objective:
+Test solvent impact on yield for MOL04911.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

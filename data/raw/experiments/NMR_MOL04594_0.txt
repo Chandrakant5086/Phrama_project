@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04594
+Result: PASS
+Details: Than add take grow.

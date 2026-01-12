@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02236
+Result: PASS
+Details: Detail later fight always power.

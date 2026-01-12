@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00587
+Result: PASS
+Details: Enter director affect carry check.

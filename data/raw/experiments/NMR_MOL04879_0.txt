@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04879
+Result: PASS
+Details: Like establish table remain.

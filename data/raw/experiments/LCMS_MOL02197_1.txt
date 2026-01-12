@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02197
+Result: PASS
+Details: Parent finish leader lot.

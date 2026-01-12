@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02128
+Result: PASS
+Details: Employee vote gas call.

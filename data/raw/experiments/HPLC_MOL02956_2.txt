@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02956
+Result: PASS
+Details: However product group.

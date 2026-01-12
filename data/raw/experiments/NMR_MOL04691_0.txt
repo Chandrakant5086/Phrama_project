@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04691
+Result: PASS
+Details: Main general tree them stuff hope heart.

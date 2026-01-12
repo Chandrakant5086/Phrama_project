@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02894
+Scientist: Senior_Scientist_1
+Date: 2023-04-28
+Molecule ID: MOL02618
+
+Objective:
+Explore alternate synthesis route for MOL02618.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

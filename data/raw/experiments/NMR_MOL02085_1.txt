@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02085
+Result: PASS
+Details: Old travel ten example middle.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00913
+Result: PASS
+Details: Reason effect inside a teacher north rise.

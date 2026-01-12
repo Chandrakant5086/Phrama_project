@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01075
+Result: PASS
+Details: Cup very chance treatment.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02246
+Result: PASS
+Details: Card tax to source especially.

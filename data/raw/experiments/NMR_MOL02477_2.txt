@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02477
+Result: PASS
+Details: Increase same during hold just produce.

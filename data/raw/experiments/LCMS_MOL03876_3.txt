@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03876
+Result: PASS
+Details: Oil traditional now news property.

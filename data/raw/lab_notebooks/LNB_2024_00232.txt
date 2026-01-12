@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00232
+Scientist: Senior_Scientist_1
+Date: 2023-04-23
+Molecule ID: MOL00851
+
+Objective:
+Assess reaction temperature sensitivity for MOL00851.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Repeat experiment with modified conditions.
+
+Status:
+Exploratory – not validated.

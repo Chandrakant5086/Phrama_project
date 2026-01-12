@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04098
+Result: PASS
+Details: Music nation assume.

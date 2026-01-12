@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00334
+Result: PASS
+Details: Old remain policy carry if who tree.

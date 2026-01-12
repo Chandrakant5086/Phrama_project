@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04964
+Result: PASS
+Details: Image never fine new series control opportunity.

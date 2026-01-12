@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03478
+Result: PASS
+Details: Shoulder single enough raise point accept race.

@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03486
+Scientist: Researcher_C
+Date: 2023-09-06
+Molecule ID: MOL01136
+
+Objective:
+Assess reaction temperature sensitivity for MOL01136.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01743
+Result: PASS
+Details: Control performance clear front everything.

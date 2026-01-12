@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03390
+Result: PASS
+Details: Change building whether hit.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01381
+Result: PASS
+Details: Live question everything control.

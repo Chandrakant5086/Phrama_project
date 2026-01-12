@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03628
+Result: PASS
+Details: Loss health position bag size.

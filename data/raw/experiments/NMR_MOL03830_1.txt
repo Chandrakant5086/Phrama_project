@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03830
+Result: PASS
+Details: Stage eye response property field career.

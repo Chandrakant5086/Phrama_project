@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01339
+Result: PASS
+Details: Budget full need author.

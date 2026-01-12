@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01080
+Result: PASS
+Details: Have wrong approach special amount improve kind.

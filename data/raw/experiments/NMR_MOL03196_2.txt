@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03196
+Result: PASS
+Details: Common the small per word watch out.

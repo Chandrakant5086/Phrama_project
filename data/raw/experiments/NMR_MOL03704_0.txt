@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03704
+Result: PASS
+Details: Without animal street far.

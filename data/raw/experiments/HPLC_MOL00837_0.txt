@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00837
+Result: PASS
+Details: Special degree plant language less weight data.

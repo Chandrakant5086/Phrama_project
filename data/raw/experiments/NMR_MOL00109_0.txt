@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00109
+Result: PASS
+Details: Center force interest for detail live score.

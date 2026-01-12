@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02594
+Result: PASS
+Details: No worker him for.

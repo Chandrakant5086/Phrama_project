@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01802
+Result: PASS
+Details: Some little child.

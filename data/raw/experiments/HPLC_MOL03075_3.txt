@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03075
+Result: PASS
+Details: Set interesting compare I.

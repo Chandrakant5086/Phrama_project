@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00692
+Result: PASS
+Details: American enough over performance here.

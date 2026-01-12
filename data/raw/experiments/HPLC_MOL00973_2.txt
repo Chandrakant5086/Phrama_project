@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00973
+Result: PASS
+Details: Style set I real ready adult strong.

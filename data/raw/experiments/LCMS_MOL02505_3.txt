@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02505
+Result: PASS
+Details: Goal expect let stop first choice yet.

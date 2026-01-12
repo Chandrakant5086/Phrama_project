@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00220
+Result: PASS
+Details: Media spring order indicate box yourself.

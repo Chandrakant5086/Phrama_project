@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL04846
+Result: PASS
+Details: See charge course scene picture as.

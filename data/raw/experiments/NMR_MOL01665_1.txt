@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01665
+Result: PASS
+Details: If national clear.

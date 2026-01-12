@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02581
+Result: PASS
+Details: Blue civil TV first long.

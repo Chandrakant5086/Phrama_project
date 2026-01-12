@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01006
+Result: PASS
+Details: Area which affect various teacher goal do.

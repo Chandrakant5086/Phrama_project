@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03417
+Result: PASS
+Details: Factor face resource score language pick.

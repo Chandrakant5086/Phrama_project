@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03413
+Scientist: PostDoc_2
+Date: 2023-07-25
+Molecule ID: MOL01204
+
+Objective:
+Assess reaction temperature sensitivity for MOL01204.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

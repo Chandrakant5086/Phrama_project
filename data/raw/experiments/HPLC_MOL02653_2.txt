@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02653
+Result: PASS
+Details: Education until walk necessary.

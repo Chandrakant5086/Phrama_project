@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01870
+Scientist: Researcher_B
+Date: 2024-05-14
+Molecule ID: MOL02064
+
+Objective:
+Test solvent impact on yield for MOL02064.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

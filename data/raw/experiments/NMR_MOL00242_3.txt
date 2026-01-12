@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00242
+Result: PASS
+Details: Heavy heavy particularly.

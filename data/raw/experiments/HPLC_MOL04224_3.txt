@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04224
+Result: PASS
+Details: Positive build wait side.

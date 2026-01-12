@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02077
+Scientist: Researcher_C
+Date: 2024-01-27
+Molecule ID: MOL03086
+
+Objective:
+Test solvent impact on yield for MOL03086.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

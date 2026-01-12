@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL03553
+Result: PASS
+Details: Human establish choice mean on.

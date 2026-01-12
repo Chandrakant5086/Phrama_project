@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00539
+Result: PASS
+Details: Energy area spend prepare add.

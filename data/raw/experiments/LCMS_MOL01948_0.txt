@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01948
+Result: PASS
+Details: Inside reach budget.

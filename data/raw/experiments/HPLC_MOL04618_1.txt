@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04618
+Result: PASS
+Details: Would there blue message behind.

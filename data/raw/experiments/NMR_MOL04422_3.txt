@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04422
+Result: PASS
+Details: Painting large nature down low blue.

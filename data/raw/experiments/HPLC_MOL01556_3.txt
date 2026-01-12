@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01556
+Result: PASS
+Details: Country half include.

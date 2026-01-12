@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03034
+Result: PASS
+Details: Work nation key present mission board.

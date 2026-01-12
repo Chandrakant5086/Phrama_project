@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00725
+Result: PASS
+Details: Pay drug different.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00935
+Result: PASS
+Details: Specific particularly fund.

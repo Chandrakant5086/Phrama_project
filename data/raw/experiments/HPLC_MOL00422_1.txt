@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00422
+Result: PASS
+Details: Seem success avoid number.

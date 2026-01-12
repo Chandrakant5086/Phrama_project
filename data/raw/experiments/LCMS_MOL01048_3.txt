@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01048
+Result: PASS
+Details: Pressure series including stop anyone institution character.

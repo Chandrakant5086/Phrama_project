@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00814
+Result: PASS
+Details: Before those much.

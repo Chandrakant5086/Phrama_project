@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00972
+Result: PASS
+Details: Trouble travel every.

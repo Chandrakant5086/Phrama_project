@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02228
+Result: PASS
+Details: His reduce suggest.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01323
+Result: PASS
+Details: Star production compare station to treatment.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02222
+Result: PASS
+Details: First majority direction.

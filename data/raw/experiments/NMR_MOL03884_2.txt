@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03884
+Result: PASS
+Details: Force else skin bill edge.

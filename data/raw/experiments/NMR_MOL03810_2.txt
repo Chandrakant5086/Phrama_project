@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03810
+Result: PASS
+Details: Form usually off free.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02428
+Result: PASS
+Details: Fact structure mother or sense.

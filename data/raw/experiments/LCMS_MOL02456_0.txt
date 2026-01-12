@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02456
+Result: PASS
+Details: Clear area find adult.

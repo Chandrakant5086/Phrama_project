@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04566
+Result: PASS
+Details: Point always election five discuss.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00328
+Result: PASS
+Details: Company perform detail dark figure continue.

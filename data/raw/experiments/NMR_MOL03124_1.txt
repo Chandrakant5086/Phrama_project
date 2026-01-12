@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03124
+Result: PASS
+Details: And yard participant want.

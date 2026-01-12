@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00292
+Result: PASS
+Details: Current some success why nation.

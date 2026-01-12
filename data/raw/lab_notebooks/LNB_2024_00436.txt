@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00436
+Scientist: Researcher_C
+Date: 2024-03-04
+Molecule ID: MOL01543
+
+Objective:
+Investigate impurity formation for MOL01543.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

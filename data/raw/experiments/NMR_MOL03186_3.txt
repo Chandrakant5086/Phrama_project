@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03186
+Result: PASS
+Details: Appear consider couple true.

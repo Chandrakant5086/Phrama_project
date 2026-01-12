@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03554
+Result: PASS
+Details: Specific per loss better.

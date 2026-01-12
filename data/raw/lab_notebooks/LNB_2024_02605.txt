@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_02605
+Scientist: Researcher_C
+Date: 2024-05-11
+Molecule ID: MOL03916
+
+Objective:
+Investigate impurity formation for MOL03916.
+
+Observations:
+Reaction completed faster than anticipated.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03945
+Result: PASS
+Details: Trial their minute guess.

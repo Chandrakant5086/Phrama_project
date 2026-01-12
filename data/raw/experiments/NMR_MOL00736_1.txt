@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00736
+Result: PASS
+Details: Glass its oil.

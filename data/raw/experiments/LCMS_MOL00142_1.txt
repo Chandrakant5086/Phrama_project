@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00142
+Result: PASS
+Details: Reality arm since that.

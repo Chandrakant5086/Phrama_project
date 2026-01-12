@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02417
+Result: PASS
+Details: Learn play step.

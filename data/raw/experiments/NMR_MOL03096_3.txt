@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03096
+Result: PASS
+Details: Low hotel it check happy.

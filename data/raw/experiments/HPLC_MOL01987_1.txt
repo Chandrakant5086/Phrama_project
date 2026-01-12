@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01987
+Result: PASS
+Details: Seek population reveal stock account difference box effect.

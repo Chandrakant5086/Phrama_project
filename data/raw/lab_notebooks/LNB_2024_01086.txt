@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01086
+Scientist: Researcher_A
+Date: 2023-06-02
+Molecule ID: MOL01693
+
+Objective:
+Explore alternate synthesis route for MOL01693.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

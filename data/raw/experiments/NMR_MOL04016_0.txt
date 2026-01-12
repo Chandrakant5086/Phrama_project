@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04016
+Result: PASS
+Details: Think similar statement form maintain including air.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02003
+Result: PASS
+Details: Young right bank seek country candidate attention.

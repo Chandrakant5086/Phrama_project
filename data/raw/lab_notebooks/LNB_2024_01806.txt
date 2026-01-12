@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_01806
+Scientist: Researcher_B
+Date: 2023-04-03
+Molecule ID: MOL03290
+
+Objective:
+Assess reaction temperature sensitivity for MOL03290.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02538
+Result: PASS
+Details: Property than time mention.

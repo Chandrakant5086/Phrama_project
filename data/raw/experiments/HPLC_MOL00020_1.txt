@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00020
+Result: PASS
+Details: Since truth glass level bed.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02487
+Result: PASS
+Details: Attack energy successful man.

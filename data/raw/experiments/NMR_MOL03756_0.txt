@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03756
+Result: PASS
+Details: Democratic site actually turn recognize.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL00734
+Result: PASS
+Details: Forward will hard design.

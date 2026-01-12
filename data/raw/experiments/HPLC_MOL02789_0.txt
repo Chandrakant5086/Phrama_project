@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02789
+Result: PASS
+Details: Truth eye tell mission red politics.

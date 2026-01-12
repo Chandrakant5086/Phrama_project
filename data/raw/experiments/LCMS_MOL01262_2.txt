@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL01262
+Result: PASS
+Details: Bank nice sport pattern.

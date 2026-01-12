@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03614
+Scientist: Researcher_B
+Date: 2023-10-27
+Molecule ID: MOL01772
+
+Objective:
+Investigate impurity formation for MOL01772.
+
+Observations:
+Reaction yield was lower than expected.
+
+Notes:
+Result inconclusive, needs repetition.
+
+Status:
+Exploratory – not validated.

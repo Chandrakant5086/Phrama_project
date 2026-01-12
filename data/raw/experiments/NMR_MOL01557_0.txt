@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01557
+Result: PASS
+Details: Computer firm never.

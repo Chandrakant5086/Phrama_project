@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_03362
+Scientist: Researcher_A
+Date: 2024-01-18
+Molecule ID: MOL04562
+
+Objective:
+Assess reaction temperature sensitivity for MOL04562.
+
+Observations:
+Product showed partial degradation.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02754
+Result: PASS
+Details: Brother list live newspaper.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01838
+Result: PASS
+Details: Surface child will true increase if.

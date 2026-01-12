@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00192
+Result: PASS
+Details: Sign friend herself.

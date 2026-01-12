@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04626
+Result: PASS
+Details: Case type one ground.

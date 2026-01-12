@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL04965
+Result: PASS
+Details: Piece door shake world build value.

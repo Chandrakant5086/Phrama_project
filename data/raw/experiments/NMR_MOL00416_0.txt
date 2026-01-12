@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00416
+Result: PASS
+Details: Clearly member present his.

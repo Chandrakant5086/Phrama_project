@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03860
+Result: PASS
+Details: Cell partner section player red little.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL00238
+Result: PASS
+Details: Talk agreement manager hope across activity list.

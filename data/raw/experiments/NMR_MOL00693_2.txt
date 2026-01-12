@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00693
+Result: PASS
+Details: Want large or yet operation work various.

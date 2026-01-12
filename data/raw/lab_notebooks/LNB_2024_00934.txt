@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00934
+Scientist: Researcher_A
+Date: 2024-01-25
+Molecule ID: MOL00196
+
+Objective:
+Assess reaction temperature sensitivity for MOL00196.
+
+Observations:
+Unexpected impurity detected during LCMS run.
+
+Notes:
+Temperature control could improve results.
+
+Status:
+Exploratory – not validated.

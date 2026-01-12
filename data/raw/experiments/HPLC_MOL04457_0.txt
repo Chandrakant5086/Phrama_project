@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04457
+Result: PASS
+Details: Cold skin avoid choose.

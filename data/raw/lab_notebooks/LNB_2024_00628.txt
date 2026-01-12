@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00628
+Scientist: Researcher_C
+Date: 2024-01-03
+Molecule ID: MOL00168
+
+Objective:
+Test solvent impact on yield for MOL00168.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+May require solvent optimization.
+
+Status:
+Exploratory – not validated.

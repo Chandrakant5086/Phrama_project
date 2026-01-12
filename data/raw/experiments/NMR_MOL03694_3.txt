@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03694
+Result: PASS
+Details: Through clearly media key list under over.

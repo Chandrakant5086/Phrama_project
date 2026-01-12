@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04486
+Result: PASS
+Details: Best option central evidence between.

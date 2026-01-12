@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00838
+Result: PASS
+Details: Generation carry site manager month billion.

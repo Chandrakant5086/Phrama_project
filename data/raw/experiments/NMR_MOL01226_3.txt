@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01226
+Result: PASS
+Details: Involve push ago control early discussion.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02033
+Result: PASS
+Details: Analysis risk fine issue rather.

@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02975
+Result: PASS
+Details: More level trouble method need cell drug.

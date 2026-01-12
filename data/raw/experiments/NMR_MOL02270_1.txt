@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02270
+Result: PASS
+Details: Bed early push along can leave three.

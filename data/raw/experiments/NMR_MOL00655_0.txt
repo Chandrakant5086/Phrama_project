@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL00655
+Result: PASS
+Details: Seem point statement under discover with return.

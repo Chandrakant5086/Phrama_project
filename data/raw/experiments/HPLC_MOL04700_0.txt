@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04700
+Result: PASS
+Details: Present same sign attention add.

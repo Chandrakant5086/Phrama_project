@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03920
+Result: PASS
+Details: Matter great wrong will remain through.

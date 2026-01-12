@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02478
+Result: PASS
+Details: Per back team skill.

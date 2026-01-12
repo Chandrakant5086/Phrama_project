@@ -1,0 +1,16 @@
+Notebook ID: LNB_2024_00762
+Scientist: Researcher_C
+Date: 2023-10-09
+Molecule ID: MOL01642
+
+Objective:
+Test solvent impact on yield for MOL01642.
+
+Observations:
+Purity levels varied across batches.
+
+Notes:
+Consult analytical team for deeper review.
+
+Status:
+Exploratory – not validated.

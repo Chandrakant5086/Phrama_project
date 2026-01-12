@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03534
+Result: PASS
+Details: Prepare each fly let full build public.

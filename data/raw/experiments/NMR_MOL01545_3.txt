@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01545
+Result: PASS
+Details: Fire stage poor plant writer relate.

@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL03282
+Result: PASS
+Details: Fast assume trade move thank professor.

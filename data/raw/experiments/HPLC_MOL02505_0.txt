@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL02505
+Result: PASS
+Details: Simply successful town peace.

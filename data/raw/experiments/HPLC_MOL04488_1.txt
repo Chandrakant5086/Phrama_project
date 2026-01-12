@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04488
+Result: PASS
+Details: Hotel true nice hope news must line.

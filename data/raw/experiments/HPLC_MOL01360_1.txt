@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL01360
+Result: PASS
+Details: My institution fish hospital fact.

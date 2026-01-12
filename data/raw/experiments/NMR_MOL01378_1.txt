@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01378
+Result: PASS
+Details: History last none identify society expert.

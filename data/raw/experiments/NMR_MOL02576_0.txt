@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL02576
+Result: PASS
+Details: Child rest seat western case.

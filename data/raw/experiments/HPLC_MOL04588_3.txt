@@ -1,0 +1,5 @@
+
+Experiment Type: HPLC
+Molecule ID: MOL04588
+Result: PASS
+Details: Generation test mean past receive.

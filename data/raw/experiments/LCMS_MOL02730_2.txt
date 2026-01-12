@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02730
+Result: PASS
+Details: Candidate take page author become.

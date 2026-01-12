@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL01264
+Result: PASS
+Details: Weight measure face determine goal.

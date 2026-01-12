@@ -1,0 +1,5 @@
+
+Experiment Type: NMR
+Molecule ID: MOL03301
+Result: PASS
+Details: Hold foreign could.

@@ -1,0 +1,5 @@
+
+Experiment Type: LCMS
+Molecule ID: MOL02008
+Result: PASS
+Details: Base spend no movie.
