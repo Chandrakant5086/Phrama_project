@@ -28,5 +28,5 @@ jobs:
           file: Dockerfile
           push: true
           tags: |
-            ${{ secrets.DOCKER_USERNAME }}/pharma-rag-app:latest
-            ${{ secrets.DOCKER_USERNAME }}/pharma-rag-app:${{ github.sha }}
+            ${{ secrets.DOCKER_USERNAME }}/pharma_rag:latest
+            ${{ secrets.DOCKER_USERNAME }}/pharma_rag:${{ github.sha }}
