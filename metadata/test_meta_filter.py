@@ -27,15 +27,31 @@ metadatas = [
     }
 ]
 
+import numpy as np
+
 embeddings = generate_embedding(chunks)
 
+if embeddings is None:
+    raise RuntimeError("generate_embedding returned None")
+
+embeddings = np.asarray(embeddings)
+
+if embeddings.ndim != 2:
+    raise ValueError(f"Invalid embeddings shape: {embeddings.shape}")
+
 store = FAISSStore(embedding_dim=embeddings.shape[1])
-store.add_embeddings(embeddings, metadatas, chunks)
+store.add_embeddings(embeddings, chunks, metadatas)
 
 query = "impurity found during experiment"
-query_embedding = generate_embedding([query])[0]
+query_embedding = generate_embedding([query])
+
+if query_embedding is None:
+    raise RuntimeError("Query embedding returned None")
+
+query_embedding = query_embedding[0]
 
 results = store.search(query_embedding, top_k=5)
+
 
 # Apply metadata filter
 filters = {
