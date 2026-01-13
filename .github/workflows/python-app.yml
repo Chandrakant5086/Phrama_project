@@ -36,14 +36,14 @@ jobs:
       run: |
         python -m pip install --upgrade pip
 
-        # 🔴 Mandatory runtime deps (DO NOT rely on requirement.txt)
+        # 🔴 Mandatory runtime deps (DO NOT rely on requirements.txt)
         pip install requests numpy pytest flake8
 
         # 🟡 Optional project deps
-        if [ -f requirement.txt ]; then
-          pip install -r requirement.txt
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
         else
-          echo "requirement.txt not found — continuing with base deps"
+          echo "requirements.txt not found — continuing with base deps"
         fi
 
     - name: Lint with flake8
