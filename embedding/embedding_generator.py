@@ -24,10 +24,10 @@ def generate_embedding(chunks):
 
             data = response.json()
 
-            if "embedding" not in data:
-                raise ValueError("No embedding returned from Ollama")
+        if "embedding" not in data:
+            raise ValueError("No embedding returned from Ollama")
 
-            embeddings.append(data["embedding"])
+        embeddings.append(data["embedding"])
 
         log(f"generated embeddings for {len(chunks)} chunks")
         print(type(embeddings))
@@ -36,7 +36,7 @@ def generate_embedding(chunks):
 
     except Exception as e:
       print("EMBEDDING ERROR:", e)
-    raise
+      
 
 
 

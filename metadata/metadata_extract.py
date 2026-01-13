@@ -1,10 +1,6 @@
 import  re 
 from  utils.logger  import log
-from  utils.exception import  handle_exception
 log("buliding  the metadata  started")
-import re
-from utils.logger import log
-
 def extract_molecule_id(text):
     match = re.search(r"MOL\d{5}", text)
     return match.group(0) if match else None
