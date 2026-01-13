@@ -1,7 +1,8 @@
 from embedding.embedding_generator import generate_embedding
 from vectorstore.vector_store import FAISSStore
 from metadata.meta_filter import filter_results
-from utils.logger import  log
+from utils.logger import log
+import numpy as np
 
 chunks = [
     "LCMS analysis showed high purity for MOL01234.",
@@ -10,57 +11,36 @@ chunks = [
 ]
 
 metadatas = [
-    {
-        "molecule_id": "MOL01234",
-        "document_type": "experiment",
-        "confidence_level": "validated"
-    },
-    {
-        "molecule_id": "MOL01234",
-        "document_type": "lab_notebook",
-        "confidence_level": "exploratory"
-    },
-    {
-        "molecule_id": "MOL04567",
-        "document_type": "experiment",
-        "confidence_level": "validated"
-    }
+    {"molecule_id": "MOL01234", "document_type": "experiment", "confidence_level": "validated"},
+    {"molecule_id": "MOL01234", "document_type": "lab_notebook", "confidence_level": "exploratory"},
+    {"molecule_id": "MOL04567", "document_type": "experiment", "confidence_level": "validated"}
 ]
 
-import numpy as np
+def run_metadata_pipeline():
+    embeddings = np.asarray(generate_embedding(chunks))
 
-embeddings = generate_embedding(chunks)
+    if embeddings.ndim != 2:
+        raise ValueError(f"Invalid embeddings shape: {embeddings.shape}")
 
-if embeddings is None:
-    raise RuntimeError("generate_embedding returned None")
+    store = FAISSStore(embedding_dim=embeddings.shape[1])
+    store.add_embeddings(embeddings, chunks, metadatas)
 
-embeddings = np.asarray(embeddings)
+    query = "impurity found during experiment"
+    query_embedding = generate_embedding([query])[0]
 
-if embeddings.ndim != 2:
-    raise ValueError(f"Invalid embeddings shape: {embeddings.shape}")
+    results = store.search(query_embedding, top_k=5)
 
-store = FAISSStore(embedding_dim=embeddings.shape[1])
-store.add_embeddings(embeddings, chunks, metadatas)
+    filters = {
+        "molecule_id": "MOL01234",
+        "confidence_level": "validated"
+    }
 
-query = "impurity found during experiment"
-query_embedding = generate_embedding([query])
+    filtered_results = filter_results(results, filters)
 
-if query_embedding is None:
-    raise RuntimeError("Query embedding returned None")
+    for r in filtered_results:
+        print(r)
 
-query_embedding = query_embedding[0]
+    log("metadata filter test completed successfully")
 
-results = store.search(query_embedding, top_k=5)
-
-
-# Apply metadata filter
-filters = {
-    "molecule_id": "molecule_id",
-    "confidence_level": "validated"
-}
-
-filtered_results = filter_results(results, filters)
-
-for r in filtered_results:
-    print(r)
-log("tested the  metadata")
+if __name__ == "__main__":
+    run_metadata_pipeline()
