@@ -32,11 +32,15 @@ jobs:
     - name: Install system dependencies
       run: sudo apt-get update && sudo apt-get install -y libgl1
 
-    - name: Install dependencies
+    - name: Install Python dependencies (SAFE)
       run: |
         python -m pip install --upgrade pip
         pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+        else
+          echo "requirements.txt not found — skipping dependency install"
+        fi
 
     - name: Lint with flake8
       run: |
@@ -54,5 +58,6 @@ jobs:
     - name: Build Docker image
       run: |
         docker build -t pharma-rag-app:latest .
+
 
 
